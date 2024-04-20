@@ -1,0 +1,1610 @@
+
+######################################################################################################################################################
+###																																				   ###
+###															Прилагательные религий																   ###
+###											 Т.к. православие имеет уникальные окончания (ый, ым и др.), 										   ###
+###								 То рекомендуется использовать двойную переменную для исключений, указанных ниже.								   ###
+###												 В иных случаях использовать стандартную форму:													   ###
+###																																				   ###
+###																																				   ###
+###															  Строчными буквами																	   ###
+###												   Пример: "[SER.ReligionADJ]ая держава"						 								   ###
+###										 Отображение: "православная держава", "католическая держава"											   ###
+###																																				   ###
+###															  С прописной буквы						 											   ###
+###												  Пример: "[SER.ReligionADJ_CAP]ая держава"						 								   ###
+###										 Отображение: "Православная держава", "Католическая держава"											   ###
+###																																				   ###
+###																  Мужской род																	   ###
+###						 Именительный (Кто, что?) - "[SER.ReligionADJ][SER.ReligionEndIY]" : "православный", "католический" 	 				   ###
+###						 Творительный (Кем, чем?) - "[SER.ReligionADJ][SER.ReligionEndIM]" : "православным", "католическим"  					   ###
+###																																				   ###
+###																  Средний род																	   ###
+###						 Творительный (Кем, чем?) - "[SER.ReligionADJ][SER.ReligionEndIM]" : "православным", "католическим"  					   ###
+###																																				   ###
+###															  Множественное число																   ###
+###						 Именительный (Кто, что?) - "[SER.ReligionADJ][SER.ReligionEndIE]" : "православные", "католические" 	 				   ###
+###						 Родительный (Кого, чего?) - "[SER.ReligionADJ][SER.ReligionEndIH]" : "православных", "католических" 	 				   ###
+###						 Дательный (Кому, чему?) - "[SER.ReligionADJ][SER.ReligionEndIM]" : "православным", "католическим" 	 					   ###
+###						 Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ 																			   ###
+###						 Творительный (Кем, чем?) - "[SER.ReligionADJ][SER.ReligionEndIMI]" : "православными", "католическими"  				   ###
+###						 Предложный (О ком, о чём?) - "[SER.ReligionADJ][SER.ReligionEndIH]" : "православных", "католических" 	 				   ###
+###																																				   ###
+###												 Локализация в: gks_religion, gks_converter														   ###
+###																																				   ###
+######################################################################################################################################################
+
+######################################################################################################################################################
+###																																				   ###
+###													    Прилагательные религиозных групп														   ###
+###											 Т.к. восточные верования имеют уникальные окончания (ый, ым и др.), 								   ###
+###								 То рекомендуется использовать двойную переменную для исключений, указанных ниже.								   ###
+###												 В иных случаях использовать стандартную форму:													   ###
+###																																				   ###
+###																																				   ###
+###															  Строчными буквами																	   ###
+###												 Пример: "[SER.ReligionGroupADJ]ая держава"						 								   ###
+###										 Отображение: "восточная держава", "Христианская держава"												   ###
+###																																				   ###
+###															  С прописной буквы						 											   ###
+###												Пример: "[SER.ReligionGroupADJ_CAP]ая держава"						 							   ###
+###										 Отображение: "Восточная держава", "Христианская держава"												   ###
+###																																				   ###
+###																  Мужской род																	   ###
+###					 Именительный (Кто, что?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIY]" : "восточный", "христианский" 	 				   ###
+###					 Творительный (Кем, чем?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIM]" : "восточным", "христианским"  				   ###
+###																																				   ###
+###																  Средний род																	   ###
+###					 Творительный (Кем, чем?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIM]" : "восточным", "христианским"  				   ###
+###																																				   ###
+###															  Множественное число																   ###
+###					 Именительный (Кто, что?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIE]" : "восточные", "христианские" 	 				   ###
+###					 Родительный (Кого, чего?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIH]" : "восточных", "христианских" 	 			   ###
+###					 Дательный (Кому, чему?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIM]" : "восточным", "христианским" 	 				   ###
+###					 Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ 																				   ###
+###					 Творительный (Кем, чем?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIMI]" : "восточными", "христианскими"  				   ###
+###					 Предложный (О ком, о чём?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIH]" : "восточных", "христианских" 	 			   ###
+###																																				   ###
+###												 Локализация в: gks_religion, gks_converter														   ###
+###																																				   ###
+######################################################################################################################################################
+
+
+defined_text = {
+    name = ReligionADJ
+    text = {
+        localisation_key = regent_court_ADJ
+        trigger = {
+				religion = regent_court
+		}
+	}
+    text = {
+        localisation_key = corinite_ADJ
+        trigger = {
+				religion = corinite 
+		}
+	}
+    text = {
+        localisation_key = ravelian_ADJ
+        trigger = {
+				religion = ravelian 
+		}
+	}
+    text = {
+        localisation_key = cannorian_pantheon_ADJ
+        trigger = {
+				religion = cannorian_pantheon 
+		}
+	}
+    text = {
+        localisation_key = the_thought_ADJ
+        trigger = {
+				religion = the_thought 
+		}
+	}
+    text = {
+        localisation_key = godlost_ADJ
+        trigger = {
+				religion = godlost 
+		}
+	}
+    text = {
+        localisation_key = kheionism_ADJ
+        trigger = {
+				religion = kheionism 
+		}
+	}
+    text = {
+        localisation_key = black_doctrine_ADJ
+        trigger = {
+				religion = black_doctrine
+		}
+	}
+    text = {
+        localisation_key = elikhetist_ADJ
+        trigger = {
+				religion = elikhetist
+		}
+	}
+    text = {
+        localisation_key = nirakhetist_ADJ
+        trigger = {
+				religion = nirakhetist
+		}
+	}
+
+    text = {
+        localisation_key = aakhetist_ADJ
+        trigger = {
+				religion = aakhetist
+		}
+	}
+    text = {
+        localisation_key = dalcabba_ADJ
+        trigger = {
+				religion = dalcabba 
+		}
+	}
+    text = {
+        localisation_key = xhazobkult_ADJ
+        trigger = {
+				religion = xhazobkult 
+		}
+	}
+    text = {
+        localisation_key = kvangahga_ADJ
+        trigger = {
+				religion = kvangahga 
+		}
+	}
+    text = {
+        localisation_key = ancestor_worship_ADJ
+        trigger = {
+				religion = ancestor_worship 
+		}
+	}
+    text = {
+        localisation_key = dwarven_pantheon_ADJ
+        trigger = {
+				religion = dwarven_pantheon 
+		}
+	}
+    text = {
+        localisation_key = runefather_worship_ADJ
+        trigger = {
+				religion = runefather_worship 
+		}
+	}
+    text = {
+        localisation_key = elven_forebears_ADJ
+        trigger = {
+				religion = elven_forebears 
+		}
+	}
+    text = {
+        localisation_key = soise_vio_ADJ
+        trigger = {
+				religion = soise_vio 
+		}
+	}
+    text = {
+        localisation_key = nur_dahvaraesa_ADJ
+        trigger = {
+				religion = nur_dahvaraesa 
+		}
+	}
+    text = {
+        localisation_key = bulwari_sun_cult_ADJ
+        trigger = {
+				religion = bulwari_sun_cult 
+		}
+	}
+    text = {
+        localisation_key = old_bulwari_sun_cult_ADJ
+        trigger = {
+				religion = old_bulwari_sun_cult 
+		}
+	}
+    text = {
+        localisation_key = the_jadd_ADJ
+        trigger = {
+				religion = the_jadd 
+		}
+	}
+    text = {
+        localisation_key = skaldhyrric_faith_ADJ
+        trigger = {
+				religion = skaldhyrric_faith 
+		}
+	}
+    text = {
+        localisation_key = great_dookan_ADJ
+        trigger = {
+				religion = great_dookan 
+		}
+	}
+    text = {
+        localisation_key = old_dookan_ADJ
+        trigger = {
+				religion = old_dookan 
+		}
+	}
+    text = {
+        localisation_key = bulgu_orazan_ADJ
+        trigger = {
+				religion = bulgu_orazan 
+		}
+	}
+    text = {
+        localisation_key = kobold_dragon_cult_ADJ
+        trigger = {
+				religion = kobold_dragon_cult 
+		}
+	}
+    text = {
+        localisation_key = drozma_tur_ADJ
+        trigger = {
+				religion = drozma_tur 
+		}
+	}
+    text = {
+        localisation_key = kobold_serpent_cult_ADJ
+        trigger = {
+				religion = kobold_serpent_cult 
+		}
+	}
+    text = {
+        localisation_key = goblinic_shamanism_ADJ
+        trigger = {
+				religion = goblinic_shamanism 
+		}
+	}
+    text = {
+        localisation_key = the_hunt_ADJ
+        trigger = {
+				religion = the_hunt 
+		}
+	}
+    text = {
+        localisation_key = weeping_mother_ADJ
+        trigger = {
+				religion = weeping_mother 
+		}
+	}
+    text = {
+        localisation_key = dotimism_ADJ
+        trigger = {
+				religion = dotimism 
+		}
+	}
+    text = {
+        localisation_key = raeldaeriach_ADJ
+        trigger = {
+				religion = raeldaeriach 
+		}
+	}
+    text = {
+        localisation_key = etchings_of_the_deep_ADJ
+        trigger = {
+				religion = etchings_of_the_deep 
+		}
+	}
+    text = {
+        localisation_key = skincarvers_ADJ
+        trigger = {
+				religion = skincarvers 
+		}
+	}
+    text = {
+        localisation_key = death_cult_of_cheshosh_ADJ
+        trigger = {
+				religion = death_cult_of_cheshosh 
+		}
+	}
+    text = {
+        localisation_key = kalun_masks_ADJ
+        trigger = {
+				religion = kalun_masks 
+		}
+	}
+    text = {
+        localisation_key = dai_nadeilhil_ADJ
+        trigger = {
+				religion = dai_nadeilhil 
+		}
+	}
+    text = {
+        localisation_key = jaakaiin_ADJ
+        trigger = {
+				religion = jaakaiin 
+		}
+	}
+    text = {
+        localisation_key = eotomolaque_ADJ
+        trigger = {
+				religion = eotomolaque 
+		}
+	}
+    text = {
+        localisation_key = tswohvwohii_ADJ
+        trigger = {
+				religion = tswohvwohii 
+		}
+	}
+    text = {
+        localisation_key = chahinanito_ADJ
+        trigger = {
+				religion = chahinanito 
+		}
+	}
+    text = {
+        localisation_key = song_servants_ADJ
+        trigger = {
+				religion = song_servants 
+		}
+	}
+    text = {
+        localisation_key = senanset_ADJ
+        trigger = {
+				religion = senanset 
+		}
+	}
+    text = {
+        localisation_key = orwaii_ADJ
+        trigger = {
+				religion = orwaii 
+		}
+	}
+    text = {
+        localisation_key = leechfather_ADJ
+        trigger = {
+				religion = leechfather
+		}
+	}
+    text = {
+        localisation_key = gods_of_the_taychend_ADJ
+        trigger = {
+				religion = gods_of_the_taychend
+		}
+	}
+    text = {
+        localisation_key = gods_of_the_taychend_reformed_ADJ
+        trigger = {
+				religion = gods_of_the_taychend_reformed 
+		}
+	}
+    text = {
+        localisation_key = ynn_river_worship_ADJ
+        trigger = {
+				religion = ynn_river_worship
+		}
+	}
+    text = {
+        localisation_key = ynn_river_reformed_ADJ
+        trigger = {
+				religion = ynn_river_reformed
+		}
+	}
+    text = {
+        localisation_key = rune_scribes_ADJ
+        trigger = {
+				religion = rune_scribes
+		}
+	}
+    text = {
+        localisation_key = mazhthramazh_ADJ
+        trigger = {
+				religion = mazhthramazh
+		}
+	}
+    text = {
+        localisation_key = askaeorg_ADJ
+        trigger = {
+				religion = askaeorg
+		}
+	}
+    text = {
+        localisation_key = fey_court_ADJ
+        trigger = {
+				religion = fey_court
+		}
+	}
+    text = {
+        localisation_key = eordellon_ADJ
+        trigger = {
+				religion = eordellon
+		}
+	}
+    text = {
+        localisation_key = spring_court_ADJ
+        trigger = {
+				religion = spring_court
+		}
+	}
+    text = {
+        localisation_key = summer_court_ADJ
+        trigger = {
+				religion = summer_court
+		}
+	}
+    text = {
+        localisation_key = autumn_court_ADJ
+        trigger = {
+				religion = autumn_court
+		}
+	}
+    text = {
+        localisation_key = winter_court_ADJ
+        trigger = {
+				religion = winter_court
+		}
+	}
+    text = {
+        localisation_key = ashentree_pact_ADJ
+        trigger = {
+				religion = ashentree_pact
+		}
+	}
+    text = {
+        localisation_key = vechnogejzn_ADJ
+        trigger = {
+				religion = vechnogejzn
+		}
+	}
+    text = {
+        localisation_key = pactseeker_ADJ
+        trigger = {
+				religion = pactseeker
+		}
+	}
+    text = {
+        localisation_key = high_philosophy_ADJ
+        trigger = {
+				religion = high_philosophy 
+		}
+	}
+    text = {
+        localisation_key = suhans_praxis_ADJ
+        trigger = {
+				religion = suhans_praxis
+		}
+	}
+    text = {
+        localisation_key = righteous_path_ADJ
+        trigger = {
+				religion = righteous_path
+		}
+	}
+    text = {
+        localisation_key = lefthand_path_ADJ
+        trigger = {
+				religion = lefthand_path
+		}
+	}
+    text = {
+        localisation_key = mystic_accord_ADJ
+        trigger = {
+				religion = mystic_accord
+		}
+	}
+    text = {
+        localisation_key = bangujonsi_ADJ
+        trigger = {
+				religion = bangujonsi
+		}
+	}
+    text = {
+        localisation_key = saanorgegh_ADJ
+        trigger = {
+				religion = saanorgegh
+		}
+	}
+    text = {
+        localisation_key = levaajan_ADJ
+        trigger = {
+				religion = levaajan
+		}
+	}
+    text = {
+        localisation_key = umun_omi_ADJ
+        trigger = {
+				religion = umun_omi
+		}
+	}
+    text = {
+        localisation_key = kodave_followers_ADJ
+        trigger = {
+				religion = kodave_followers
+		}
+	}
+    text = {
+        localisation_key = yukel_followers_ADJ
+        trigger = {
+				religion = yukel_followers
+		}
+	}
+    text = {
+        localisation_key = enuuk_followers_ADJ
+        trigger = {
+				religion = enuuk_followers
+		}
+	}
+    text = {
+        localisation_key = kalyin_worshippers_ADJ
+        trigger = {
+				religion = kalyin_worshippers
+		}
+	}
+    text = {
+        localisation_key = kukatodic_religion_ADJ
+        trigger = {
+				religion = kukatodic_religion
+		}
+	}
+    text = {
+        localisation_key = yudunyovi_ADJ
+        trigger = {
+				religion = yudunyovi 
+		}
+	}
+    text = {
+        localisation_key = feast_of_the_gods_ADJ
+        trigger = {
+				religion = feast_of_the_gods 
+		}
+	}
+    text = {
+        localisation_key = mountain_watchers_ADJ
+        trigger = {
+				religion = mountain_watchers 
+		}
+	}
+    text = {
+        localisation_key = irdaeos_worship_ADJ
+        trigger = {
+				religion = irdaeos_worship
+		}
+	}
+    text = {
+        localisation_key = infernal_court_ADJ
+        trigger = {
+				religion = infernal_court
+		}
+	}
+    text = {
+        localisation_key = nakavy_avo_ADJ
+        trigger = {
+				religion = nakavy_avo
+		}
+	}
+    text = {
+        localisation_key = noukahi_pantheon_ADJ
+        trigger = {
+				religion = noukahi_pantheon
+		}
+	}
+    text = {
+        localisation_key = fangaulan_pantheon_ADJ
+        trigger = {
+				religion = fangaulan_pantheon
+		}
+	}
+    text = {
+        localisation_key = mother_akasik_ADJ
+        trigger = {
+				religion = mother_akasik
+		}
+	}
+    text = {
+        localisation_key = night_coven_ADJ
+        trigger = {
+				religion = night_coven
+		}
+	}
+    text = {
+        localisation_key = shadow_pact_ADJ
+        trigger = {
+				religion = shadow_pact
+		}
+	}
+    text = {
+        localisation_key = anzalkatsa_ADJ
+        trigger = {
+				religion = anzalkatsa
+		}
+	}
+    text = {
+        localisation_key = zaradyrra_ADJ
+        trigger = {
+				religion = zaradyrra
+		}
+	}
+    text = {
+        localisation_key = gotiriei_ADJ
+        trigger = {
+				religion = gotiriei
+		}
+	}
+    text = {
+        localisation_key = sky_domain_ADJ
+        trigger = {
+				religion = sky_domain
+		}
+	}
+    text = {
+        localisation_key = beast_memory_ADJ
+        trigger = {
+				religion = beast_memory 
+		}
+	}
+    text = {
+        localisation_key = rinta_seekers_ADJ
+        trigger = {
+				religion = rinta_seekers
+		}
+	}
+    text = {
+        localisation_key = habab_zar_ADJ
+        trigger = {
+				religion = habab_zar
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionADJ_CAP
+    text = {
+        localisation_key = regent_court_ADJ_CAP
+        trigger = {
+				religion = regent_court
+		}
+	}
+    text = {
+        localisation_key = corinite_ADJ_CAP
+        trigger = {
+				religion = corinite 
+		}
+	}
+    text = {
+        localisation_key = ravelian_ADJ_CAP
+        trigger = {
+				religion = ravelian 
+		}
+	}
+    text = {
+        localisation_key = cannorian_pantheon_ADJ_CAP
+        trigger = {
+				religion = cannorian_pantheon 
+		}
+	}
+    text = {
+        localisation_key = the_thought_ADJ_CAP
+        trigger = {
+				religion = the_thought 
+		}
+	}
+    text = {
+        localisation_key = godlost_ADJ_CAP
+        trigger = {
+				religion = godlost 
+		}
+	}
+    text = {
+        localisation_key = kheionism_ADJ_CAP
+        trigger = {
+				religion = kheionism 
+		}
+	}
+    text = {
+        localisation_key = black_doctrine_ADJ_CAP
+        trigger = {
+				religion = black_doctrine
+		}
+	}
+    text = {
+        localisation_key = elikhetist_ADJ_CAP
+        trigger = {
+				religion = elikhetist
+		}
+	}
+    text = {
+        localisation_key = nirakhetist_ADJ_CAP
+        trigger = {
+				religion = nirakhetist
+		}
+	}
+
+    text = {
+        localisation_key = aakhetist_ADJ_CAP
+        trigger = {
+				religion = aakhetist
+		}
+	}
+    text = {
+        localisation_key = dalcabba_ADJ_CAP
+        trigger = {
+				religion = dalcabba 
+		}
+	}
+    text = {
+        localisation_key = xhazobkult_ADJ_CAP
+        trigger = {
+				religion = xhazobkult 
+		}
+	}
+    text = {
+        localisation_key = kvangahga_ADJ_CAP
+        trigger = {
+				religion = kvangahga 
+		}
+	}
+    text = {
+        localisation_key = ancestor_worship_ADJ_CAP
+        trigger = {
+				religion = ancestor_worship 
+		}
+	}
+    text = {
+        localisation_key = dwarven_pantheon_ADJ_CAP
+        trigger = {
+				religion = dwarven_pantheon 
+		}
+	}
+    text = {
+        localisation_key = runefather_worship_ADJ_CAP
+        trigger = {
+				religion = runefather_worship 
+		}
+	}
+    text = {
+        localisation_key = elven_forebears_ADJ_CAP
+        trigger = {
+				religion = elven_forebears 
+		}
+	}
+    text = {
+        localisation_key = soise_vio_ADJ_CAP
+        trigger = {
+				religion = soise_vio 
+		}
+	}
+    text = {
+        localisation_key = nur_dahvaraesa_ADJ_CAP
+        trigger = {
+				religion = nur_dahvaraesa 
+		}
+	}
+    text = {
+        localisation_key = bulwari_sun_cult_ADJ_CAP
+        trigger = {
+				religion = bulwari_sun_cult 
+		}
+	}
+    text = {
+        localisation_key = old_bulwari_sun_cult_ADJ_CAP
+        trigger = {
+				religion = old_bulwari_sun_cult 
+		}
+	}
+    text = {
+        localisation_key = the_jadd_ADJ_CAP
+        trigger = {
+				religion = the_jadd 
+		}
+	}
+    text = {
+        localisation_key = skaldhyrric_faith_ADJ_CAP
+        trigger = {
+				religion = skaldhyrric_faith 
+		}
+	}
+    text = {
+        localisation_key = great_dookan_ADJ_CAP
+        trigger = {
+				religion = great_dookan 
+		}
+	}
+    text = {
+        localisation_key = old_dookan_ADJ_CAP
+        trigger = {
+				religion = old_dookan 
+		}
+	}
+    text = {
+        localisation_key = bulgu_orazan_ADJ_CAP
+        trigger = {
+				religion = bulgu_orazan 
+		}
+	}
+    text = {
+        localisation_key = kobold_dragon_cult_ADJ_CAP
+        trigger = {
+				religion = kobold_dragon_cult 
+		}
+	}
+    text = {
+        localisation_key = drozma_tur_ADJ_CAP
+        trigger = {
+				religion = drozma_tur 
+		}
+	}
+    text = {
+        localisation_key = kobold_serpent_cult_ADJ_CAP
+        trigger = {
+				religion = kobold_serpent_cult 
+		}
+	}
+    text = {
+        localisation_key = goblinic_shamanism_ADJ_CAP
+        trigger = {
+				religion = goblinic_shamanism 
+		}
+	}
+    text = {
+        localisation_key = the_hunt_ADJ_CAP
+        trigger = {
+				religion = the_hunt 
+		}
+	}
+    text = {
+        localisation_key = weeping_mother_ADJ_CAP
+        trigger = {
+				religion = weeping_mother 
+		}
+	}
+    text = {
+        localisation_key = dotimism_ADJ_CAP
+        trigger = {
+				religion = dotimism 
+		}
+	}
+    text = {
+        localisation_key = raeldaeriach_ADJ_CAP
+        trigger = {
+				religion = raeldaeriach 
+		}
+	}
+    text = {
+        localisation_key = etchings_of_the_deep_ADJ_CAP
+        trigger = {
+				religion = etchings_of_the_deep 
+		}
+	}
+    text = {
+        localisation_key = skincarvers_ADJ_CAP
+        trigger = {
+				religion = skincarvers 
+		}
+	}
+    text = {
+        localisation_key = death_cult_of_cheshosh_ADJ_CAP
+        trigger = {
+				religion = death_cult_of_cheshosh 
+		}
+	}
+    text = {
+        localisation_key = kalun_masks_ADJ_CAP
+        trigger = {
+				religion = kalun_masks 
+		}
+	}
+    text = {
+        localisation_key = dai_nadeilhil_ADJ_CAP
+        trigger = {
+				religion = dai_nadeilhil 
+		}
+	}
+    text = {
+        localisation_key = jaakaiin_ADJ_CAP
+        trigger = {
+				religion = jaakaiin 
+		}
+	}
+    text = {
+        localisation_key = eotomolaque_ADJ_CAP
+        trigger = {
+				religion = eotomolaque 
+		}
+	}
+    text = {
+        localisation_key = tswohvwohii_ADJ_CAP
+        trigger = {
+				religion = tswohvwohii 
+		}
+	}
+    text = {
+        localisation_key = chahinanito_ADJ_CAP
+        trigger = {
+				religion = chahinanito 
+		}
+	}
+    text = {
+        localisation_key = song_servants_ADJ_CAP
+        trigger = {
+				religion = song_servants 
+		}
+	}
+    text = {
+        localisation_key = senanset_ADJ_CAP
+        trigger = {
+				religion = senanset 
+		}
+	}
+    text = {
+        localisation_key = orwaii_ADJ_CAP
+        trigger = {
+				religion = orwaii 
+		}
+	}
+    text = {
+        localisation_key = leechfather_ADJ_CAP
+        trigger = {
+				religion = leechfather
+		}
+	}
+    text = {
+        localisation_key = gods_of_the_taychend_ADJ_CAP
+        trigger = {
+				religion = gods_of_the_taychend
+		}
+	}
+    text = {
+        localisation_key = gods_of_the_taychend_reformed_ADJ_CAP
+        trigger = {
+				religion = gods_of_the_taychend_reformed 
+		}
+	}
+    text = {
+        localisation_key = ynn_river_worship_ADJ_CAP
+        trigger = {
+				religion = ynn_river_worship
+		}
+	}
+    text = {
+        localisation_key = ynn_river_reformed_ADJ_CAP
+        trigger = {
+				religion = ynn_river_reformed
+		}
+	}
+    text = {
+        localisation_key = rune_scribes_ADJ_CAP
+        trigger = {
+				religion = rune_scribes
+		}
+	}
+    text = {
+        localisation_key = mazhthramazh_ADJ_CAP
+        trigger = {
+				religion = mazhthramazh
+		}
+	}
+    text = {
+        localisation_key = askaeorg_ADJ_CAP
+        trigger = {
+				religion = askaeorg
+		}
+	}
+    text = {
+        localisation_key = fey_court_ADJ_CAP
+        trigger = {
+				religion = fey_court
+		}
+	}
+    text = {
+        localisation_key = eordellon_ADJ_CAP
+        trigger = {
+				religion = eordellon
+		}
+	}
+    text = {
+        localisation_key = spring_court_ADJ_CAP
+        trigger = {
+				religion = spring_court
+		}
+	}
+    text = {
+        localisation_key = summer_court_ADJ_CAP
+        trigger = {
+				religion = summer_court
+		}
+	}
+    text = {
+        localisation_key = autumn_court_ADJ_CAP
+        trigger = {
+				religion = autumn_court
+		}
+	}
+    text = {
+        localisation_key = winter_court_ADJ_CAP
+        trigger = {
+				religion = winter_court
+		}
+	}
+    text = {
+        localisation_key = ashentree_pact_ADJ_CAP
+        trigger = {
+				religion = ashentree_pact
+		}
+	}
+    text = {
+        localisation_key = vechnogejzn_ADJ_CAP
+        trigger = {
+				religion = vechnogejzn
+		}
+	}
+    text = {
+        localisation_key = pactseeker_ADJ_CAP
+        trigger = {
+				religion = pactseeker
+		}
+	}
+    text = {
+        localisation_key = high_philosophy_ADJ_CAP
+        trigger = {
+				religion = high_philosophy 
+		}
+	}
+    text = {
+        localisation_key = suhans_praxis_ADJ_CAP
+        trigger = {
+				religion = suhans_praxis
+		}
+	}
+    text = {
+        localisation_key = righteous_path_ADJ_CAP
+        trigger = {
+				religion = righteous_path
+		}
+	}
+    text = {
+        localisation_key = lefthand_path_ADJ_CAP
+        trigger = {
+				religion = lefthand_path
+		}
+	}
+    text = {
+        localisation_key = mystic_accord_ADJ_CAP
+        trigger = {
+				religion = mystic_accord
+		}
+	}
+    text = {
+        localisation_key = bangujonsi_ADJ_CAP
+        trigger = {
+				religion = bangujonsi
+		}
+	}
+    text = {
+        localisation_key = saanorgegh_ADJ_CAP
+        trigger = {
+				religion = saanorgegh
+		}
+	}
+    text = {
+        localisation_key = levaajan_ADJ_CAP
+        trigger = {
+				religion = levaajan
+		}
+	}
+    text = {
+        localisation_key = umun_omi_ADJ_CAP
+        trigger = {
+				religion = umun_omi
+		}
+	}
+    text = {
+        localisation_key = kodave_followers_ADJ_CAP
+        trigger = {
+				religion = kodave_followers
+		}
+	}
+    text = {
+        localisation_key = yukel_followers_ADJ_CAP
+        trigger = {
+				religion = yukel_followers
+		}
+	}
+    text = {
+        localisation_key = enuuk_followers_ADJ_CAP
+        trigger = {
+				religion = enuuk_followers
+		}
+	}
+    text = {
+        localisation_key = kalyin_worshippers_ADJ_CAP
+        trigger = {
+				religion = kalyin_worshippers
+		}
+	}
+    text = {
+        localisation_key = kukatodic_religion_ADJ_CAP
+        trigger = {
+				religion = kukatodic_religion
+		}
+	}
+    text = {
+        localisation_key = yudunyovi_ADJ_CAP
+        trigger = {
+				religion = yudunyovi 
+		}
+	}
+    text = {
+        localisation_key = feast_of_the_gods_ADJ_CAP
+        trigger = {
+				religion = feast_of_the_gods 
+		}
+	}
+    text = {
+        localisation_key = mountain_watchers_ADJ_CAP
+        trigger = {
+				religion = mountain_watchers 
+		}
+	}
+    text = {
+        localisation_key = irdaeos_worship_ADJ_CAP
+        trigger = {
+				religion = irdaeos_worship
+		}
+	}
+    text = {
+        localisation_key = infernal_court_ADJ_CAP
+        trigger = {
+				religion = infernal_court
+		}
+	}
+    text = {
+        localisation_key = nakavy_avo_ADJ_CAP
+        trigger = {
+				religion = nakavy_avo
+		}
+	}
+    text = {
+        localisation_key = noukahi_pantheon_ADJ_CAP
+        trigger = {
+				religion = noukahi_pantheon
+		}
+	}
+    text = {
+        localisation_key = fangaulan_pantheon_ADJ_CAP
+        trigger = {
+				religion = fangaulan_pantheon
+		}
+	}
+    text = {
+        localisation_key = mother_akasik_ADJ_CAP
+        trigger = {
+				religion = mother_akasik
+		}
+	}
+    text = {
+        localisation_key = night_coven_ADJ_CAP
+        trigger = {
+				religion = night_coven
+		}
+	}
+    text = {
+        localisation_key = shadow_pact_ADJ_CAP
+        trigger = {
+				religion = shadow_pact
+		}
+	}
+    text = {
+        localisation_key = anzalkatsa_ADJ_CAP
+        trigger = {
+				religion = anzalkatsa
+		}
+	}
+    text = {
+        localisation_key = zaradyrra_ADJ_CAP
+        trigger = {
+				religion = zaradyrra
+		}
+	}
+    text = {
+        localisation_key = gotiriei_ADJ_CAP
+        trigger = {
+				religion = gotiriei
+		}
+	}
+    text = {
+        localisation_key = sky_domain_ADJ_CAP
+        trigger = {
+				religion = sky_domain
+		}
+	}
+    text = {
+        localisation_key = beast_memory_ADJ_CAP
+        trigger = {
+				religion = beast_memory 
+		}
+	}
+    text = {
+        localisation_key = rinta_seekers_ADJ_CAP
+        trigger = {
+				religion = rinta_seekers
+		}
+	}
+    text = {
+        localisation_key = habab_zar_ADJ_CAP
+        trigger = {
+				religion = habab_zar
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupADJ
+    text = {
+        localisation_key = cannorian_ADJ
+        trigger = {
+				religion_group = cannorian
+		}
+	}
+    text = {
+        localisation_key = faithless_ADJ
+        trigger = {
+				religion_group = faithless
+		}
+	}
+    text = {
+        localisation_key = khetist_ADJ
+        trigger = {
+				religion_group = khetist
+		}
+	}
+    text = {
+        localisation_key = gnollish_ADJ
+        trigger = {
+				religion_group = gnollish
+		}
+	}    text = {
+        localisation_key = dwarven_ADJ
+        trigger = {
+				religion_group = dwarven
+		}
+	}
+    text = {
+        localisation_key = elven_ADJ
+        trigger = {
+				religion_group = elven
+		}
+	}
+    text = {
+        localisation_key = bulwari_ADJ
+        trigger = {
+				religion_group = bulwari
+		}
+	}
+    text = {
+        localisation_key = gerudian_ADJ
+        trigger = {
+				religion_group = gerudian
+		}
+	}
+    text = {
+        localisation_key = orcish_ADJ
+        trigger = {
+				religion_group = orcish
+		}
+	}
+    text = {
+        localisation_key = dragon_cult_ADJ
+        trigger = {
+				religion_group = dragon_cult
+		}
+	}
+    text = {
+        localisation_key = goblin_ADJ
+        trigger = {
+				religion_group = goblin
+		}
+	}
+    text = {
+        localisation_key = harpy_cults_ADJ
+        trigger = {
+				religion_group = harpy_cults
+		}
+	}
+    text = {
+        localisation_key = aelantiri_ADJ
+        trigger = {
+				religion_group = aelantiri
+		}
+	}
+    text = {
+        localisation_key = cheshoshi_religion_ADJ
+        trigger = {
+				religion_group = cheshoshi_religion
+		}
+	}
+    text = {
+        localisation_key = harafic_ADJ
+        trigger = {
+				religion_group = harafic
+		}
+	}
+    text = {
+        localisation_key = taychendi_ADJ
+        trigger = {
+				religion_group = effelai
+		}
+	}	
+    text = {
+        localisation_key = ynnic_ADJ
+        trigger = {
+				religion_group = taychendi
+		}
+	}	
+    text = {
+        localisation_key = harafic_ADJ
+        trigger = {
+				religion_group = ynnic
+		}
+	}	
+    text = {
+        localisation_key = devandi_ADJ
+        trigger = {
+				religion_group = devandi
+		}
+	}
+    text = {
+        localisation_key = fey_religion_ADJ
+        trigger = {
+				religion_group = fey_religion
+		}
+	}
+    text = {
+        localisation_key = raheni_ADJ
+        trigger = {
+				religion_group = raheni
+		}
+	}
+    text = {
+        localisation_key = halessi_ADJ
+        trigger = {
+				religion_group = halessi
+		}
+	}
+    text = {
+        localisation_key = triunic_lake_ADJ
+        trigger = {
+				religion_group = triunic_lake
+		}
+	}
+    text = {
+        localisation_key = giantkin_ADJ
+        trigger = {
+				religion_group = giantkin
+		}
+	}
+    text = {
+        localisation_key = centaur_religion_ADJ
+        trigger = {
+				religion_group = centaur_religion 
+		}
+	}
+    text = {
+        localisation_key = infernal_religion_ADJ
+        trigger = {
+				religion_group = infernal_religion
+		}
+	}
+    text = {
+        localisation_key = tanibic_religion_ADJ
+        trigger = {
+				religion_group = tanibic_religion
+		}
+	}
+    text = {
+        localisation_key = hag_religion_ADJ
+        trigger = {
+				religion_group = hag_religion
+		}
+	}
+    text = {
+        localisation_key = lizardfolk_religion_ADJ
+        trigger = {
+				religion_group = lizardfolk_religion
+		}
+	}
+    text = {
+        localisation_key = eltibhen_religion_ADJ
+        trigger = {
+				religion_group = eltibhen_religion
+		}
+	}
+    text = {
+        localisation_key = east_sarhal_religion_ADJ
+        trigger = {
+				religion_group = east_sarhal_religion
+		}
+	}
+}
+defined_text = {
+    name = ReligionGroupADJ_CAP
+    text = {
+        localisation_key = cannorian_ADJ_CAP
+        trigger = {
+				religion_group = cannorian
+		}
+	}
+    text = {
+        localisation_key = faithless_ADJ_CAP
+        trigger = {
+				religion_group = faithless
+		}
+	}
+    text = {
+        localisation_key = khetist_ADJ_CAP
+        trigger = {
+				religion_group = khetist
+		}
+	}
+    text = {
+        localisation_key = gnollish_ADJ_CAP
+        trigger = {
+				religion_group = gnollish
+		}
+	}    text = {
+        localisation_key = dwarven_ADJ_CAP
+        trigger = {
+				religion_group = dwarven
+		}
+	}
+    text = {
+        localisation_key = elven_ADJ_CAP
+        trigger = {
+				religion_group = elven
+		}
+	}
+    text = {
+        localisation_key = bulwari_ADJ_CAP
+        trigger = {
+				religion_group = bulwari
+		}
+	}
+    text = {
+        localisation_key = gerudian_ADJ_CAP
+        trigger = {
+				religion_group = gerudian
+		}
+	}
+    text = {
+        localisation_key = orcish_ADJ_CAP
+        trigger = {
+				religion_group = orcish
+		}
+	}
+    text = {
+        localisation_key = dragon_cult_ADJ_CAP
+        trigger = {
+				religion_group = dragon_cult
+		}
+	}
+    text = {
+        localisation_key = goblin_ADJ_CAP
+        trigger = {
+				religion_group = goblin
+		}
+	}
+    text = {
+        localisation_key = harpy_cults_ADJ_CAP
+        trigger = {
+				religion_group = harpy_cults
+		}
+	}
+    text = {
+        localisation_key = aelantiri_ADJ_CAP
+        trigger = {
+				religion_group = aelantiri
+		}
+	}
+    text = {
+        localisation_key = cheshoshi_religion_ADJ_CAP
+        trigger = {
+				religion_group = cheshoshi_religion
+		}
+	}
+    text = {
+        localisation_key = harafic_ADJ_CAP
+        trigger = {
+				religion_group = harafic
+		}
+	}
+    text = {
+        localisation_key = taychendi_ADJ_CAP
+        trigger = {
+				religion_group = effelai
+		}
+	}	
+    text = {
+        localisation_key = ynnic_ADJ_CAP
+        trigger = {
+				religion_group = taychendi
+		}
+	}	
+    text = {
+        localisation_key = harafic_ADJ_CAP
+        trigger = {
+				religion_group = ynnic
+		}
+	}	
+    text = {
+        localisation_key = devandi_ADJ_CAP
+        trigger = {
+				religion_group = devandi
+		}
+	}
+    text = {
+        localisation_key = fey_religion_ADJ_CAP
+        trigger = {
+				religion_group = fey_religion
+		}
+	}
+    text = {
+        localisation_key = raheni_ADJ_CAP
+        trigger = {
+				religion_group = raheni
+		}
+	}
+    text = {
+        localisation_key = halessi_ADJ_CAP
+        trigger = {
+				religion_group = halessi
+		}
+	}
+    text = {
+        localisation_key = triunic_lake_ADJ_CAP
+        trigger = {
+				religion_group = triunic_lake
+		}
+	}
+    text = {
+        localisation_key = giantkin_ADJ_CAP
+        trigger = {
+				religion_group = giantkin
+		}
+	}
+    text = {
+        localisation_key = centaur_religion_ADJ_CAP
+        trigger = {
+				religion_group = centaur_religion 
+		}
+	}
+    text = {
+        localisation_key = infernal_religion_ADJ_CAP
+        trigger = {
+				religion_group = infernal_religion
+		}
+	}
+    text = {
+        localisation_key = tanibic_religion_ADJ_CAP
+        trigger = {
+				religion_group = tanibic_religion
+		}
+	}
+    text = {
+        localisation_key = hag_religion_ADJ_CAP
+        trigger = {
+				religion_group = hag_religion
+		}
+	}
+    text = {
+        localisation_key = lizardfolk_religion_ADJ_CAP
+        trigger = {
+				religion_group = lizardfolk_religion
+		}
+	}
+    text = {
+        localisation_key = eltibhen_religion_ADJ_CAP
+        trigger = {
+				religion_group = eltibhen_religion
+		}
+	}
+    text = {
+        localisation_key = east_sarhal_religion_ADJ_CAP
+        trigger = {
+				religion_group = east_sarhal_religion
+		}
+	}
+}

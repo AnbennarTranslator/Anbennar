@@ -12152,8 +12152,10 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = B20
-			has_reform = adventurer_reform
+			AND = {			
+				tag = B20
+				has_reform = adventurer_reform
+			}
 		}
 	}
 		text = {
@@ -12162,8 +12164,10 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = B20
-			has_reform = adventurer_reform
+			AND = {			
+				tag = B20
+				has_reform = adventurer_reform
+			}
 		}
 	}
 	#adventurer_sword_covenant
@@ -12173,8 +12177,10 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = B19
-			has_reform = adventurer_reform
+			AND = {				
+				tag = B19
+				has_reform = adventurer_reform
+			}
 		}
 	}
 		text = {
@@ -12183,8 +12189,10 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = B19
-			has_reform = adventurer_reform
+			AND = {				
+				tag = B19
+				has_reform = adventurer_reform
+			}
 		}
 	}
 	#smallcountry_free_republic
@@ -12194,8 +12202,10 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = A97
-			government = republic
+			AND = {				
+				tag = A97
+				government = republic
+			}
 		}
 	}
 	text = {
@@ -12204,8 +12214,10 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			tag = A97
-			government = republic
+			AND = {				
+				tag = A97
+				government = republic
+			}
 		}
 	}
 	text = {
@@ -12213,8 +12225,10 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
-			tag = A97
-			government = republic
+			AND = {				
+				tag = A97
+				government = republic
+			}
 		}
 	}
 
@@ -12224,8 +12238,10 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			tag = A97
-			government = republic
+			AND = {				
+				tag = A97
+				government = republic
+			}
 		}
 	}
 	text = {
@@ -12234,8 +12250,10 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			tag = A97
-			government = republic
+			AND = {				
+				tag = A97
+				government = republic
+			}
 		}
 	}
 	text = {
@@ -12243,8 +12261,10 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
-			tag = A97
-			government = republic
+			AND = {				
+				tag = A97
+				government = republic
+			}
 		}
 	}
  #tellum_free_city	
@@ -20673,6 +20693,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			has_adventurer_reform = no
 			OR = {
 				has_reform = secular_order_reform
 				has_reform = monastic_order_reform
@@ -20686,6 +20707,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			has_adventurer_reform = no			
 			OR = {
 				has_reform = secular_order_reform
 				has_reform = monastic_order_reform
@@ -20698,6 +20720,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			has_adventurer_reform = no			
 			OR = {
 				has_reform = secular_order_reform
 				has_reform = monastic_order_reform
@@ -20712,6 +20735,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			has_adventurer_reform = no			
 			OR = {
 				has_reform = secular_order_reform
 				has_reform = monastic_order_reform
@@ -20725,6 +20749,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			has_adventurer_reform = no			
 			OR = {
 				has_reform = secular_order_reform
 				has_reform = monastic_order_reform
@@ -20737,6 +20762,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			has_adventurer_reform = no			
 			OR = {
 				has_reform = secular_order_reform
 				has_reform = monastic_order_reform
@@ -20751,6 +20777,12 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			NOT = {
+				OR = {
+					has_estate_privilege = estate_mages_organization_magisterium
+					tag = A85
+				}
+			}
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -20761,6 +20793,12 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			NOT = {
+				OR = {
+					has_estate_privilege = estate_mages_organization_magisterium
+					tag = A85
+				}
+			}			
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -20770,6 +20808,12 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
+			NOT = {
+				OR = {
+					has_estate_privilege = estate_mages_organization_magisterium
+					tag = A85
+				}
+			}			
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -20781,6 +20825,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			NOT = {
+				OR = {
+					has_estate_privilege = estate_mages_organization_magisterium
+					tag = A85
+				}
+			}			
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -20791,6 +20841,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			NOT = {
+				OR = {
+					has_estate_privilege = estate_mages_organization_magisterium
+					tag = A85
+				}
+			}			
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -20800,6 +20856,12 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			NOT = {
+				OR = {
+					has_estate_privilege = estate_mages_organization_magisterium
+					tag = A85
+				}
+			}			
 			government = theocracy
 			religion_group = cannorian
 		}
@@ -22797,6 +22859,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			has_adventurer_reform = no			
 			is_part_of_hre = no
 			government = republic
 		}
@@ -22807,6 +22870,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			has_adventurer_reform = no				
 			is_part_of_hre = no
 			government = republic
 		}
@@ -22816,6 +22880,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3
+			has_adventurer_reform = no				
 			is_part_of_hre = no
 			government = republic
 		}
@@ -22827,6 +22892,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
+			has_adventurer_reform = no				
 			is_part_of_hre = no
 			government = republic
 		}
@@ -22837,6 +22903,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
+			has_adventurer_reform = no				
 			is_part_of_hre = no
 			government = republic
 		}
@@ -22846,73 +22913,74 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
+			has_adventurer_reform = no				
 			is_part_of_hre = no
 			government = republic
 		}
 	}	
 #default_theocracy	
-	text = {
-		localisation_key = HIGH_PRIEST_RD
-		trigger = {
-			is_female = no
-			government_rank = 1 
-			NOT = { government_rank = 2 }
-			is_part_of_hre = no
-			government = theocracy
-		}
-	}
-	text = {
-		localisation_key = HIGH_PRIEST_RD
-		trigger = {
-			is_female = no
-			government_rank = 2 
-			NOT = { government_rank = 3 }
-			is_part_of_hre = no
-			government = theocracy
-		}
-	}
-	text = {
-		localisation_key = HIGH_PRIEST_RD
-		trigger = {
-			is_female = no
-			government_rank = 3 
-			is_part_of_hre = no
-			government = theocracy
-		}
-	}
-
-	text = {
-		localisation_key = HIGH_PRIESTESS_RD
-		trigger = {
-			is_female = yes
-			government_rank = 1 
-			NOT = { government_rank = 2 }
-			NOT = { has_reform = one_xia }
-			is_part_of_hre = no
-			government = theocracy
-		}
-	}
-	text = {
-		localisation_key = HIGH_PRIESTESS_RD
-		trigger = {
-			is_female = yes
-			government_rank = 2 
-			NOT = { government_rank = 3 }
-			NOT = { has_reform = one_xia }
-			is_part_of_hre = no
-			government = theocracy
-		}
-	}
-	text = {
-		localisation_key = HIGH_PRIESTESS_RD
-		trigger = {
-			is_female = yes
-			government_rank = 3 
-			NOT = { has_reform = one_xia }
-			is_part_of_hre = no
-			government = theocracy
-		}
-	}
+#	text = {
+#		localisation_key = HIGH_PRIEST_RD
+#		trigger = {
+#			is_female = no
+#			government_rank = 1 
+#			NOT = { government_rank = 2 }
+#			is_part_of_hre = no
+#			government = theocracy
+#		}
+#	}
+#	text = {
+#		localisation_key = HIGH_PRIEST_RD
+#		trigger = {
+#			is_female = no
+#			government_rank = 2 
+#			NOT = { government_rank = 3 }
+#			is_part_of_hre = no
+#			government = theocracy
+#		}
+#	}
+#	text = {
+#		localisation_key = HIGH_PRIEST_RD
+#		trigger = {
+#			is_female = no
+#			government_rank = 3 
+#			is_part_of_hre = no
+#			government = theocracy
+#		}
+#	}
+#
+#	text = {
+#		localisation_key = HIGH_PRIESTESS_RD
+#		trigger = {
+#			is_female = yes
+#			government_rank = 1 
+#			NOT = { government_rank = 2 }
+#			NOT = { has_reform = one_xia }
+#			is_part_of_hre = no
+#			government = theocracy
+#		}
+#	}
+#	text = {
+#		localisation_key = HIGH_PRIESTESS_RD
+#		trigger = {
+#			is_female = yes
+#			government_rank = 2 
+#			NOT = { government_rank = 3 }
+#			NOT = { has_reform = one_xia }
+#			is_part_of_hre = no
+#			government = theocracy
+#		}
+#	}
+#	text = {
+#		localisation_key = HIGH_PRIESTESS_RD
+#		trigger = {
+#			is_female = yes
+#			government_rank = 3 
+#			NOT = { has_reform = one_xia }
+#			is_part_of_hre = no
+#			government = theocracy
+#		}
+#	}
 #default_tribal	
 	text = {
 		localisation_key = CHIEF_RD

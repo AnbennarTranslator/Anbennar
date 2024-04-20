@@ -1,0 +1,104 @@
+﻿########################################
+# LOC_VER_1.16.1_15.11.2023_v01: CBT7to8_1.36.1 CP: UTF-8-BOM
+# TIMESTAMP: 15.11.2023 22:01:15
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+#Ð®ª¥ª¾ ¢ ¦ª²®¿°¯ ±¦¨
+ regent_court_name_RD:0 "¥°²¬¥ ¦¢" #ReligionRD
+ corinite_name_RD:0 "¬ª°ª²²¢" #ReligionRD
+ ravelian_name_RD:0 "¢®ª°²¢" #ReligionRD
+ cannorian_pantheon_name_RD:0 "¬°°¬¥ ±°²°" #ReligionRD
+ the_thought_name_RD:0 "¯º®ª" #ReligionRD
+ godlost_name_RD:0 "²ž¬Œª¾" #ReligionRD
+ kheionism_name_RD:0 "þ°ª©¯" #ReligionRD
+ black_doctrine_name_RD:0 "¶ž°þ ¦¬²ª°º" #ReligionRD
+ elikhetist_name_RD:0 "¼®ª¬²ª©¯" #ReligionRD
+ nirakhetist_name_RD:0 "°ª¬²ª©¯" #ReligionRD
+ aakhetist_name_RD:0 "¬²ª©¯" #ReligionRD
+ dalcabba_name_RD:0 "¦®¬¡¡º" #ReligionRD
+ xhazobkult_name_RD:0 "©¡¬³®¿²" #ReligionRD
+ kvangahga_name_RD:0 "¬¢°¥¥º" #ReligionRD
+ ancestor_worship_name_RD:0 "±¬®°°ª¾ ±¦¬¯" #ReligionRD
+ dwarven_pantheon_name_RD:0 "¦¢´ªþ¬¥ ±°²°" #ReligionRD
+ runefather_worship_name_RD:0 "±¬®°°ª¾ Ð³°²µ³" #ReligionRD
+ elven_forebears_name_RD:0 "±¦¬¢ ¼®¿´¢" #ReligionRD
+ soise_vio_name_RD:0 "³© ¢ª" #ReligionRD
+ nur_dahvaraesa_name_RD:0 "°³ ¦¢º" #ReligionRD
+ bulwari_sun_cult_name_RD:0 "°¢¥ ¬³®¿² Ô®°µ" #ReligionRD
+ old_bulwari_sun_cult_name_RD:0 "²¥ ¬³®¿² Ô®°µ" #ReligionRD
+ the_jadd_name_RD:0 "¦¨¦¦" #ReligionRD
+ skaldhyrric_faith_name_RD:0 "¬®¿¦¥ª¬þ ¢º" #ReligionRD
+ great_dookan_name_RD:0 "¢®ª¬¥ ƒ³¬°" #ReligionRD
+ old_dookan_name_RD:0 "²¥ ƒ³¬°" #ReligionRD
+ bulgu_orazan_name_RD:0 "¡³®¥³ ©°" #ReligionRD
+ kobold_dragon_cult_name_RD:0 "¦¬°¿¥ ¬³®¿² ¬¡®¿¦¢" #ReligionRD
+ drozma_tur_name_RD:0 "¦©¯ ²³" #ReligionRD
+ kobold_serpent_cult_name_RD:0 "©¯ª°¥ ¬³®¿² ¬¡®¿¦¢" #ReligionRD
+ goblinic_shamanism_name_RD:0 "¥¡®ª°¬¥ Œ¯°ª©¯" #ReligionRD
+ the_hunt_name_RD:0 "²º" #ReligionRD
+ weeping_mother_name_RD:0 "±®¶³¸þ ¯²ª" #ReligionRD
+ dotimism_name_RD:0 "¦¡°¦²ª²" #ReligionRD
+ raeldaeriach_name_RD:0 "¼®¦ª" #ReligionRD
+ etchings_of_the_deep_name_RD:0 "´² ¥®³¡ª°º" #ReligionRD
+ skincarvers_name_RD:0 "Œ¬³©¢" #ReligionRD
+ death_cult_of_cheshosh_name_RD:0 "¬³®¿² ¯²ª ÌŒŒ" #ReligionRD
+ kalun_masks_name_RD:0 "¬®³°-¯¬" #ReligionRD
+ dai_nadeilhil_name_RD:0 "¦þ'°¦þ®ª®" #ReligionRD
+ jaakaiin_name_RD:0 "¦¨'¬þª°" #ReligionRD
+ eotomolaque_name_RD:0 "¼²¯®¬" #ReligionRD
+ tswohvwohii_name_RD:0 "µ¢ox¢ox'ª¾" #ReligionRD
+ chahinanito_name_RD:0 "¶ª°°ª²" #ReligionRD
+ song_servants_name_RD:0 "®³¨ª²e®þ ±ec°ª" #ReligionRD
+ senanset_name_RD:0 "°°²" #ReligionRD
+ orwaii_name_RD:0 "p¢a'ª¾" #ReligionRD
+ leechfather_name_RD:0 "²µ-±ª¾¢¬ª" #ReligionRD
+ gods_of_the_taychend_name_RD:0 "²þ¶°¦¬ª ¬³®¿²¢ ¥¾" #ReligionRD
+ gods_of_the_taychend_reformed_name_RD:0 "±¬®°°ª¾ ²þ¶°¦¬ª¯ ¥¾¯" #ReligionRD
+ ynn_river_worship_name_RD:0 "±o¬®o°e°ª¾ e¬e †°°" #ReligionRD
+ ynn_river_reformed_name_RD:0 "¢³¶°ª¾ ¬ª †°°" #ReligionRD
+ rune_scribes_name_RD:0 "³°°º ±ªµ¢" #ReligionRD
+ mazhthramazh_name_RD:0 "¯¨²¯Œ" #ReligionRD
+ askaeorg_name_RD:0 "¬¥" #ReligionRD
+ fey_court_name_RD:0 "¦¢ ´þ" #ReligionRD
+ eordellon_name_RD:0 "¼op¦e®®o°" #ReligionRD
+ spring_court_name_RD:0 "¢ece°°¥ ¦¢op" #ReligionRD
+ summer_court_name_RD:0 "®e²°¥ ¦¢op" #ReligionRD
+ autumn_court_name_RD:0 "ce°°¥ ¦¢op" #ReligionRD
+ winter_court_name_RD:0 "©ª¯°¥ ¦¢op" #ReligionRD
+ ashentree_pact_name_RD:0 "±¬² ‰±®¿°¥ ¦¢" #ReligionRD
+ vechnogejzn_name_RD:0 "¢¶°¥þ©°" #ReligionRD
+ pactseeker_name_RD:0 "ª¬²®¾ ¦¥¢" #ReligionRD
+ high_philosophy_name_RD:0 "¢º¬þ ´ª®´ªª" #ReligionRD
+ suhans_praxis_name_RD:0 "±¬²ª¬ Ô³°" #ReligionRD
+ righteous_path_name_RD:0 "±¢¦°¥ ±³²ª" #ReligionRD
+ lefthand_path_name_RD:0 "±³²ª ®¢þ ³¬ª" #ReligionRD
+ mystic_accord_name_RD:0 "¯ª²ª¶¬¥ ¥®Œ°ª¾" #ReligionRD
+ bangujonsi_name_RD:0 "¡°¥³¦¨°ª" #ReligionRD
+ saanorgegh_name_RD:0 "°¥" #ReligionRD
+ levaajan_name_RD:0 "®¢¦¨°" #ReligionRD
+ umun_omi_name_RD:0 "³¯³° ¯ª" #ReligionRD
+ kodave_followers_name_RD:0 "±®¦¢²®þ ¦¢" #ReligionRD
+ yukel_followers_name_RD:0 "±®¦¢²®þ ›¬®¿" #ReligionRD
+ enuuk_followers_name_RD:0 "±®¦¢²®þ ™°³³¬" #ReligionRD
+ kalyin_worshippers_name_RD:0 "±¬®°¾½¸ª¾ ®ºª°" #ReligionRD
+ kukatodic_religion_name_RD:0 "¯žþµ®ª³¬" #ReligionRD
+ yudunyovi_name_RD:0 "½¦³°¿¢ª" #ReligionRD
+ feast_of_the_gods_name_RD:0 "±ª ¡¥¢" #ReligionRD
+ mountain_watchers_name_RD:0 "¥°º ¯²ª²®þ" #ReligionRD
+ irdaeos_worship_name_RD:0 "±¬®°°ª¾ †¦¼³" #ReligionRD
+ infernal_court_name_RD:0 "°ª©Œ¥ ¦¢" #ReligionRD
+ nakavy_avo_name_RD:0 "°¬¢ª ¢" #ReligionRD
+ noukahi_pantheon_name_RD:0 "°³¬¬¥ ±°²°" #ReligionRD
+ fangaulan_pantheon_name_RD:0 "´°¥³®°¬¥ ±°²°" #ReligionRD
+ mother_akasik_name_RD:0 "¯²ª ¬Œª¬" #ReligionRD
+ night_coven_name_RD:0 "°¶°¥ ¬¢°" #ReligionRD
+ shadow_pact_name_RD:0 "±¬² ²°ª" #ReligionRD
+ anzalkatsa_name_RD:0 "°©®¬µº" #ReligionRD
+ zaradyrra_name_RD:0 "©¦ºº" #ReligionRD
+ gotiriei_name_RD:0 "¥²ªª¼þ" #ReligionRD
+ sky_domain_name_RD:0 "°¡°¥ ¦¯°" #ReligionRD
+ beast_memory_name_RD:0 "©¢ª°þ ±¯¾²ª" #ReligionRD
+ rinta_seekers_name_RD:0 "ª¬²®þ ª°²º" #ReligionRD
+ habab_zar_name_RD:0 "¡¡ ©" #ReligionRD

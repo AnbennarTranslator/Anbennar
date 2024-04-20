@@ -1,0 +1,209 @@
+defined_text = {
+	name = castanorTrialsNameIdentifier_IM
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarch_IM
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidate_IM
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+defined_text = {
+	name = castanorTrialsNameIdentifierCap_IM
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarchCap_IM
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidateCap_IM
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+
+defined_text = {
+	name = castanorTrialsNameIdentifier_RD
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarch_RD
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidate_RD
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+defined_text = {
+	name = castanorTrialsNameIdentifierCap_RD
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarchCap_RD
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidateCap_RD
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+
+defined_text = {
+	name = castanorTrialsNameIdentifier_DT
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarch_DT
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidate_DT
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+defined_text = {
+	name = castanorTrialsNameIdentifierCap_DT
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarchCap_DT
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidateCap_DT
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+
+defined_text = {
+	name = castanorTrialsNameIdentifier_VN
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarch_VN
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidate_VN
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+defined_text = {
+	name = castanorTrialsNameIdentifierCap_VN
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarchCap_VN
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidateCap_VN
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+
+defined_text = {
+	name = castanorTrialsNameIdentifier_TV
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarch_TV
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidate_TV
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+defined_text = {
+	name = castanorTrialsNameIdentifierCap_TV
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarchCap_TV
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidateCap_TV
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+
+defined_text = {
+	name = castanorTrialsNameIdentifier_PR
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarch_PR
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidate_PR
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}
+defined_text = {
+	name = castanorTrialsNameIdentifierCap_PR
+	random = no
+	
+	text = {
+		localisation_key = castanorTrialsNameIdentifierMonarchCap_PR
+		trigger = {
+			NOT = { has_reform = original_castanor_trials_reform }
+		}
+	}
+	text = {
+		localisation_key = castanorTrialsNameIdentifierCandidateCap_PR
+		trigger = {
+			has_reform = original_castanor_trials_reform
+		}
+	}
+}

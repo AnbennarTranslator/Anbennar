@@ -65,3 +65,5 @@
  MODIFIER_CAN_RECRUIT_RAJPUTS:0 "¨² °°ª¯²¿ ²´¬²¢" 
  ability_militarization_mechanic:0 "°ª¬ ¼´´¬²ª¢°²ª ¢°²½ª²¢"
  STRELTSY_DESC:1 "" 
+ take_capital_force_tributary_anb:0 "…¢²ª²¿ ²®ªµ³"
+ take_capital_force_tributary_anb_desc:0 "Ï°°¾ µ®¿ ©¬®½¶²¾ ¢ ²¯, ¶²¡º ¢©¾²¿ ²®ªµ³." 

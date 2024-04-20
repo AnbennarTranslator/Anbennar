@@ -1,0 +1,1958 @@
+
+####################################################################################################
+###																								 ###
+###		 Падежи религиозных школ в единственном и множественном числах с прописной буквы		 ###
+###									  А также прилагательные									 ###
+###																								 ###
+###																								 ###
+###						   Падежи прописаны с уже готовыми окончаниями!							 ###
+###						Прилагательные в локализации записаны без окончаний,					 ###
+###				     Поэтому для корректного написания необходимо их добавлять.					 ###
+###																								 ###
+###										 Единственное число										 ###
+###		Именительный (Кто, что?) - "[TUR.GetReligiousSchoolIM_CAP]" : "Ханафит"  				 ###
+###		Родительный (Кого, чего?) - "[TUR.GetReligiousSchoolRD_CAP]" : "Ханафита"			  	 ###
+###		Дательный (Кому, чему?) - "[TUR.GetReligiousSchoolDT_CAP]" : "Ханафиту"  				 ###
+###		Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ											 	 ###
+###		Творительный (Кем, чем?) - "[TUR.GetReligiousSchoolTV_CAP]" : "Ханафитом"  				 ###
+###		Предложный (О ком, о чём?) - "[TUR.GetReligiousSchoolPR_CAP]" : "Ханафите"  			 ###
+###																								 ###
+###										Множественное число										 ###
+###		Именительный (Кто, что?) - "[TUR.GetReligiousSchoolPluralIM_CAP]" : "Ханафиты"  		 ###
+###		Родительный (Кого, чего?) - "[TUR.GetReligiousSchoolPluralRD_CAP]" : "Ханафитов"	  	 ###
+###		Дательный (Кому, чему?) - "[TUR.GetReligiousSchoolPluralDT_CAP]" : "Ханафитам"  		 ###
+###		Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ											 	 ###
+###		Творительный (Кем, чем?) - "[TUR.GetReligiousSchoolPluralTV_CAP]" : "Ханафитами"  		 ###
+###		Предложный (О ком, о чём?) - "[TUR.GetReligiousSchoolPluralPR_CAP]" : "Ханафитах"  		 ###
+###																								 ###
+###										   Прилагательное										 ###
+###		Именительный (Кто, что?) - "[TUR.GetReligiousSchoolADJ_CAP]" : "Ханафитск"  			 ###
+###																								 ###
+###						  			 Локализация в: gks_customizable							 ###
+###																								 ###
+####################################################################################################
+
+defined_text = {
+    name = GetReligiousSchoolIM_CAP
+
+    text = {
+        localisation_key = starry_eye_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolRD_CAP
+
+    text = {
+        localisation_key = starry_eye_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolDT_CAP
+
+    text = {
+        localisation_key = starry_eye_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolTV_CAP
+
+    text = {
+        localisation_key = starry_eye_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolPR_CAP
+
+    text = {
+        localisation_key = starry_eye_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolPluralIM
+
+    text = {
+        localisation_key = starry_eye_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolPluralRD
+
+    text = {
+        localisation_key = starry_eye_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolPluralDT
+
+    text = {
+        localisation_key = starry_eye_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolPluralTV
+
+    text = {
+        localisation_key = starry_eye_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolPluralPR
+
+    text = {
+        localisation_key = starry_eye_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}
+defined_text = {
+    name = GetReligiousSchoolADJ_CAP
+    text = {
+        localisation_key = starry_eye_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = starry_eye_school
+			}
+       }
+    }
+    text = {
+        localisation_key = radiant_sun_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = radiant_sun_school
+			}
+       }
+    }
+    text = {
+        localisation_key = orange_sash_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = orange_sash_school
+			}
+       }
+    }
+    text = {
+        localisation_key = golden_palace_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = golden_palace_school
+			}
+       }
+    }
+    text = {
+        localisation_key = unbroken_claw_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = unbroken_claw_school
+			}
+       }
+    }
+    text = {
+        localisation_key = silk_turban_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = silk_turban_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = ascendant_soul_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = ascendant_soul_school
+			}
+       }
+    }
+    text = {
+        localisation_key = synthetic_truth_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = synthetic_truth_school
+			}
+       }
+    }
+    text = {
+        localisation_key = final_paradigm_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = raheni
+				school = final_paradigm_school
+			}
+       }
+    }
+    text = {
+        localisation_key = filustkhuga_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = filustkhuga_school 
+			}
+       }
+    }
+    text = {
+        localisation_key = irdukhuga_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = irdukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maslekhuga_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = maslekhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = malukhuga_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = centaur_religion
+				school = malukhuga_school
+			}
+       }
+    }
+    text = {
+        localisation_key = fate_sculptors_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = fate_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = being_sculptors_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = being_sculptors_school
+			}
+       }
+    }
+    text = {
+        localisation_key = blade_and_needle_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = blade_and_needle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = great_cycle_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = great_cycle_school
+			}
+       }
+    }
+    text = {
+        localisation_key = humble_zeal_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = humble_zeal_school
+			}
+       }
+    }
+    text = {
+        localisation_key = soul_song_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = lizardfolk_religion
+				school = soul_song_school
+			}
+       }
+    }
+}

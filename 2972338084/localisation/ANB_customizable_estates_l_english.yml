@@ -16,16 +16,27 @@
  EST_estate_sorcerersIM_CAP:0 "®¦³°º" #MagesIM_CAP
  EST_estate_chloromancersIM_CAP:0 "Û®¯°²º" #MagesIM_CAP
  EST_estate_runesmithIM_CAP:0 "Ð³°°º ¬³©°µº" #MagesIM_CAP
+ EST_estate_lihos_maidensIM_CAP:0 "ƒ¢º ˆª" #MagesIM_CAP
+ EST_estate_taigan_orderIM_CAP:0 "¦° Ùþ¥°" #MagesIM_CAP
+ EST_baashidi_estate_house_of_exorcismIM_CAP:0 "ƒ¯ ¼¬©µª©¯" #MagesIM_CAP
+ EST_inyaswarosa_spirit_speakersIM_CAP:0 "‚¢¾¸ª  ¦³¯ª" #MagesIM_CAP
+ EST_estate_mengi_tanikweyaIM_CAP:0 "Ù°ª¬¢¾" #MagesIM_CAP 
  
  EST_estate_adventurersIM_CAP:0 "¢°²½ª²º" #AdventurersIM_CAP
  EST_estate_koryaIM_CAP:0 "ª" #AdventurersIM_CAP
  EST_estate_amhasgIM_CAP:0 "¯¥ª" #AdventurersIM_CAP
  EST_estate_slayersIM_CAP:0 "†²¡ª²®ª" #AdventurersIM_CAP
+ EST_estate_rangersIM_CAP:0 "Ðþ°¦¨º" #AdventurersIM_CAP
+ EST_baashidi_estate_house_of_gloryIM_CAP:0 "ƒ¯ ®¢º" #AdventurersIM_CAP
+ EST_inyaswarosa_heroesIM_CAP:0 "‚ª" #AdventurersIM_CAP
+ EST_estate_mengi_riyitewagIM_CAP:0 "Ðªþ²¢¥ª" #AdventurersIM_CAP 
+ EST_estate_kigkasilIM_CAP:0 "ª¥¬ª®¿" #AdventurersIM_CAP 
  
  EST_estate_artificersIM_CAP:0 "²´¬²º" #ArtificersIM_CAP
  EST_estate_innlakIM_CAP:0 "†°°®¬ª" #ArtificersIM_CAP
  EST_estate_shuimuIM_CAP:0 "÷³þ¯³" #ArtificersIM_CAP
  EST_estate_alchemistsIM_CAP:0 "®ª¯ª¬ª" #ArtificersIM_CAP
+ EST_estate_gemradcurt_artificersIM_CAP:0 "¦° ¬°°º °³¬" #ArtificersIM_CAP 
  
  EST_estate_eunuchsIM_CAP:0 "¢°³ª" #EunuchsIM_CAP
  EST_estate_voltojIM_CAP:0 "Ï®¿²þª" #EunuchsIM_CAP
@@ -37,6 +48,16 @@
  EST_estate_sgcIM_CAP:0 "Ô…" #BurghersIM_CAP
  EST_estate_cartelsIM_CAP:0 "²®ª" #BurghersIM_CAP
  EST_estate_kartelsIM_CAP:0 "²®ª" #BurghersIM_CAP
+ EST_baashidi_estate_house_of_wealthIM_CAP:0 "ƒ¯ ¡¥²²¢" #BurghersIM_CAP
+ EST_inyaswarosa_leopard_societyIM_CAP:0 "¡¸²¢ ®±¦" #BurghersIM_CAP
+ EST_antmvura_17_familiesIM_CAP:0 "Ô¯°¦µ²¿ ¯þ" #BurghersIM_CAP
+ EST_estate_gor_burad_steam_baronsIM_CAP:0 "‰¢º ¡°º" #BurghersIM_CAP
+ EST_estate_dealersIM_CAP:0 "ƒª®º" #BurghersIM_CAP
+ EST_estate_mengi_nagideIM_CAP:0 "¥ª¦¼" #BurghersIM_CAP
+ EST_estate_merchant_matriarchsIM_CAP:0 "³±¶¬ª ¯²ªª" #BurghersIM_CAP
+ EST_estate_bosancovac_patriciansIM_CAP:0 "‰²ªµªª" #BurghersIM_CAP
+ EST_estate_sabariIM_CAP:0 "÷¡ª" #BurghersIM_CAP
+ EST_estate_peasant_tradersIM_CAP:0 "²¿¾°-²¥¢µº" #BurghersIM_CAP 
  
  EST_estate_noblesIM_CAP:0 "ƒ¢¾°" #NoblesIM_CAP
  EST_estate_hwalbaejIM_CAP:0 "Û¢®¡ª" #NoblesIM_CAP
@@ -47,6 +68,16 @@
  EST_estate_patronatesIM_CAP:0 "‰¬¢ª²®ª" #NoblesIM_CAP
  EST_estate_warriorsIM_CAP:0 "Ïª°º" #NoblesIM_CAP
  EST_estate_imperial_nobilityIM_CAP:0 "†¯±¬ ¦¢¾°²¢" #NoblesIM_CAP
+ EST_tanizu_warrior_lodgesIM_CAP:0 "ˆ¨ ¢ª°¢" #NoblesIM_CAP
+ EST_dakinshi_yagomoIM_CAP:0 "×¥¯" #NoblesIM_CAP
+ EST_antmvura_captainciesIM_CAP:0 "±ª²°²¢" #NoblesIM_CAP
+ EST_baashidi_estate_house_of_mightIM_CAP:0 "ƒ¯ ¯¥³¸²¢" #NoblesIM_CAP
+ EST_estate_plantersIM_CAP:0 "‰®°²²º" #NoblesIM_CAP
+ EST_estate_cattle_baronsIM_CAP:0 "Ô¬²¢¦º" #NoblesIM_CAP
+ EST_estate_mengi_yenaze_mezhiIM_CAP:0 "‡°© ¯¨ª" #NoblesIM_CAP
+ EST_estate_barkabtiIM_CAP:0 "€¬¡²ª" #NoblesIM_CAP
+ EST_estate_ralkadezimIM_CAP:0 "Ð®¬¦©ª¯" #NoblesIM_CAP
+ EST_estate_flocksIM_CAP:0 "Ô²ª" #NoblesIM_CAP 
  
  EST_estate_churchIM_CAP:0 "Ô¢¾¸°°ª¬ª" #ChurchIM_CAP
  EST_estate_philosophersIM_CAP:0 "Êª®´º" #ChurchIM_CAP
@@ -55,6 +86,15 @@
  EST_estate_klarIM_CAP:0 "®º" #ChurchIM_CAP
  EST_estate_jongsoetaIM_CAP:0 "Ì°³¼²º" #ChurchIM_CAP
  EST_estate_balgarsmithsIM_CAP:0 "€®¥¢º ¬³©°µº" #ChurchIM_CAP
+ EST_estate_shamans_with_gunsIM_CAP:0 "÷¯°º  ±³Œ¬¯ª" #ChurchIM_CAP
+ EST_estate_stone_keepersIM_CAP:0 "¯°°ª²®ª" #ChurchIM_CAP
+ EST_estate_hearthpriestsIM_CAP:0 "„µº ¶¥" #ChurchIM_CAP
+ EST_baashidi_estate_house_of_wisdomIM_CAP:0 "ƒ¯ ¯³¦²ª" #ChurchIM_CAP
+ EST_inyaswarosa_shamansIM_CAP:0 "÷¯°º" #ChurchIM_CAP
+ EST_antmvura_monksIM_CAP:0 "°ª" #ChurchIM_CAP
+ EST_estate_mengi_semayebakaIM_CAP:0 "Ô¯þ¡¬" #ChurchIM_CAP
+ EST_estate_namensarIM_CAP:0 "¯°" #ChurchIM_CAP
+ EST_estate_songstersIM_CAP:0 "‰¢³°¿ª" #ChurchIM_CAP 
  
  EST_monstrous_tribesIM_CAP:0 "Ì³¦¢ª¸°º ±®¯°" #Monstrous_tribesIM_CAP
  
@@ -74,16 +114,27 @@
  EST_estate_sorcerersRD:0 "¬®¦³°¢" #MagesRD
  EST_estate_chloromancersRD:0 "®¯°²¢" #MagesRD
  EST_estate_runesmithRD:0 "³°°º ¬³©°µ¢" #MagesRD
+ EST_estate_lihos_maidensRD:0 "¦¢ ˆª" #MagesRD
+ EST_estate_taigan_orderRD:0 "¦° Ùþ¥°" #MagesRD
+ EST_baashidi_estate_house_of_exorcismRD:0 "¦¯ ¼¬©µª©¯" #MagesRD
+ EST_inyaswarosa_spirit_speakersRD:0 "¥¢¾¸ª  ¦³¯ª" #MagesRD
+ EST_estate_mengi_tanikweyaRD:0 "²°ª¬¢¾" #MagesRD
  
  EST_estate_adventurersRD:0 "¢°²½ª²¢" #AdventurersRD
  EST_estate_koryaRD:0 "¬ª" #AdventurersRD
  EST_estate_amhasgRD:0 "¯¥¢" #AdventurersRD
  EST_estate_slayersRD:0 "ª²¡ª²®þ" #AdventurersRD
+ EST_estate_rangersRD:0 "þ°¦¨¢" #AdventurersRD
+ EST_baashidi_estate_house_of_gloryRD:0 "¦¯ ®¢º" #AdventurersRD
+ EST_inyaswarosa_heroesRD:0 "¥¢" #AdventurersRD
+ EST_estate_mengi_riyitewagRD:0 "ªþ²¢¥¢" #AdventurersRD 
+ EST_estate_kigkasilRD:0 "¬ª¥¬ª®þ" #AdventurersRD
  
  EST_estate_artificersRD:0 "²´¬²¢" #ArtificersRD
  EST_estate_innlakRD:0 "ª°°®¬¢" #ArtificersRD
  EST_estate_shuimuRD:0 "Œ³þ¯³" #ArtificersRD
  EST_estate_alchemistsRD:0 "®ª¯ª¬¢" #ArtificersRD
+ EST_estate_gemradcurt_artificersRD:0 "¦° ¬°°º °³¬" #ArtificersRD
  
  EST_estate_eunuchsRD:0 "¢°³¢" #EunuchsRD
  EST_estate_voltojRD:0 "¢®¿²þ¢" #EunuchsRD
@@ -95,6 +146,16 @@
  EST_estate_sgcRD:0 "Ô…" #BurghersRD
  EST_estate_cartelsRD:0 "¬²®þ" #BurghersRD
  EST_estate_kartelsRD:0 "¬²®þ" #BurghersRD
+ EST_baashidi_estate_house_of_wealthRD:0 "¦¯ ¡¥²²¢" #BurghersRD
+ EST_inyaswarosa_leopard_societyRD:0 "¡¸²¢ ®±¦" #BurghersRD
+ EST_antmvura_17_familiesRD:0 "¯°¦µ²ª ¯þ" #BurghersRD
+ EST_estate_gor_burad_steam_baronsRD:0 "±¢º ¡°¢" #BurghersRD
+ EST_estate_dealersRD:0 "¦ª®¢" #BurghersRD
+ EST_estate_mengi_nagideRD:0 "°¥ª¦¼" #BurghersRD
+ EST_estate_merchant_matriarchsRD:0 "¬³±¶¬ª ¯²ª¢" #BurghersRD
+ EST_estate_bosancovac_patriciansRD:0 "±²ªµª¢" #BurghersRD
+ EST_estate_sabariRD:0 "Œ¡ª" #BurghersRD
+ EST_estate_peasant_tradersRD:0 "¬²¿¾°-²¥¢µ¢" #BurghersRD
  
  EST_estate_noblesRD:0 "¦¢¾°" #NoblesRD
  EST_estate_hwalbaejRD:0 "¢®¡¢" #NoblesRD
@@ -105,6 +166,16 @@
  EST_estate_patronatesRD:0 "±¬¢ª²®þ" #NoblesRD
  EST_estate_warriorsRD:0 "¢ª°¢" #NoblesRD
  EST_estate_imperial_nobilityRD:0 "ª¯±¬¥ ¦¢¾°²¢" #NoblesRD
+ EST_tanizu_warrior_lodgesRD:0 "®¨ª ¢ª°¢" #NoblesRD
+ EST_dakinshi_yagomoRD:0 "¾¥¯" #NoblesRD
+ EST_antmvura_captainciesRD:0 "¬±ª²°²¢" #NoblesRD
+ EST_baashidi_estate_house_of_mightRD:0 "¦¯ ¯¥³¸²¢" #NoblesRD
+ EST_estate_plantersRD:0 "±®°²²¢" #NoblesRD
+ EST_estate_cattle_baronsRD:0 "¬²¢¦¢" #NoblesRD
+ EST_estate_mengi_yenaze_mezhiRD:0 "þ°© ¯¨ª" #NoblesRD
+ EST_estate_barkabtiRD:0 "¡¬¡²ª" #NoblesRD
+ EST_estate_ralkadezimRD:0 "®¬¦©ª¯" #NoblesRD
+ EST_estate_flocksRD:0 "²þ" #NoblesRD
  
  EST_estate_churchRD:0 "¢¾¸°°ª¬¢" #ChurchRD
  EST_estate_skaldsRD:0 "¬®¿¦¢" #ChurchRD
@@ -113,6 +184,15 @@
  EST_estate_klarRD:0 "¬®¢" #ChurchRD
  EST_estate_jongsoetaRD:0 "¶°³¼²" #ChurchRD
  EST_estate_balgarsmithsRD:0 "¡®¥¢º ¬³©°µ¢" #ChurchRD
+ EST_estate_shamans_with_gunsRD:0 "Œ¯°¢  ±³Œ¬¯ª" #ChurchRD
+ EST_estate_stone_keepersRD:0 "¬¯°°ª²®þ" #ChurchRD
+ EST_estate_hearthpriestsRD:0 "¨µ¢ ¶¥" #ChurchRD
+ EST_baashidi_estate_house_of_wisdomRD:0 "¦¯ ¯³¦²ª" #ChurchRD
+ EST_inyaswarosa_shamansRD:0 "Œ¯°¢" #ChurchRD
+ EST_antmvura_monksRD:0 "¯°¢" #ChurchRD
+ EST_estate_mengi_semayebakaRD:0 "¯þ¡¬ª" #ChurchRD
+ EST_estate_namensarRD:0 "°¯°" #ChurchRD
+ EST_estate_songstersRD:0 "±¢³°ªþ" #ChurchRD
  
  EST_monstrous_tribesRD:0 "¶³¦¢ª¸°º ±®¯ž°" #Monstrous_tribesRD
  
@@ -135,16 +215,27 @@
  EST_estate_sorcerersIM:0 "¬®¦³°º" #MagesIM
  EST_estate_chloromancersIM:0 "®¯°²º" #MagesIM
  EST_estate_runesmithIM:0 "³°°º ¬³©°µº" #MagesIM
+ EST_estate_lihos_maidensIM:0 "¦¢º ˆª" #MagesIM
+ EST_estate_taigan_orderIM:0 "¦° Ùþ¥°" #MagesIM
+ EST_baashidi_estate_house_of_exorcismIM:0 "¦¯ ¼¬©µª©¯" #MagesIM
+ EST_inyaswarosa_spirit_speakersIM:0 "¥¢¾¸ª  ¦³¯ª" #MagesIM
+ EST_estate_mengi_tanikweyaIM:0 "²°ª¬¢¾" #MagesIM  
  
  EST_estate_adventurersIM:0 "¢°²½ª²º" #AdventurersIM
  EST_estate_koryaIM:0 "¬ª" #AdventurersIM
  EST_estate_amhasgIM:0 "¯¥ª" #AdventurersIM
  EST_estate_slayersIM:0 "ª²¡ª²®ª" #AdventurersIM
+ EST_estate_rangersIM:0 "þ°¦¨º" #AdventurersIM
+ EST_baashidi_estate_house_of_gloryIM:0 "¦¯ ®¢º" #AdventurersIM
+ EST_inyaswarosa_heroesIM:0 "¥ª" #AdventurersIM
+ EST_estate_mengi_riyitewagIM:0 "ªþ²¢¥ª" #AdventurersIM 
+ EST_estate_kigkasilIM:0 "¬ª¥¬ª®¿" #AdventurersIM  
  
  EST_estate_artificersIM:0 "²´¬²º" #ArtificersIM
  EST_estate_innlakIM:0 "ª°°®¬ª" #ArtificersIM
  EST_estate_shuimuIM:0 "Œ³þ¯³" #ArtificersIM
  EST_estate_alchemistsIM:0 "®ª¯ª¬ª" #ArtificersIM
+ EST_estate_gemradcurt_artificersRD:0 "¦° ¬°°º °³¬" #ArtificersIM  
  
  EST_estate_eunuchsIM:0 "¢°³ª" #EunuchsIM
  EST_estate_voltojIM:0 "¢®¿²þª" #EunuchsIM
@@ -156,6 +247,16 @@
  EST_estate_sgcIM:0 "Ô…" #BurghersIM
  EST_estate_cartelsIM:0 "¬²®ª" #BurghersIM
  EST_estate_kartelsIM:0 "¬²®ª" #BurghersIM
+ EST_baashidi_estate_house_of_wealthIM:0 "¦¯ ¡¥²²¢" #BurghersIM
+ EST_inyaswarosa_leopard_societyIM:0 "¡¸²¢ ®±¦" #BurghersIM
+ EST_antmvura_17_familiesIM:0 "¯°¦µ²¿ ¯þ" #BurghersIM
+ EST_estate_gor_burad_steam_baronsIM:0 "±¢º ¡°º" #BurghersIM
+ EST_estate_dealersIM:0 "¦ª®º" #BurghersIM
+ EST_estate_mengi_nagideIM:0 "°¥ª¦¼" #BurghersIM
+ EST_estate_merchant_matriarchsIM:0 "¬³±¶¬ª ¯²ªª" #BurghersIM
+ EST_estate_bosancovac_patriciansIM:0 "±²ªµªª" #BurghersIM
+ EST_estate_sabariIM:0 "Œ¡ª" #BurghersIM
+ EST_estate_peasant_tradersIM:0 "¬²¿¾°-²¥¢µº" #BurghersIM  
  
  EST_estate_noblesIM:0 "¦¢¾°" #NoblesIM
  EST_estate_hwalbaejIM:0 "¢®¡ª" #NoblesIM
@@ -166,6 +267,16 @@
  EST_estate_patronatesIM:0 "±¬¢ª²®ª" #NoblesIM
  EST_estate_warriorsIM:0 "¢ª°º" #NoblesIM
  EST_estate_imperial_nobilityIM:0 "ª¯±¬ ¦¢¾°²¢" #NoblesIM
+ EST_tanizu_warrior_lodgesIM:0 "®¨ ¢ª°¢" #NoblesIM
+ EST_dakinshi_yagomoIM:0 "¾¥¯" #NoblesIM
+ EST_antmvura_captainciesIM:0 "¬±ª²°²¢" #NoblesIM
+ EST_baashidi_estate_house_of_mightIM:0 "¦¯ ¯¥³¸²¢" #NoblesIM
+ EST_estate_plantersIM:0 "±®°²²º" #NoblesIM
+ EST_estate_cattle_baronsIM:0 "¬²¢¦º" #NoblesIM
+ EST_estate_mengi_yenaze_mezhiIM:0 "þ°© ¯¨ª" #NoblesIM
+ EST_estate_barkabtiIM:0 "¡¬¡²ª" #NoblesIM
+ EST_estate_ralkadezimIM:0 "®¬¦©ª¯" #NoblesIM
+ EST_estate_flocksIM:0 "²ª" #NoblesIM  
  
  
  EST_estate_churchIM:0 "¢¾¸°°ª¬ª" #ChurchIM
@@ -175,6 +286,15 @@
  EST_estate_klarIM:0 "¬®º" #ChurchIM
  EST_estate_jongsoetaIM:0 "¶°³¼²º" #ChurchIM
  EST_estate_balgarsmithsIM:0 "¡®¥¢º ¬³©°µº" #ChurchIM
+ EST_estate_shamans_with_gunsIM:0 "Œ¯°º  ±³Œ¬¯ª" #ChurchIM
+ EST_estate_stone_keepersIM:0 "¬¯°°ª²®ª" #ChurchIM
+ EST_estate_hearthpriestsIM:0 "¨µº ¶¥" #ChurchIM
+ EST_baashidi_estate_house_of_wisdomIM:0 "¦¯ ¯³¦²ª" #ChurchIM
+ EST_inyaswarosa_shamansIM:0 "Œ¯°º" #ChurchIM
+ EST_antmvura_monksIM:0 "¯°ª" #ChurchIM
+ EST_estate_mengi_semayebakaIM:0 "¯þ¡¬" #ChurchIM
+ EST_estate_namensarIM:0 "°¯°" #ChurchIM
+ EST_estate_songstersIM:0 "±¢³°¿ª" #ChurchIM  
  
  EST_monstrous_tribesIM:0 "¶³¦¢ª¸°º ±®¯°" #Monstrous_tribesIM
  
@@ -195,16 +315,27 @@
  EST_estate_sorcerersDT:0 "¬®¦³°¯" #MagesDT
  EST_estate_chloromancersDT:0 "®¯°²¯" #MagesDT
  EST_estate_runesmithDT:0 "³°°º¯ ¬³©°µ¯" #MagesDT
+ EST_estate_lihos_maidensDT:0 "¦¢¯ ˆª" #MagesDT
+ EST_estate_taigan_orderDT:0 "¦°³ Ùþ¥°" #MagesDT
+ EST_baashidi_estate_house_of_exorcismDT:0 "¦¯³ ¼¬©µª©¯" #MagesDT
+ EST_inyaswarosa_spirit_speakersDT:0 "¥¢¾¸ª¯  ¦³¯ª" #MagesDT
+ EST_estate_mengi_tanikweyaDT:0 "²°ª¬¢¾" #MagesDT 
  
  EST_estate_adventurersDT:0 "¢°²½ª²¯" #AdventurersDT
  EST_estate_koryaDT:0 "¬ª" #AdventurersDT
  EST_estate_amhasgDT:0 "¯¥ª" #AdventurersDT
  EST_estate_slayersDT:0 "ª²¡ª²®¾¯" #AdventurersDT
+ EST_estate_rangersDT:0 "þ°¦¨¯" #AdventurersDT
+ EST_baashidi_estate_house_of_gloryDT:0 "¦¯³ ®¢º" #AdventurersDT
+ EST_inyaswarosa_heroesDT:0 "¥¾¯" #AdventurersDT
+ EST_estate_mengi_riyitewagDT:0 "ªþ²¢¥¯" #AdventurersDT 
+ EST_estate_kigkasilDT:0 "¬ª¥¬ª®½" #AdventurersDT 
  
  EST_estate_artificersDT:0 "²´¬²¯" #ArtificersDT
  EST_estate_innlakDT:0 "ª°°®¬¯" #ArtificersDT
  EST_estate_shuimuDT:0 "Œ³þ¯³" #ArtificersDT
  EST_estate_alchemistsDT:0 "®ª¯ª¬¯" #ArtificersDT
+ EST_estate_gemradcurt_artificersDT:0 "¦°³ ¬°°º °³¬" #ArtificersDT 
  
  EST_estate_eunuchsDT:0 "¢°³¯" #EunuchsDT
  EST_estate_voltojDT:0 "¢®¿²þ¯" #EunuchsDT
@@ -216,6 +347,16 @@
  EST_estate_sgcDT:0 "Ô…" #BurghersDT
  EST_estate_cartelsDT:0 "¬²®¾¯" #BurghersDT
  EST_estate_kartelsDT:0 "¬²®¾¯" #BurghersDT
+ EST_baashidi_estate_house_of_wealthDT:0 "¦¯³ ¡¥²²¢" #BurghersDT
+ EST_inyaswarosa_leopard_societyDT:0 "¡¸²¢³ ®±¦" #BurghersDT
+ EST_antmvura_17_familiesDT:0 "¯°¦µ²ª ¯¿¾¯" #BurghersDT
+ EST_estate_gor_burad_steam_baronsDT:0 "±¢º¯ ¡°¯" #BurghersDT
+ EST_estate_dealersDT:0 "¦ª®¯" #BurghersDT
+ EST_estate_mengi_nagideDT:0 "°¥ª¦¼" #BurghersDT
+ EST_estate_merchant_matriarchsDT:0 "¬³±¶¬ª¯ ¯²ª¯" #BurghersDT
+ EST_estate_bosancovac_patriciansDT:0 "±²ªµª¾¯" #BurghersDT
+ EST_estate_sabariDT:0 "Œ¡ª" #BurghersDT
+ EST_estate_peasant_tradersDT:0 "¬²¿¾°¯-²¥¢µ¯" #BurghersDT 
  
  EST_estate_noblesDT:0 "¦¢¾°¯" #NoblesDT
  EST_estate_hwalbaejDT:0 "¢®¡¾¯" #NoblesDT
@@ -226,6 +367,16 @@
  EST_estate_patronatesDT:0 "±¬¢ª²®¾¯" #NoblesDT
  EST_estate_warriorsDT:0 "¢ª°¯" #NoblesDT
  EST_estate_imperial_nobilityDT:0 "ª¯±¬¯³ ¦¢¾°²¢³" #NoblesDT
+ EST_tanizu_warrior_lodgesDT:0 "®¨ ¢ª°¢" #NoblesDT
+ EST_dakinshi_yagomoDT:0 "¾¥¯" #NoblesDT
+ EST_antmvura_captainciesDT:0 "¬±ª²°²¢³" #NoblesDT
+ EST_baashidi_estate_house_of_mightDT:0 "¦¯³ ¯¥³¸²¢" #NoblesDT
+ EST_estate_plantersDT:0 "±®°²²¯" #NoblesDT
+ EST_estate_cattle_baronsDT:0 "¬²¢¦¯" #NoblesDT
+ EST_estate_mengi_yenaze_mezhiDT:0 "þ°© ¯¨ª" #NoblesDT
+ EST_estate_barkabtiDT:0 "¡¬¡²ª" #NoblesDT
+ EST_estate_ralkadezimDT:0 "®¬¦©ª¯³" #NoblesDT
+ EST_estate_flocksDT:0 "²¾¯" #NoblesDT 
  
  EST_estate_churchDT:0 "¢¾¸°°ª¬¯" #ChurchDT
  EST_estate_skaldsDT:0 "¬®¿¦¯" #ChurchDT
@@ -234,6 +385,15 @@
  EST_estate_klarDT:0 "¬®¯" #ChurchDT
  EST_estate_jongsoetaDT:0 "¶°³¼²¯" #ChurchDT
  EST_estate_balgarsmithsDT:0 "¡®¥¢º¯ ¬³©°µ¯" #ChurchDT
+ EST_estate_shamans_with_gunsDT:0 "Œ¯°¯  ±³Œ¬¯ª" #ChurchDT
+ EST_estate_stone_keepersDT:0 "¬¯°°ª²®¾¯" #ChurchDT
+ EST_estate_hearthpriestsDT:0 "¨µ¯ ¶¥" #ChurchDT
+ EST_baashidi_estate_house_of_wisdomDT:0 "¦¯³ ¯³¦²ª" #ChurchDT
+ EST_inyaswarosa_shamansDT:0 "Œ¯°¯" #ChurchDT
+ EST_antmvura_monksDT:0 "¯°¯" #ChurchDT
+ EST_estate_mengi_semayebakaDT:0 "¯þ¡¬" #ChurchDT
+ EST_estate_namensarDT:0 "°¯°³" #ChurchDT
+ EST_estate_songstersDT:0 "±¢³°¿¾¯" #ChurchDT 
  
  EST_monstrous_tribesDT:0 "¶³¦¢ª¸°º¯ ±®¯°¯" #Monstrous_tribesDT
  
@@ -253,16 +413,27 @@
  EST_estate_sorcerersTV:0 "¬®¦³°¯ª" #MagesTV
  EST_estate_chloromancersTV:0 "®¯°²¯ª" #MagesTV
  EST_estate_runesmithTV:0 "³°°º¯ ¬³©°µ¯ª" #MagesTV
+ EST_estate_lihos_maidensTV:0 "¦¢¯ ˆª" #MagesTV
+ EST_estate_taigan_orderTV:0 "¦°¯ Ùþ¥°" #MagesTV
+ EST_baashidi_estate_house_of_exorcismTV:0 "¦¯¯ ¼¬©µª©¯" #MagesTV
+ EST_inyaswarosa_spirit_speakersTV:0 "¥¢¾¸ª¯ª  ¦³¯ª" #MagesTV
+ EST_estate_mengi_tanikweyaTV:0 "²°ª¬¢¾" #MagesTV 
  
  EST_estate_adventurersTV:0 "¢°²½ª²¯ª" #AdventurersTV
  EST_estate_koryaTV:0 "¬ª" #AdventurersTV
  EST_estate_amhasgTV:0 "¯¥ª" #AdventurersTV
  EST_estate_slayersTV:0 "ª²¡ª²®¾¯ª" #AdventurersTV
+ EST_estate_rangersTV:0 "þ°¦¨¯ª" #AdventurersTV
+ EST_baashidi_estate_house_of_gloryTV:0 "¦¯¯ ®¢º" #AdventurersTV
+ EST_inyaswarosa_heroesTV:0 "¥¾¯ª" #AdventurersTV
+ EST_estate_mengi_riyitewagTV:0 "ªþ²¢¥¯ª" #AdventurersTV 
+ EST_estate_kigkasilTV:0 "¬ª¥¬ª®¯" #AdventurersTV 
  
  EST_estate_artificersTV:0 "²´¬²¯ª" #ArtificersTV
  EST_estate_innlakTV:0 "ª°°®¬¯ª" #ArtificersTV
  EST_estate_shuimuTV:0 "Œ³þ¯³" #ArtificersTV
  EST_estate_alchemistsTV:0 "®ª¯ª¬¯ª" #ArtificersTV
+ EST_estate_gemradcurt_artificersRD:0 "¦°¯ ¬°°º °³¬" #ArtificersRD 
  
  EST_estate_eunuchsTV:0 "¢°³¯ª" #EunuchsTV
  EST_estate_voltojTV:0 "¢®¿²þ¯ª" #EunuchsTV
@@ -274,6 +445,16 @@
  EST_estate_sgcTV:0 "Ô…" #BurghersTV
  EST_estate_cartelsTV:0 "¬²®¾¯ª" #BurghersTV
  EST_estate_kartelsTV:0 "¬²®¾¯ª" #BurghersTV
+ EST_baashidi_estate_house_of_wealthTV:0 "¦¯¯ ¡¥²²¢" #BurghersTV
+ EST_inyaswarosa_leopard_societyTV:0 "¡¸²¢¯ ®±¦" #BurghersTV
+ EST_antmvura_17_familiesTV:0 "¯°¦µ²¿½ ¯¿¾¯ª" #BurghersTV
+ EST_estate_gor_burad_steam_baronsTV:0 "±¢º¯ª ¡°¯ª" #BurghersTV
+ EST_estate_dealersTV:0 "¦ª®¯ª" #BurghersTV
+ EST_estate_mengi_nagideTV:0 "°¥ª¦¼" #BurghersTV
+ EST_estate_merchant_matriarchsTV:0 "¬³±¶¬ª¯ª ¯²ª¯ª" #BurghersTV
+ EST_estate_bosancovac_patriciansTV:0 "±²ªµª¾¯ª" #BurghersTV
+ EST_estate_sabariTV:0 "Œ¡ª" #BurghersTV
+ EST_estate_peasant_tradersTV:0 "¬²¿¾°¯ª-²¥¢µ¯ª" #BurghersTV 
  
  EST_estate_noblesTV:0 "¦¢¾°¯ª" #NoblesTV
  EST_estate_hwalbaejTV:0 "¢®¡¾¯ª" #NoblesTV
@@ -292,6 +473,33 @@
  EST_estate_balgarsmithsTV:0 "¡®¥¢º¯ª ¬³©°µ¯ª" #ChurchTV
  EST_estate_warriorsTV:0 "¢ª°¯ª" #NoblesTV
  EST_estate_imperial_nobilityTV:0 "ª¯±¬ª¯ ¦¢¾°²¢¯" #NoblesTV
+ EST_tanizu_warrior_lodgesTV:0 "®¨þ ¢ª°¢" #NoblesTV
+ EST_dakinshi_yagomoTV:0 "¾¥¯" #NoblesTV
+ EST_antmvura_captainciesTV:0 "¬±ª²°²¢¯" #NoblesTV
+ EST_baashidi_estate_house_of_mightTV:0 "¦¯¯ ¯¥³¸²¢" #NoblesTV
+ EST_estate_plantersTV:0 "±®°²²¯ª" #NoblesTV
+ EST_estate_cattle_baronsTV:0 "¬²¢¦¯ª" #NoblesTV
+ EST_estate_mengi_yenaze_mezhiTV:0 "þ°© ¯¨ª" #NoblesTV
+ EST_estate_barkabtiTV:0 "¡¬¡²ª" #NoblesTV
+ EST_estate_ralkadezimTV:0 "®¬¦©ª¯¯" #NoblesTV
+ EST_estate_flocksTV:0 "²¾¯ª" #NoblesTV 
+ 
+ EST_estate_churchTV:0 "¢¾¸°°ª¬¯ª" #ChurchTV
+ EST_estate_skaldsTV:0 "¬®¿¦¯ª" #ChurchTV
+ EST_estate_philosophersTV:0 "´ª®´¯ª" #ChurchTV
+ EST_estate_shamansTV:0 "Œ¯°¯ª" #ChurchTV
+ EST_estate_klarTV:0 "¬®¯ª" #ChurchTV
+ EST_estate_jongsoetaTV:0 "¶°³¼²" #ChurchTV
+ EST_estate_balgarsmithsTV:0 "¡®¥¢º¯ª ¬³©°µ¯ª" #ChurchTV
+ EST_estate_shamans_with_gunsTV:0 "Œ¯°¯ª  ±³Œ¬¯ª" #ChurchTV
+ EST_estate_stone_keepersTV:0 "¬¯°°ª²®¾¯ª" #ChurchTV
+ EST_estate_hearthpriestsTV:0 "¨µ¯ª ¶¥" #ChurchTV
+ EST_baashidi_estate_house_of_wisdomTV:0 "¦¯¯ ¯³¦²ª" #ChurchTV
+ EST_inyaswarosa_shamansTV:0 "Œ¯°¯ª" #ChurchTV
+ EST_antmvura_monksTV:0 "¯°¯ª" #ChurchTV
+ EST_estate_mengi_semayebakaTV:0 "¯þ¡¬ª" #ChurchTV
+ EST_estate_namensarTV:0 "°¯°¯" #ChurchTV
+ EST_estate_songstersTV:0 "±¢³°¿¾¯ª" #ChurchTV 
  
  EST_monstrous_tribesTV:0 "¶³¦¢ª¸°º¯ª ±®¯°¯ª" #Monstrous_tribesTV
  

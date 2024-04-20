@@ -1,0 +1,6538 @@
+
+defined_text = {
+	name = GetAdjectiveSmall
+	text = {
+		localisation_key = ADJ_A01
+		trigger = {
+				tag = A01
+		}
+	}
+	text = {
+		localisation_key = ADJ_A02
+		trigger = {
+				tag = A02
+		}
+	}
+	text = {
+		localisation_key = ADJ_A03
+		trigger = {
+				tag = A03
+		}
+	}
+	text = {
+		localisation_key = ADJ_A04
+		trigger = {
+				tag = A04
+		}
+	}
+	text = {
+		localisation_key = ADJ_A05
+		trigger = {
+				tag = A05
+		}
+	}
+	text = {
+		localisation_key = ADJ_A06
+		trigger = {
+				tag = A06
+		}
+	}
+	text = {
+		localisation_key = ADJ_A07
+		trigger = {
+				tag = A07
+		}
+	}
+	text = {
+		localisation_key = ADJ_A08
+		trigger = {
+				tag = A08
+		}
+	}
+	text = {
+		localisation_key = ADJ_A09
+		trigger = {
+				tag = A09
+		}
+	}
+	text = {
+		localisation_key = ADJ_A10
+		trigger = {
+				tag = A10
+		}
+	}
+	text = {
+		localisation_key = ADJ_A11
+		trigger = {
+				tag = A11
+		}
+	}
+	text = {
+		localisation_key = ADJ_A12
+		trigger = {
+				tag = A12
+		}
+	}
+	text = {
+		localisation_key = ADJ_A13
+		trigger = {
+				tag = A13
+		}
+	}
+	text = {
+		localisation_key = ADJ_A14
+		trigger = {
+				tag = A14
+		}
+	}
+	text = {
+		localisation_key = ADJ_A15
+		trigger = {
+				tag = A15
+		}
+	}
+	text = {
+		localisation_key = ADJ_A16
+		trigger = {
+				tag = A16
+		}
+	}
+	text = {
+		localisation_key = ADJ_A17
+		trigger = {
+				tag = A17
+		}
+	}
+	text = {
+		localisation_key = ADJ_A18
+		trigger = {
+				tag = A18
+		}
+	}
+	text = {
+		localisation_key = ADJ_A19
+		trigger = {
+				tag = A19
+		}
+	}
+	text = {
+		localisation_key = ADJ_A20
+		trigger = {
+				tag = A20
+		}
+	}
+	text = {
+		localisation_key = ADJ_A21
+		trigger = {
+				tag = A21
+		}
+	}
+	text = {
+		localisation_key = ADJ_A22
+		trigger = {
+				tag = A22
+		}
+	}
+	text = {
+		localisation_key = ADJ_A23
+		trigger = {
+				tag = A23
+		}
+	}
+	text = {
+		localisation_key = ADJ_A24
+		trigger = {
+				tag = A24
+		}
+	}
+	text = {
+		localisation_key = ADJ_A25
+		trigger = {
+				tag = A25
+		}
+	}
+	text = {
+		localisation_key = ADJ_A26
+		trigger = {
+				tag = A26
+		}
+	}
+	text = {
+		localisation_key = ADJ_A27
+		trigger = {
+				tag = A27
+		}
+	}
+	text = {
+		localisation_key = ADJ_A28
+		trigger = {
+				tag = A28
+		}
+	}
+	text = {
+		localisation_key = ADJ_A29
+		trigger = {
+				tag = A29
+		}
+	}
+	text = {
+		localisation_key = ADJ_A30
+		trigger = {
+				tag = A30
+		}
+	}
+	text = {
+		localisation_key = ADJ_A31
+		trigger = {
+				tag = A31
+		}
+	}
+	text = {
+		localisation_key = ADJ_A32
+		trigger = {
+				tag = A32
+		}
+	}
+	text = {
+		localisation_key = ADJ_A33
+		trigger = {
+				tag = A33
+		}
+	}
+	text = {
+		localisation_key = ADJ_A34
+		trigger = {
+				tag = A34
+		}
+	}
+	text = {
+		localisation_key = ADJ_A35
+		trigger = {
+				tag = A35
+		}
+	}
+	text = {
+		localisation_key = ADJ_A36
+		trigger = {
+				tag = A36
+		}
+	}
+	text = {
+		localisation_key = ADJ_A37
+		trigger = {
+				tag = A37
+		}
+	}
+	text = {
+		localisation_key = ADJ_A38
+		trigger = {
+				tag = A38
+		}
+	}
+	text = {
+		localisation_key = ADJ_A39
+		trigger = {
+				tag = A39
+		}
+	}
+	text = {
+		localisation_key = ADJ_A40
+		trigger = {
+				tag = A40
+		}
+	}
+	text = {
+		localisation_key = ADJ_A41
+		trigger = {
+				tag = A41
+		}
+	}
+	text = {
+		localisation_key = ADJ_A42
+		trigger = {
+				tag = A42
+		}
+	}
+	text = {
+		localisation_key = ADJ_A43
+		trigger = {
+				tag = A43
+		}
+	}
+	text = {
+		localisation_key = ADJ_A44
+		trigger = {
+				tag = A44
+		}
+	}
+	text = {
+		localisation_key = ADJ_A45
+		trigger = {
+				tag = A45
+		}
+	}
+	text = {
+		localisation_key = ADJ_A46
+		trigger = {
+				tag = A46
+		}
+	}
+	text = {
+		localisation_key = ADJ_A47
+		trigger = {
+				tag = A47
+		}
+	}
+	text = {
+		localisation_key = ADJ_A48
+		trigger = {
+				tag = A48
+		}
+	}
+	text = {
+		localisation_key = ADJ_A49
+		trigger = {
+				tag = A49
+		}
+	}
+	text = {
+		localisation_key = ADJ_A50
+		trigger = {
+				tag = A50
+		}
+	}
+	text = {
+		localisation_key = ADJ_A51
+		trigger = {
+				tag = A51
+		}
+	}
+	text = {
+		localisation_key = ADJ_A52
+		trigger = {
+				tag = A52
+		}
+	}
+	text = {
+		localisation_key = ADJ_A53
+		trigger = {
+				tag = A53
+		}
+	}
+	text = {
+		localisation_key = ADJ_A54
+		trigger = {
+				tag = A54
+		}
+	}
+	text = {
+		localisation_key = ADJ_A55
+		trigger = {
+				tag = A55
+		}
+	}
+	text = {
+		localisation_key = ADJ_A56
+		trigger = {
+				tag = A56
+		}
+	}
+	text = {
+		localisation_key = ADJ_A57
+		trigger = {
+				tag = A57
+		}
+	}
+	text = {
+		localisation_key = ADJ_A58
+		trigger = {
+				tag = A58
+		}
+	}
+	text = {
+		localisation_key = ADJ_A59
+		trigger = {
+				tag = A59
+		}
+	}
+	text = {
+		localisation_key = ADJ_A60
+		trigger = {
+				tag = A60
+		}
+	}
+	text = {
+		localisation_key = ADJ_A61
+		trigger = {
+				tag = A61
+		}
+	}
+	text = {
+		localisation_key = ADJ_A62
+		trigger = {
+				tag = A62
+		}
+	}
+	text = {
+		localisation_key = ADJ_A63
+		trigger = {
+				tag = A63
+		}
+	}
+	text = {
+		localisation_key = ADJ_A64
+		trigger = {
+				tag = A64
+		}
+	}
+	text = {
+		localisation_key = ADJ_A65
+		trigger = {
+				tag = A65
+		}
+	}
+	text = {
+		localisation_key = ADJ_A66
+		trigger = {
+				tag = A66
+		}
+	}
+	text = {
+		localisation_key = ADJ_A67
+		trigger = {
+				tag = A67
+		}
+	}
+	text = {
+		localisation_key = ADJ_A68
+		trigger = {
+				tag = A68
+		}
+	}
+	text = {
+		localisation_key = ADJ_A69
+		trigger = {
+				tag = A69
+		}
+	}
+	text = {
+		localisation_key = ADJ_A70
+		trigger = {
+				tag = A70
+		}
+	}
+	text = {
+		localisation_key = ADJ_A71
+		trigger = {
+				tag = A71
+		}
+	}
+	text = {
+		localisation_key = ADJ_A72
+		trigger = {
+				tag = A72
+		}
+	}
+	text = {
+		localisation_key = ADJ_A73
+		trigger = {
+				tag = A73
+		}
+	}
+	text = {
+		localisation_key = ADJ_A74
+		trigger = {
+				tag = A74
+		}
+	}
+	text = {
+		localisation_key = ADJ_A75
+		trigger = {
+				tag = A75
+		}
+	}
+	text = {
+		localisation_key = ADJ_A76
+		trigger = {
+				tag = A76
+		}
+	}
+	text = {
+		localisation_key = ADJ_A77
+		trigger = {
+				tag = A77
+		}
+	}
+	text = {
+		localisation_key = ADJ_A78
+		trigger = {
+				tag = A78
+		}
+	}
+	text = {
+		localisation_key = ADJ_A79
+		trigger = {
+				tag = A79
+		}
+	}
+	text = {
+		localisation_key = ADJ_A80
+		trigger = {
+				tag = A80
+		}
+	}
+	text = {
+		localisation_key = ADJ_A81
+		trigger = {
+				tag = A81
+		}
+	}
+	text = {
+		localisation_key = ADJ_A82
+		trigger = {
+				tag = A82
+		}
+	}
+	text = {
+		localisation_key = ADJ_A83
+		trigger = {
+				tag = A83
+		}
+	}
+	text = {
+		localisation_key = ADJ_A84
+		trigger = {
+				tag = A84
+		}
+	}
+	text = {
+		localisation_key = ADJ_A85
+		trigger = {
+				tag = A85
+		}
+	}
+	text = {
+		localisation_key = ADJ_A86
+		trigger = {
+				tag = A86
+		}
+	}
+	text = {
+		localisation_key = ADJ_A87
+		trigger = {
+				tag = A87
+		}
+	}
+	text = {
+		localisation_key = ADJ_A88
+		trigger = {
+				tag = A88
+		}
+	}
+	text = {
+		localisation_key = ADJ_A89
+		trigger = {
+				tag = A89
+		}
+	}
+	text = {
+		localisation_key = ADJ_A90
+		trigger = {
+				tag = A90
+		}
+	}
+	text = {
+		localisation_key = ADJ_A91
+		trigger = {
+				tag = A91
+		}
+	}
+	text = {
+		localisation_key = ADJ_A92
+		trigger = {
+				tag = A92
+		}
+	}
+	text = {
+		localisation_key = ADJ_A93
+		trigger = {
+				tag = A93
+		}
+	}
+	text = {
+		localisation_key = ADJ_A94
+		trigger = {
+				tag = A94
+		}
+	}
+	text = {
+		localisation_key = ADJ_A95
+		trigger = {
+				tag = A95
+		}
+	}
+	text = {
+		localisation_key = ADJ_A96
+		trigger = {
+				tag = A96
+		}
+	}
+	text = {
+		localisation_key = ADJ_A97
+		trigger = {
+				tag = A97
+		}
+	}
+	text = {
+		localisation_key = ADJ_A98
+		trigger = {
+				tag = A98
+		}
+	}
+	text = {
+		localisation_key = ADJ_A99
+		trigger = {
+				tag = A99
+		}
+	}
+	text = {
+		localisation_key = ADJ_B01
+		trigger = {
+				tag = B01
+		}
+	}
+	text = {
+		localisation_key = ADJ_B02
+		trigger = {
+				tag = B02
+		}
+	}
+	text = {
+		localisation_key = ADJ_B03
+		trigger = {
+				tag = B03
+		}
+	}
+	text = {
+		localisation_key = ADJ_B04
+		trigger = {
+				tag = B04
+		}
+	}
+	text = {
+		localisation_key = ADJ_B05
+		trigger = {
+				tag = B05
+		}
+	}
+	text = {
+		localisation_key = ADJ_B06
+		trigger = {
+				tag = B06
+		}
+	}
+	text = {
+		localisation_key = ADJ_B07
+		trigger = {
+				tag = B07
+		}
+	}
+	text = {
+		localisation_key = ADJ_B08
+		trigger = {
+				tag = B08
+		}
+	}
+	text = {
+		localisation_key = ADJ_B09
+		trigger = {
+				tag = B09
+		}
+	}
+	text = {
+		localisation_key = ADJ_B10
+		trigger = {
+				tag = B10
+		}
+	}
+	text = {
+		localisation_key = ADJ_B11
+		trigger = {
+				tag = B11
+		}
+	}
+	text = {
+		localisation_key = ADJ_B12
+		trigger = {
+				tag = B12
+		}
+	}
+	text = {
+		localisation_key = ADJ_B13
+		trigger = {
+				tag = B13
+		}
+	}
+	text = {
+		localisation_key = ADJ_B14
+		trigger = {
+				tag = B14
+		}
+	}
+	text = {
+		localisation_key = ADJ_B15
+		trigger = {
+				tag = B15
+		}
+	}
+	text = {
+		localisation_key = ADJ_B16
+		trigger = {
+				tag = B16
+		}
+	}
+	text = {
+		localisation_key = ADJ_B17
+		trigger = {
+				tag = B17
+		}
+	}
+	text = {
+		localisation_key = ADJ_B18
+		trigger = {
+				tag = B18
+		}
+	}
+	text = {
+		localisation_key = ADJ_B19
+		trigger = {
+				tag = B19
+		}
+	}
+	text = {
+		localisation_key = ADJ_B20
+		trigger = {
+				tag = B20
+		}
+	}
+	text = {
+		localisation_key = ADJ_B21
+		trigger = {
+				tag = B21
+		}
+	}
+	text = {
+		localisation_key = ADJ_B22
+		trigger = {
+				tag = B22
+		}
+	}
+	text = {
+		localisation_key = ADJ_B23
+		trigger = {
+				tag = B23
+		}
+	}
+	text = {
+		localisation_key = ADJ_B24
+		trigger = {
+				tag = B24
+		}
+	}
+	text = {
+		localisation_key = ADJ_B25
+		trigger = {
+				tag = B25
+		}
+	}
+	text = {
+		localisation_key = ADJ_B26
+		trigger = {
+				tag = B26
+		}
+	}
+	text = {
+		localisation_key = ADJ_B27
+		trigger = {
+				tag = B27
+		}
+	}
+	text = {
+		localisation_key = ADJ_B28
+		trigger = {
+				tag = B28
+		}
+	}
+	text = {
+		localisation_key = ADJ_B29
+		trigger = {
+				tag = B29
+		}
+	}
+	text = {
+		localisation_key = ADJ_B30
+		trigger = {
+				tag = B30
+		}
+	}
+	text = {
+		localisation_key = ADJ_B31
+		trigger = {
+				tag = B31
+		}
+	}
+	text = {
+		localisation_key = ADJ_B32
+		trigger = {
+				tag = B32
+		}
+	}
+	text = {
+		localisation_key = ADJ_B33
+		trigger = {
+				tag = B33
+		}
+	}
+	text = {
+		localisation_key = ADJ_B34
+		trigger = {
+				tag = B34
+		}
+	}
+	text = {
+		localisation_key = ADJ_B35
+		trigger = {
+				tag = B35
+		}
+	}
+	text = {
+		localisation_key = ADJ_B36
+		trigger = {
+				tag = B36
+		}
+	}
+	text = {
+		localisation_key = ADJ_B37
+		trigger = {
+				tag = B37
+		}
+	}
+	text = {
+		localisation_key = ADJ_B38
+		trigger = {
+				tag = B38
+		}
+	}
+	text = {
+		localisation_key = ADJ_B39
+		trigger = {
+				tag = B39
+		}
+	}
+	text = {
+		localisation_key = ADJ_B40
+		trigger = {
+				tag = B40
+		}
+	}
+	text = {
+		localisation_key = ADJ_B41
+		trigger = {
+				tag = B41
+		}
+	}
+	text = {
+		localisation_key = ADJ_B42
+		trigger = {
+				tag = B42
+		}
+	}
+	text = {
+		localisation_key = ADJ_B43
+		trigger = {
+				tag = B43
+		}
+	}
+	text = {
+		localisation_key = ADJ_B44
+		trigger = {
+				tag = B44
+		}
+	}
+	text = {
+		localisation_key = ADJ_B45
+		trigger = {
+				tag = B45
+		}
+	}
+	text = {
+		localisation_key = ADJ_B46
+		trigger = {
+				tag = B46
+		}
+	}
+	text = {
+		localisation_key = ADJ_B47
+		trigger = {
+				tag = B47
+		}
+	}
+	text = {
+		localisation_key = ADJ_B48
+		trigger = {
+				tag = B48
+		}
+	}
+	text = {
+		localisation_key = ADJ_B49
+		trigger = {
+				tag = B49
+		}
+	}
+	text = {
+		localisation_key = ADJ_B50
+		trigger = {
+				tag = B50
+		}
+	}
+	text = {
+		localisation_key = ADJ_B51
+		trigger = {
+				tag = B51
+		}
+	}
+	text = {
+		localisation_key = ADJ_B52
+		trigger = {
+				tag = B52
+		}
+	}
+	text = {
+		localisation_key = ADJ_B53
+		trigger = {
+				tag = B53
+		}
+	}
+	text = {
+		localisation_key = ADJ_B54
+		trigger = {
+				tag = B54
+		}
+	}
+	text = {
+		localisation_key = ADJ_B55
+		trigger = {
+				tag = B55
+		}
+	}
+	text = {
+		localisation_key = ADJ_B56
+		trigger = {
+				tag = B56
+		}
+	}
+	text = {
+		localisation_key = ADJ_B57
+		trigger = {
+				tag = B57
+		}
+	}
+	text = {
+		localisation_key = ADJ_B58
+		trigger = {
+				tag = B58
+		}
+	}
+	text = {
+		localisation_key = ADJ_B59
+		trigger = {
+				tag = B59
+		}
+	}
+	text = {
+		localisation_key = ADJ_B60
+		trigger = {
+				tag = B60
+		}
+	}
+	text = {
+		localisation_key = ADJ_B61
+		trigger = {
+				tag = B61
+		}
+	}
+	text = {
+		localisation_key = ADJ_B62
+		trigger = {
+				tag = B62
+		}
+	}
+	text = {
+		localisation_key = ADJ_B63
+		trigger = {
+				tag = B63
+		}
+	}
+	text = {
+		localisation_key = ADJ_B64
+		trigger = {
+				tag = B64
+		}
+	}
+	text = {
+		localisation_key = ADJ_B65
+		trigger = {
+				tag = B65
+		}
+	}
+	text = {
+		localisation_key = ADJ_B66
+		trigger = {
+				tag = B66
+		}
+	}
+	text = {
+		localisation_key = ADJ_B67
+		trigger = {
+				tag = B67
+		}
+	}
+	text = {
+		localisation_key = ADJ_B68
+		trigger = {
+				tag = B68
+		}
+	}
+	text = {
+		localisation_key = ADJ_B69
+		trigger = {
+				tag = B69
+		}
+	}
+	text = {
+		localisation_key = ADJ_B70
+		trigger = {
+				tag = B70
+		}
+	}
+	text = {
+		localisation_key = ADJ_B71
+		trigger = {
+				tag = B71
+		}
+	}
+	text = {
+		localisation_key = ADJ_B75
+		trigger = {
+				tag = B75
+		}
+	}
+	text = {
+		localisation_key = ADJ_B76
+		trigger = {
+				tag = B76
+		}
+	}
+	text = {
+		localisation_key = ADJ_U01
+		trigger = {
+				tag = U01
+		}
+	}
+	text = {
+		localisation_key = ADJ_U02
+		trigger = {
+				tag = U02
+		}
+	}
+	text = {
+		localisation_key = ADJ_#U0
+		trigger = {
+				tag = #U0
+		}
+	}
+	text = {
+		localisation_key = ADJ_U04
+		trigger = {
+				tag = U04
+		}
+	}
+	text = {
+		localisation_key = ADJ_U05
+		trigger = {
+				tag = U05
+		}
+	}
+	text = {
+		localisation_key = ADJ_U06
+		trigger = {
+				tag = U06
+		}
+	}
+	text = {
+		localisation_key = ADJ_U07
+		trigger = {
+				tag = U07
+		}
+	}
+	text = {
+		localisation_key = ADJ_U08
+		trigger = {
+				tag = U08
+		}
+	}
+	text = {
+		localisation_key = ADJ_U09
+		trigger = {
+				tag = U09
+		}
+	}
+	text = {
+		localisation_key = ADJ_U10
+		trigger = {
+				tag = U10
+		}
+	}
+	text = {
+		localisation_key = ADJ_U11
+		trigger = {
+				tag = U11
+		}
+	}
+	text = {
+		localisation_key = ADJ_U12
+		trigger = {
+				tag = U12
+		}
+	}
+	text = {
+		localisation_key = ADJ_U13
+		trigger = {
+				tag = U13
+		}
+	}
+	text = {
+		localisation_key = ADJ_U14
+		trigger = {
+				tag = U14
+		}
+	}
+	text = {
+		localisation_key = ADJ_U15
+		trigger = {
+				tag = U15
+		}
+	}
+	text = {
+		localisation_key = ADJ_U16
+		trigger = {
+				tag = U16
+		}
+	}
+	text = {
+		localisation_key = ADJ_U17
+		trigger = {
+				tag = U17
+		}
+	}
+	text = {
+		localisation_key = ADJ_U18
+		trigger = {
+				tag = U18
+		}
+	}
+	text = {
+		localisation_key = ADJ_U19
+		trigger = {
+				tag = U19
+		}
+	}
+	text = {
+		localisation_key = ADJ_U20
+		trigger = {
+				tag = U20
+		}
+	}
+	text = {
+		localisation_key = ADJ_U21
+		trigger = {
+				tag = U21
+		}
+	}
+	text = {
+		localisation_key = ADJ_U22
+		trigger = {
+				tag = U22
+		}
+	}
+	text = {
+		localisation_key = ADJ_U23
+		trigger = {
+				tag = U23
+		}
+	}
+	text = {
+		localisation_key = ADJ_U24
+		trigger = {
+				tag = U24
+		}
+	}
+	text = {
+		localisation_key = ADJ_U25
+		trigger = {
+				tag = U25
+		}
+	}
+	text = {
+		localisation_key = ADJ_U26
+		trigger = {
+				tag = U26
+		}
+	}
+	text = {
+		localisation_key = ADJ_U27
+		trigger = {
+				tag = U27
+		}
+	}
+	text = {
+		localisation_key = ADJ_U28
+		trigger = {
+				tag = U28
+		}
+	}
+	text = {
+		localisation_key = ADJ_U29
+		trigger = {
+				tag = U29
+		}
+	}
+	text = {
+		localisation_key = ADJ_U30
+		trigger = {
+				tag = U30
+		}
+	}
+	text = {
+		localisation_key = ADJ_U31
+		trigger = {
+				tag = U31
+		}
+	}
+	text = {
+		localisation_key = ADJ_U32
+		trigger = {
+				tag = U32
+		}
+	}
+	text = {
+		localisation_key = ADJ_U33
+		trigger = {
+				tag = U33
+		}
+	}
+	text = {
+		localisation_key = ADJ_U69
+		trigger = {
+				tag = U69
+		}
+	}
+	text = {
+		localisation_key = ADJ_U70
+		trigger = {
+				tag = U70
+		}
+	}
+	text = {
+		localisation_key = ADJ_F21
+		trigger = {
+				tag = F21
+		}
+	}
+	text = {
+		localisation_key = ADJ_F22
+		trigger = {
+				tag = F22
+		}
+	}
+	text = {
+		localisation_key = ADJ_F23
+		trigger = {
+				tag = F23
+		}
+	}
+	text = {
+		localisation_key = ADJ_F24
+		trigger = {
+				tag = F24
+		}
+	}
+	text = {
+		localisation_key = ADJ_F25
+		trigger = {
+				tag = F25
+		}
+	}
+	text = {
+		localisation_key = ADJ_F26
+		trigger = {
+				tag = F26
+		}
+	}
+	text = {
+		localisation_key = ADJ_F27
+		trigger = {
+				tag = F27
+		}
+	}
+	text = {
+		localisation_key = ADJ_F28
+		trigger = {
+				tag = F28
+		}
+	}
+	text = {
+		localisation_key = ADJ_F29
+		trigger = {
+				tag = F29
+		}
+	}
+	text = {
+		localisation_key = ADJ_F30
+		trigger = {
+				tag = F30
+		}
+	}
+	text = {
+		localisation_key = ADJ_F31
+		trigger = {
+				tag = F31
+		}
+	}
+	text = {
+		localisation_key = ADJ_F32
+		trigger = {
+				tag = F32
+		}
+	}
+	text = {
+		localisation_key = ADJ_F33
+		trigger = {
+				tag = F33
+		}
+	}
+	text = {
+		localisation_key = ADJ_F34
+		trigger = {
+				tag = F34
+		}
+	}
+	text = {
+		localisation_key = ADJ_F35
+		trigger = {
+				tag = F35
+		}
+	}
+	text = {
+		localisation_key = ADJ_F36
+		trigger = {
+				tag = F36
+		}
+	}
+	text = {
+		localisation_key = ADJ_F37
+		trigger = {
+				tag = F37
+		}
+	}
+	text = {
+		localisation_key = ADJ_F38
+		trigger = {
+				tag = F38
+		}
+	}
+	text = {
+		localisation_key = ADJ_F39
+		trigger = {
+				tag = F39
+		}
+	}
+	text = {
+		localisation_key = ADJ_F40
+		trigger = {
+				tag = F40
+		}
+	}
+	text = {
+		localisation_key = ADJ_F41
+		trigger = {
+				tag = F41
+		}
+	}
+	text = {
+		localisation_key = ADJ_F42
+		trigger = {
+				tag = F42
+		}
+	}
+	text = {
+		localisation_key = ADJ_F43
+		trigger = {
+				tag = F43
+		}
+	}
+	text = {
+		localisation_key = ADJ_F44
+		trigger = {
+				tag = F44
+		}
+	}
+	text = {
+		localisation_key = ADJ_F45
+		trigger = {
+				tag = F45
+		}
+	}
+	text = {
+		localisation_key = ADJ_F46
+		trigger = {
+				tag = F46
+		}
+	}
+	text = {
+		localisation_key = ADJ_F47
+		trigger = {
+				tag = F47
+		}
+	}
+	text = {
+		localisation_key = ADJ_F48
+		trigger = {
+				tag = F48
+		}
+	}
+	text = {
+		localisation_key = ADJ_F49
+		trigger = {
+				tag = F49
+		}
+	}
+	text = {
+		localisation_key = ADJ_F50
+		trigger = {
+				tag = F50
+		}
+	}
+	text = {
+		localisation_key = ADJ_F51
+		trigger = {
+				tag = F51
+		}
+	}
+	text = {
+		localisation_key = ADJ_F52
+		trigger = {
+				tag = F52
+		}
+	}
+	text = {
+		localisation_key = ADJ_F54
+		trigger = {
+				tag = F54
+		}
+	}
+	text = {
+		localisation_key = ADJ_F55
+		trigger = {
+				tag = F55
+		}
+	}
+	text = {
+		localisation_key = ADJ_F56
+		trigger = {
+				tag = F56
+		}
+	}
+	text = {
+		localisation_key = ADJ_F57
+		trigger = {
+				tag = F57
+		}
+	}
+	text = {
+		localisation_key = ADJ_F58
+		trigger = {
+				tag = F58
+		}
+	}
+	text = {
+		localisation_key = ADJ_F59
+		trigger = {
+				tag = F59
+		}
+	}
+	text = {
+		localisation_key = ADJ_F60
+		trigger = {
+				tag = F60
+		}
+	}
+	text = {
+		localisation_key = ADJ_F61
+		trigger = {
+				tag = F61
+		}
+	}
+	text = {
+		localisation_key = ADJ_F62
+		trigger = {
+				tag = F62
+		}
+	}
+	text = {
+		localisation_key = ADJ_F63
+		trigger = {
+				tag = F63
+		}
+	}
+	text = {
+		localisation_key = ADJ_F64
+		trigger = {
+				tag = F64
+		}
+	}
+	text = {
+		localisation_key = ADJ_F65
+		trigger = {
+				tag = F65
+		}
+	}
+	text = {
+		localisation_key = ADJ_F66
+		trigger = {
+				tag = F66
+		}
+	}
+	text = {
+		localisation_key = ADJ_F67
+		trigger = {
+				tag = F67
+		}
+	}
+	text = {
+		localisation_key = ADJ_F68
+		trigger = {
+				tag = F68
+		}
+	}
+	text = {
+		localisation_key = ADJ_F69
+		trigger = {
+				tag = F69
+		}
+	}
+	text = {
+		localisation_key = ADJ_F70
+		trigger = {
+				tag = F70
+		}
+	}
+	text = {
+		localisation_key = ADJ_F71
+		trigger = {
+				tag = F71
+		}
+	}
+	text = {
+		localisation_key = ADJ_F72
+		trigger = {
+				tag = F72
+		}
+	}
+	text = {
+		localisation_key = ADJ_F73
+		trigger = {
+				tag = F73
+		}
+	}
+	text = {
+		localisation_key = ADJ_F74
+		trigger = {
+				tag = F74
+		}
+	}
+	text = {
+		localisation_key = ADJ_F75
+		trigger = {
+				tag = F75
+		}
+	}
+	text = {
+		localisation_key = ADJ_F76
+		trigger = {
+				tag = F76
+		}
+	}
+	text = {
+		localisation_key = ADJ_F77
+		trigger = {
+				tag = F77
+		}
+	}
+	text = {
+		localisation_key = ADJ_F78
+		trigger = {
+				tag = F78
+		}
+	}
+	text = {
+		localisation_key = ADJ_F79
+		trigger = {
+				tag = F79
+		}
+	}
+	text = {
+		localisation_key = ADJ_F80
+		trigger = {
+				tag = F80
+		}
+	}
+	text = {
+		localisation_key = ADJ_F81
+		trigger = {
+				tag = F81
+		}
+	}
+	text = {
+		localisation_key = ADJ_F82
+		trigger = {
+				tag = F82
+		}
+	}
+	text = {
+		localisation_key = ADJ_F83
+		trigger = {
+				tag = F83
+		}
+	}
+	text = {
+		localisation_key = ADJ_F84
+		trigger = {
+				tag = F84
+		}
+	}
+	text = {
+		localisation_key = ADJ_F99
+		trigger = {
+				tag = F99
+		}
+	}
+	text = {
+		localisation_key = ADJ_G00
+		trigger = {
+				tag = G00
+		}
+	}
+	text = {
+		localisation_key = ADJ_G01
+		trigger = {
+				tag = G01
+		}
+	}
+	text = {
+		localisation_key = ADJ_G02
+		trigger = {
+				tag = G02
+		}
+	}
+	text = {
+		localisation_key = ADJ_G03
+		trigger = {
+				tag = G03
+		}
+	}
+	text = {
+		localisation_key = ADJ_G04
+		trigger = {
+				tag = G04
+		}
+	}
+	text = {
+		localisation_key = ADJ_G05
+		trigger = {
+				tag = G05
+		}
+	}
+	text = {
+		localisation_key = ADJ_G06
+		trigger = {
+				tag = G06
+		}
+	}
+	text = {
+		localisation_key = ADJ_G07
+		trigger = {
+				tag = G07
+		}
+	}
+	text = {
+		localisation_key = ADJ_G08
+		trigger = {
+				tag = G08
+		}
+	}
+	text = {
+		localisation_key = ADJ_G09
+		trigger = {
+				tag = G09
+		}
+	}
+	text = {
+		localisation_key = ADJ_G10
+		trigger = {
+				tag = G10
+		}
+	}
+	text = {
+		localisation_key = ADJ_G11
+		trigger = {
+				tag = G11
+		}
+	}
+	text = {
+		localisation_key = ADJ_G12
+		trigger = {
+				tag = G12
+		}
+	}
+	text = {
+		localisation_key = ADJ_G13
+		trigger = {
+				tag = G13
+		}
+	}
+	text = {
+		localisation_key = ADJ_G14
+		trigger = {
+				tag = G14
+		}
+	}
+	text = {
+		localisation_key = ADJ_G15
+		trigger = {
+				tag = G15
+		}
+	}
+	text = {
+		localisation_key = ADJ_G16
+		trigger = {
+				tag = G16
+		}
+	}
+	text = {
+		localisation_key = ADJ_G17
+		trigger = {
+				tag = G17
+		}
+	}
+	text = {
+		localisation_key = ADJ_G18
+		trigger = {
+				tag = G18
+		}
+	}
+	text = {
+		localisation_key = ADJ_G19
+		trigger = {
+				tag = G19
+		}
+	}
+	text = {
+		localisation_key = ADJ_G20
+		trigger = {
+				tag = G20
+		}
+	}
+	text = {
+		localisation_key = ADJ_G21
+		trigger = {
+				tag = G21
+		}
+	}
+	text = {
+		localisation_key = ADJ_G22
+		trigger = {
+				tag = G22
+		}
+	}
+	text = {
+		localisation_key = ADJ_G23
+		trigger = {
+				tag = G23
+		}
+	}
+	text = {
+		localisation_key = ADJ_G24
+		trigger = {
+				tag = G24
+		}
+	}
+	text = {
+		localisation_key = ADJ_G25
+		trigger = {
+				tag = G25
+		}
+	}
+	text = {
+		localisation_key = ADJ_G26
+		trigger = {
+				tag = G26
+		}
+	}
+	text = {
+		localisation_key = ADJ_G27
+		trigger = {
+				tag = G27
+		}
+	}
+	text = {
+		localisation_key = ADJ_G28
+		trigger = {
+				tag = G28
+		}
+	}
+	text = {
+		localisation_key = ADJ_G29
+		trigger = {
+				tag = G29
+		}
+	}
+	text = {
+		localisation_key = ADJ_G30
+		trigger = {
+				tag = G30
+		}
+	}
+	text = {
+		localisation_key = ADJ_G31
+		trigger = {
+				tag = G31
+		}
+	}
+	text = {
+		localisation_key = ADJ_G32
+		trigger = {
+				tag = G32
+		}
+	}
+	text = {
+		localisation_key = ADJ_G33
+		trigger = {
+				tag = G33
+		}
+	}
+	text = {
+		localisation_key = ADJ_G34
+		trigger = {
+				tag = G34
+		}
+	}
+	text = {
+		localisation_key = ADJ_G35
+		trigger = {
+				tag = G35
+		}
+	}
+	text = {
+		localisation_key = ADJ_G36
+		trigger = {
+				tag = G36
+		}
+	}
+	text = {
+		localisation_key = ADJ_G37
+		trigger = {
+				tag = G37
+		}
+	}
+	text = {
+		localisation_key = ADJ_G38
+		trigger = {
+				tag = G38
+		}
+	}
+	text = {
+		localisation_key = ADJ_G39
+		trigger = {
+				tag = G39
+		}
+	}
+	text = {
+		localisation_key = ADJ_G40
+		trigger = {
+				tag = G40
+		}
+	}
+	text = {
+		localisation_key = ADJ_G41
+		trigger = {
+				tag = G41
+		}
+	}
+	text = {
+		localisation_key = ADJ_G42
+		trigger = {
+				tag = G42
+		}
+	}
+	text = {
+		localisation_key = ADJ_G43
+		trigger = {
+				tag = G43
+		}
+	}
+	text = {
+		localisation_key = ADJ_G44
+		trigger = {
+				tag = G44
+		}
+	}
+	text = {
+		localisation_key = ADJ_G45
+		trigger = {
+				tag = G45
+		}
+	}
+	text = {
+		localisation_key = ADJ_G46
+		trigger = {
+				tag = G46
+		}
+	}
+	text = {
+		localisation_key = ADJ_G47
+		trigger = {
+				tag = G47
+		}
+	}
+	text = {
+		localisation_key = ADJ_G48
+		trigger = {
+				tag = G48
+		}
+	}
+	text = {
+		localisation_key = ADJ_G49
+		trigger = {
+				tag = G49
+		}
+	}
+	text = {
+		localisation_key = ADJ_G50
+		trigger = {
+				tag = G50
+		}
+	}
+	text = {
+		localisation_key = ADJ_G51
+		trigger = {
+				tag = G51
+		}
+	}
+	text = {
+		localisation_key = ADJ_G52
+		trigger = {
+				tag = G52
+		}
+	}
+	text = {
+		localisation_key = ADJ_G53
+		trigger = {
+				tag = G53
+		}
+	}
+	text = {
+		localisation_key = ADJ_G54
+		trigger = {
+				tag = G54
+		}
+	}
+	text = {
+		localisation_key = ADJ_G55
+		trigger = {
+				tag = G55
+		}
+	}
+	text = {
+		localisation_key = ADJ_G56
+		trigger = {
+				tag = G56
+		}
+	}
+	text = {
+		localisation_key = ADJ_G57
+		trigger = {
+				tag = G57
+		}
+	}
+	text = {
+		localisation_key = ADJ_G58
+		trigger = {
+				tag = G58
+		}
+	}
+	text = {
+		localisation_key = ADJ_G59
+		trigger = {
+				tag = G59
+		}
+	}
+	text = {
+		localisation_key = ADJ_G60
+		trigger = {
+				tag = G60
+		}
+	}
+	text = {
+		localisation_key = ADJ_G61
+		trigger = {
+				tag = G61
+		}
+	}
+	text = {
+		localisation_key = ADJ_G62
+		trigger = {
+				tag = G62
+		}
+	}
+	text = {
+		localisation_key = ADJ_G63
+		trigger = {
+				tag = G63
+		}
+	}
+	text = {
+		localisation_key = ADJ_G64
+		trigger = {
+				tag = G64
+		}
+	}
+	text = {
+		localisation_key = ADJ_G65
+		trigger = {
+				tag = G65
+		}
+	}
+	text = {
+		localisation_key = ADJ_G66
+		trigger = {
+				tag = G66
+		}
+	}
+	text = {
+		localisation_key = ADJ_G67
+		trigger = {
+				tag = G67
+		}
+	}
+	text = {
+		localisation_key = ADJ_G68
+		trigger = {
+				tag = G68
+		}
+	}
+	text = {
+		localisation_key = ADJ_G69
+		trigger = {
+				tag = G69
+		}
+	}
+	text = {
+		localisation_key = ADJ_G70
+		trigger = {
+				tag = G70
+		}
+	}
+	text = {
+		localisation_key = ADJ_G71
+		trigger = {
+				tag = G71
+		}
+	}
+	text = {
+		localisation_key = ADJ_G72
+		trigger = {
+				tag = G72
+		}
+	}
+	text = {
+		localisation_key = ADJ_G73
+		trigger = {
+				tag = G73
+		}
+	}
+	text = {
+		localisation_key = ADJ_G74
+		trigger = {
+				tag = G74
+		}
+	}
+	text = {
+		localisation_key = ADJ_G75
+		trigger = {
+				tag = G75
+		}
+	}
+	text = {
+		localisation_key = ADJ_G76
+		trigger = {
+				tag = G76
+		}
+	}
+	text = {
+		localisation_key = ADJ_G77
+		trigger = {
+				tag = G77
+		}
+	}
+	text = {
+		localisation_key = ADJ_G78
+		trigger = {
+				tag = G78
+		}
+	}
+	text = {
+		localisation_key = ADJ_G79
+		trigger = {
+				tag = G79
+		}
+	}
+	text = {
+		localisation_key = ADJ_G80
+		trigger = {
+				tag = G80
+		}
+	}
+	text = {
+		localisation_key = ADJ_G81
+		trigger = {
+				tag = G81
+		}
+	}
+	text = {
+		localisation_key = ADJ_G82
+		trigger = {
+				tag = G82
+		}
+	}
+	text = {
+		localisation_key = ADJ_G83
+		trigger = {
+				tag = G83
+		}
+	}
+	text = {
+		localisation_key = ADJ_G84
+		trigger = {
+				tag = G84
+		}
+	}
+	text = {
+		localisation_key = ADJ_G85
+		trigger = {
+				tag = G85
+		}
+	}
+	text = {
+		localisation_key = ADJ_G86
+		trigger = {
+				tag = G86
+		}
+	}
+	text = {
+		localisation_key = ADJ_G87
+		trigger = {
+				tag = G87
+		}
+	}
+	text = {
+		localisation_key = ADJ_G88
+		trigger = {
+				tag = G88
+		}
+	}
+	text = {
+		localisation_key = ADJ_G89
+		trigger = {
+				tag = G89
+		}
+	}
+	text = {
+		localisation_key = ADJ_G90
+		trigger = {
+				tag = G90
+		}
+	}
+	text = {
+		localisation_key = ADJ_G91
+		trigger = {
+				tag = G91
+		}
+	}
+	text = {
+		localisation_key = ADJ_G92
+		trigger = {
+				tag = G92
+		}
+	}
+	text = {
+		localisation_key = ADJ_G93
+		trigger = {
+				tag = G93
+		}
+	}
+	text = {
+		localisation_key = ADJ_G94
+		trigger = {
+				tag = G94
+		}
+	}
+	text = {
+		localisation_key = ADJ_G95
+		trigger = {
+				tag = G95
+		}
+	}
+	text = {
+		localisation_key = ADJ_G96
+		trigger = {
+				tag = G96
+		}
+	}
+	text = {
+		localisation_key = ADJ_G97
+		trigger = {
+				tag = G97
+		}
+	}
+	text = {
+		localisation_key = ADJ_G98
+		trigger = {
+				tag = G98
+		}
+	}
+	text = {
+		localisation_key = ADJ_G99
+		trigger = {
+				tag = G99
+		}
+	}
+	text = {
+		localisation_key = ADJ_H00
+		trigger = {
+				tag = H00
+		}
+	}
+	text = {
+		localisation_key = ADJ_H01
+		trigger = {
+				tag = H01
+		}
+	}
+	text = {
+		localisation_key = ADJ_H02
+		trigger = {
+				tag = H02
+		}
+	}
+	text = {
+		localisation_key = ADJ_H03
+		trigger = {
+				tag = H03
+		}
+	}
+	text = {
+		localisation_key = ADJ_H04
+		trigger = {
+				tag = H04
+		}
+	}
+	text = {
+		localisation_key = ADJ_H05
+		trigger = {
+				tag = H05
+		}
+	}
+	text = {
+		localisation_key = ADJ_H06
+		trigger = {
+				tag = H06
+		}
+	}
+	text = {
+		localisation_key = ADJ_H07
+		trigger = {
+				tag = H07
+		}
+	}
+	text = {
+		localisation_key = ADJ_H08
+		trigger = {
+				tag = H08
+		}
+	}
+	text = {
+		localisation_key = ADJ_H09
+		trigger = {
+				tag = H09
+		}
+	}
+	text = {
+		localisation_key = ADJ_H10
+		trigger = {
+				tag = H10
+		}
+	}
+	text = {
+		localisation_key = ADJ_H11
+		trigger = {
+				tag = H11
+		}
+	}
+	text = {
+		localisation_key = ADJ_H12
+		trigger = {
+				tag = H12
+		}
+	}
+	text = {
+		localisation_key = ADJ_H13
+		trigger = {
+				tag = H13
+		}
+	}
+	text = {
+		localisation_key = ADJ_H14
+		trigger = {
+				tag = H14
+		}
+	}
+	text = {
+		localisation_key = ADJ_H15
+		trigger = {
+				tag = H15
+		}
+	}
+	text = {
+		localisation_key = ADJ_H16
+		trigger = {
+				tag = H16
+		}
+	}
+	text = {
+		localisation_key = ADJ_H17
+		trigger = {
+				tag = H17
+		}
+	}
+	text = {
+		localisation_key = ADJ_H18
+		trigger = {
+				tag = H18
+		}
+	}
+	text = {
+		localisation_key = ADJ_H19
+		trigger = {
+				tag = H19
+		}
+	}
+	text = {
+		localisation_key = ADJ_H20
+		trigger = {
+				tag = H20
+		}
+	}
+	text = {
+		localisation_key = ADJ_H21
+		trigger = {
+				tag = H21
+		}
+	}
+	text = {
+		localisation_key = ADJ_H22
+		trigger = {
+				tag = H22
+		}
+	}
+	text = {
+		localisation_key = ADJ_H23
+		trigger = {
+				tag = H23
+		}
+	}
+	text = {
+		localisation_key = ADJ_H24
+		trigger = {
+				tag = H24
+		}
+	}
+	text = {
+		localisation_key = ADJ_H25
+		trigger = {
+				tag = H25
+		}
+	}
+	text = {
+		localisation_key = ADJ_H26
+		trigger = {
+				tag = H26
+		}
+	}
+	text = {
+		localisation_key = ADJ_H27
+		trigger = {
+				tag = H27
+		}
+	}
+	text = {
+		localisation_key = ADJ_H28
+		trigger = {
+				tag = H28
+		}
+	}
+	text = {
+		localisation_key = ADJ_H29
+		trigger = {
+				tag = H29
+		}
+	}
+	text = {
+		localisation_key = ADJ_H30
+		trigger = {
+				tag = H30
+		}
+	}
+	text = {
+		localisation_key = ADJ_H31
+		trigger = {
+				tag = H31
+		}
+	}
+	text = {
+		localisation_key = ADJ_H32
+		trigger = {
+				tag = H32
+		}
+	}
+	text = {
+		localisation_key = ADJ_H33
+		trigger = {
+				tag = H33
+		}
+	}
+	text = {
+		localisation_key = ADJ_H34
+		trigger = {
+				tag = H34
+		}
+	}
+	text = {
+		localisation_key = ADJ_H35
+		trigger = {
+				tag = H35
+		}
+	}
+	text = {
+		localisation_key = ADJ_H36
+		trigger = {
+				tag = H36
+		}
+	}
+	text = {
+		localisation_key = ADJ_H37
+		trigger = {
+				tag = H37
+		}
+	}
+	text = {
+		localisation_key = ADJ_H38
+		trigger = {
+				tag = H38
+		}
+	}
+	text = {
+		localisation_key = ADJ_H39
+		trigger = {
+				tag = H39
+		}
+	}
+	text = {
+		localisation_key = ADJ_H40
+		trigger = {
+				tag = H40
+		}
+	}
+	text = {
+		localisation_key = ADJ_H41
+		trigger = {
+				tag = H41
+		}
+	}
+	text = {
+		localisation_key = ADJ_H42
+		trigger = {
+				tag = H42
+		}
+	}
+	text = {
+		localisation_key = ADJ_H43
+		trigger = {
+				tag = H43
+		}
+	}
+	text = {
+		localisation_key = ADJ_H44
+		trigger = {
+				tag = H44
+		}
+	}
+	text = {
+		localisation_key = ADJ_H45
+		trigger = {
+				tag = H45
+		}
+	}
+	text = {
+		localisation_key = ADJ_H46
+		trigger = {
+				tag = H46
+		}
+	}
+	text = {
+		localisation_key = ADJ_H47
+		trigger = {
+				tag = H47
+		}
+	}
+	text = {
+		localisation_key = ADJ_H48
+		trigger = {
+				tag = H48
+		}
+	}
+	text = {
+		localisation_key = ADJ_H49
+		trigger = {
+				tag = H49
+		}
+	}
+	text = {
+		localisation_key = ADJ_H50
+		trigger = {
+				tag = H50
+		}
+	}
+	text = {
+		localisation_key = ADJ_H51
+		trigger = {
+				tag = H51
+		}
+	}
+	text = {
+		localisation_key = ADJ_H52
+		trigger = {
+				tag = H52
+		}
+	}
+	text = {
+		localisation_key = ADJ_H53
+		trigger = {
+				tag = H53
+		}
+	}
+	text = {
+		localisation_key = ADJ_H54
+		trigger = {
+				tag = H54
+		}
+	}
+	text = {
+		localisation_key = ADJ_H55
+		trigger = {
+				tag = H55
+		}
+	}
+	text = {
+		localisation_key = ADJ_H56
+		trigger = {
+				tag = H56
+		}
+	}
+	text = {
+		localisation_key = ADJ_H57
+		trigger = {
+				tag = H57
+		}
+	}
+	text = {
+		localisation_key = ADJ_H58
+		trigger = {
+				tag = H58
+		}
+	}
+	text = {
+		localisation_key = ADJ_H59
+		trigger = {
+				tag = H59
+		}
+	}
+	text = {
+		localisation_key = ADJ_H60
+		trigger = {
+				tag = H60
+		}
+	}
+	text = {
+		localisation_key = ADJ_H61
+		trigger = {
+				tag = H61
+		}
+	}
+	text = {
+		localisation_key = ADJ_H62
+		trigger = {
+				tag = H62
+		}
+	}
+	text = {
+		localisation_key = ADJ_H63
+		trigger = {
+				tag = H63
+		}
+	}
+	text = {
+		localisation_key = ADJ_H64
+		trigger = {
+				tag = H64
+		}
+	}
+	text = {
+		localisation_key = ADJ_H65
+		trigger = {
+				tag = H65
+		}
+	}
+	text = {
+		localisation_key = ADJ_H66
+		trigger = {
+				tag = H66
+		}
+	}
+	text = {
+		localisation_key = ADJ_H67
+		trigger = {
+				tag = H67
+		}
+	}
+	text = {
+		localisation_key = ADJ_H68
+		trigger = {
+				tag = H68
+		}
+	}
+	text = {
+		localisation_key = ADJ_H69
+		trigger = {
+				tag = H69
+		}
+	}
+	text = {
+		localisation_key = ADJ_H70
+		trigger = {
+				tag = H70
+		}
+	}
+	text = {
+		localisation_key = ADJ_H71
+		trigger = {
+				tag = H71
+		}
+	}
+	text = {
+		localisation_key = ADJ_H72
+		trigger = {
+				tag = H72
+		}
+	}
+	text = {
+		localisation_key = ADJ_H73
+		trigger = {
+				tag = H73
+		}
+	}
+	text = {
+		localisation_key = ADJ_H74
+		trigger = {
+				tag = H74
+		}
+	}
+	text = {
+		localisation_key = ADJ_H75
+		trigger = {
+				tag = H75
+		}
+	}
+	text = {
+		localisation_key = ADJ_H76
+		trigger = {
+				tag = H76
+		}
+	}
+	text = {
+		localisation_key = ADJ_H77
+		trigger = {
+				tag = H77
+		}
+	}
+	text = {
+		localisation_key = ADJ_H78
+		trigger = {
+				tag = H78
+		}
+	}
+	text = {
+		localisation_key = ADJ_H79
+		trigger = {
+				tag = H79
+		}
+	}
+	text = {
+		localisation_key = ADJ_H80
+		trigger = {
+				tag = H80
+		}
+	}
+	text = {
+		localisation_key = ADJ_H81
+		trigger = {
+				tag = H81
+		}
+	}
+	text = {
+		localisation_key = ADJ_H82
+		trigger = {
+				tag = H82
+		}
+	}
+	text = {
+		localisation_key = ADJ_H83
+		trigger = {
+				tag = H83
+		}
+	}
+	text = {
+		localisation_key = ADJ_H84
+		trigger = {
+				tag = H84
+		}
+	}
+	text = {
+		localisation_key = ADJ_H85
+		trigger = {
+				tag = H85
+		}
+	}
+	text = {
+		localisation_key = ADJ_H86
+		trigger = {
+				tag = H86
+		}
+	}
+	text = {
+		localisation_key = ADJ_H87
+		trigger = {
+				tag = H87
+		}
+	}
+	text = {
+		localisation_key = ADJ_H88
+		trigger = {
+				tag = H88
+		}
+	}
+	text = {
+		localisation_key = ADJ_H89
+		trigger = {
+				tag = H89
+		}
+	}
+	text = {
+		localisation_key = ADJ_H90
+		trigger = {
+				tag = H90
+		}
+	}
+	text = {
+		localisation_key = ADJ_H91
+		trigger = {
+				tag = H91
+		}
+	}
+	text = {
+		localisation_key = ADJ_H92
+		trigger = {
+				tag = H92
+		}
+	}
+	text = {
+		localisation_key = ADJ_H93
+		trigger = {
+				tag = H93
+		}
+	}
+	text = {
+		localisation_key = ADJ_H94
+		trigger = {
+				tag = H94
+		}
+	}
+	text = {
+		localisation_key = ADJ_H95
+		trigger = {
+				tag = H95
+		}
+	}
+	text = {
+		localisation_key = ADJ_H96
+		trigger = {
+				tag = H96
+		}
+	}
+	text = {
+		localisation_key = ADJ_H97
+		trigger = {
+				tag = H97
+		}
+	}
+	text = {
+		localisation_key = ADJ_H98
+		trigger = {
+				tag = H98
+		}
+	}
+	text = {
+		localisation_key = ADJ_I00
+		trigger = {
+				tag = I00
+		}
+	}
+	text = {
+		localisation_key = ADJ_I01
+		trigger = {
+				tag = I01
+		}
+	}
+	text = {
+		localisation_key = ADJ_I02
+		trigger = {
+				tag = I02
+		}
+	}
+	text = {
+		localisation_key = ADJ_I03
+		trigger = {
+				tag = I03
+		}
+	}
+	text = {
+		localisation_key = ADJ_I04
+		trigger = {
+				tag = I04
+		}
+	}
+	text = {
+		localisation_key = ADJ_I05
+		trigger = {
+				tag = I05
+		}
+	}
+	text = {
+		localisation_key = ADJ_I06
+		trigger = {
+				tag = I06
+		}
+	}
+	text = {
+		localisation_key = ADJ_I07
+		trigger = {
+				tag = I07
+		}
+	}
+	text = {
+		localisation_key = ADJ_I08
+		trigger = {
+				tag = I08
+		}
+	}
+	text = {
+		localisation_key = ADJ_I09
+		trigger = {
+				tag = I09
+		}
+	}
+	text = {
+		localisation_key = ADJ_I10
+		trigger = {
+				tag = I10
+		}
+	}
+	text = {
+		localisation_key = ADJ_I11
+		trigger = {
+				tag = I11
+		}
+	}
+	text = {
+		localisation_key = ADJ_I12
+		trigger = {
+				tag = I12
+		}
+	}
+	text = {
+		localisation_key = ADJ_I13
+		trigger = {
+				tag = I13
+		}
+	}
+	text = {
+		localisation_key = ADJ_I14
+		trigger = {
+				tag = I14
+		}
+	}
+	text = {
+		localisation_key = ADJ_I15
+		trigger = {
+				tag = I15
+		}
+	}
+	text = {
+		localisation_key = ADJ_I16
+		trigger = {
+				tag = I16
+		}
+	}
+	text = {
+		localisation_key = ADJ_I17
+		trigger = {
+				tag = I17
+		}
+	}
+	text = {
+		localisation_key = ADJ_I18
+		trigger = {
+				tag = I18
+		}
+	}
+	text = {
+		localisation_key = ADJ_I19
+		trigger = {
+				tag = I19
+		}
+	}
+	text = {
+		localisation_key = ADJ_I20
+		trigger = {
+				tag = I20
+		}
+	}
+	text = {
+		localisation_key = ADJ_I21
+		trigger = {
+				tag = I21
+		}
+	}
+	text = {
+		localisation_key = ADJ_I22
+		trigger = {
+				tag = I22
+		}
+	}
+	text = {
+		localisation_key = ADJ_I23
+		trigger = {
+				tag = I23
+		}
+	}
+	text = {
+		localisation_key = ADJ_I24
+		trigger = {
+				tag = I24
+		}
+	}
+	text = {
+		localisation_key = ADJ_I25
+		trigger = {
+				tag = I25
+		}
+	}
+	text = {
+		localisation_key = ADJ_R01
+		trigger = {
+				tag = R01
+		}
+	}
+	text = {
+		localisation_key = ADJ_R02
+		trigger = {
+				tag = R02
+		}
+	}
+	text = {
+		localisation_key = ADJ_R03
+		trigger = {
+				tag = R03
+		}
+	}
+	text = {
+		localisation_key = ADJ_R04
+		trigger = {
+				tag = R04
+		}
+	}
+	text = {
+		localisation_key = ADJ_R05
+		trigger = {
+				tag = R05
+		}
+	}
+	text = {
+		localisation_key = ADJ_R06
+		trigger = {
+				tag = R06
+		}
+	}
+	text = {
+		localisation_key = ADJ_R07
+		trigger = {
+				tag = R07
+		}
+	}
+	text = {
+		localisation_key = ADJ_R08
+		trigger = {
+				tag = R08
+		}
+	}
+	text = {
+		localisation_key = ADJ_R09
+		trigger = {
+				tag = R09
+		}
+	}
+	text = {
+		localisation_key = ADJ_R10
+		trigger = {
+				tag = R10
+		}
+	}
+	text = {
+		localisation_key = ADJ_R11
+		trigger = {
+				tag = R11
+		}
+	}
+	text = {
+		localisation_key = ADJ_R12
+		trigger = {
+				tag = R12
+		}
+	}
+	text = {
+		localisation_key = ADJ_R13
+		trigger = {
+				tag = R13
+		}
+	}
+	text = {
+		localisation_key = ADJ_R14
+		trigger = {
+				tag = R14
+		}
+	}
+	text = {
+		localisation_key = ADJ_R15
+		trigger = {
+				tag = R15
+		}
+	}
+	text = {
+		localisation_key = ADJ_R16
+		trigger = {
+				tag = R16
+		}
+	}
+	text = {
+		localisation_key = ADJ_R17
+		trigger = {
+				tag = R17
+		}
+	}
+	text = {
+		localisation_key = ADJ_R18
+		trigger = {
+				tag = R18
+		}
+	}
+	text = {
+		localisation_key = ADJ_R19
+		trigger = {
+				tag = R19
+		}
+	}
+	text = {
+		localisation_key = ADJ_R20
+		trigger = {
+				tag = R20
+		}
+	}
+	text = {
+		localisation_key = ADJ_R21
+		trigger = {
+				tag = R21
+		}
+	}
+	text = {
+		localisation_key = ADJ_R22
+		trigger = {
+				tag = R22
+		}
+	}
+	text = {
+		localisation_key = ADJ_R23
+		trigger = {
+				tag = R23
+		}
+	}
+	text = {
+		localisation_key = ADJ_R24
+		trigger = {
+				tag = R24
+		}
+	}
+	text = {
+		localisation_key = ADJ_R25
+		trigger = {
+				tag = R25
+		}
+	}
+	text = {
+		localisation_key = ADJ_R26
+		trigger = {
+				tag = R26
+		}
+	}
+	text = {
+		localisation_key = ADJ_R27
+		trigger = {
+				tag = R27
+		}
+	}
+	text = {
+		localisation_key = ADJ_R28
+		trigger = {
+				tag = R28
+		}
+	}
+	text = {
+		localisation_key = ADJ_R29
+		trigger = {
+				tag = R29
+		}
+	}
+	text = {
+		localisation_key = ADJ_R30
+		trigger = {
+				tag = R30
+		}
+	}
+	text = {
+		localisation_key = ADJ_R31
+		trigger = {
+				tag = R31
+		}
+	}
+	text = {
+		localisation_key = ADJ_R32
+		trigger = {
+				tag = R32
+		}
+	}
+	text = {
+		localisation_key = ADJ_R33
+		trigger = {
+				tag = R33
+		}
+	}
+	text = {
+		localisation_key = ADJ_R34
+		trigger = {
+				tag = R34
+		}
+	}
+	text = {
+		localisation_key = ADJ_R35
+		trigger = {
+				tag = R35
+		}
+	}
+	text = {
+		localisation_key = ADJ_R36
+		trigger = {
+				tag = R36
+		}
+	}
+	text = {
+		localisation_key = ADJ_R37
+		trigger = {
+				tag = R37
+		}
+	}
+	text = {
+		localisation_key = ADJ_R38
+		trigger = {
+				tag = R38
+		}
+	}
+	text = {
+		localisation_key = ADJ_R39
+		trigger = {
+				tag = R39
+		}
+	}
+	text = {
+		localisation_key = ADJ_R40
+		trigger = {
+				tag = R40
+		}
+	}
+	text = {
+		localisation_key = ADJ_R41
+		trigger = {
+				tag = R41
+		}
+	}
+	text = {
+		localisation_key = ADJ_R42
+		trigger = {
+				tag = R42
+		}
+	}
+	text = {
+		localisation_key = ADJ_R43
+		trigger = {
+				tag = R43
+		}
+	}
+	text = {
+		localisation_key = ADJ_R44
+		trigger = {
+				tag = R44
+		}
+	}
+	text = {
+		localisation_key = ADJ_R45
+		trigger = {
+				tag = R45
+		}
+	}
+	text = {
+		localisation_key = ADJ_R46
+		trigger = {
+				tag = R46
+		}
+	}
+	text = {
+		localisation_key = ADJ_R47
+		trigger = {
+				tag = R47
+		}
+	}
+	text = {
+		localisation_key = ADJ_R48
+		trigger = {
+				tag = R48
+		}
+	}
+	text = {
+		localisation_key = ADJ_R49
+		trigger = {
+				tag = R49
+		}
+	}
+	text = {
+		localisation_key = ADJ_R50
+		trigger = {
+				tag = R50
+		}
+	}
+	text = {
+		localisation_key = ADJ_R51
+		trigger = {
+				tag = R51
+		}
+	}
+	text = {
+		localisation_key = ADJ_R52
+		trigger = {
+				tag = R52
+		}
+	}
+	text = {
+		localisation_key = ADJ_R53
+		trigger = {
+				tag = R53
+		}
+	}
+	text = {
+		localisation_key = ADJ_R54
+		trigger = {
+				tag = R54
+		}
+	}
+	text = {
+		localisation_key = ADJ_R55
+		trigger = {
+				tag = R55
+		}
+	}
+	text = {
+		localisation_key = ADJ_R56
+		trigger = {
+				tag = R56
+		}
+	}
+	text = {
+		localisation_key = ADJ_R57
+		trigger = {
+				tag = R57
+		}
+	}
+	text = {
+		localisation_key = ADJ_R58
+		trigger = {
+				tag = R58
+		}
+	}
+	text = {
+		localisation_key = ADJ_L01
+		trigger = {
+				tag = L01
+		}
+	}
+	text = {
+		localisation_key = ADJ_L02
+		trigger = {
+				tag = L02
+		}
+	}
+	text = {
+		localisation_key = ADJ_L03
+		trigger = {
+				tag = L03
+		}
+	}
+	text = {
+		localisation_key = ADJ_L04
+		trigger = {
+				tag = L04
+		}
+	}
+	text = {
+		localisation_key = ADJ_L05
+		trigger = {
+				tag = L05
+		}
+	}
+	text = {
+		localisation_key = ADJ_L06
+		trigger = {
+				tag = L06
+		}
+	}
+	text = {
+		localisation_key = ADJ_L07
+		trigger = {
+				tag = L07
+		}
+	}
+	text = {
+		localisation_key = ADJ_L08
+		trigger = {
+				tag = L08
+		}
+	}
+	text = {
+		localisation_key = ADJ_L09
+		trigger = {
+				tag = L09
+		}
+	}
+	text = {
+		localisation_key = ADJ_L10
+		trigger = {
+				tag = L10
+		}
+	}
+	text = {
+		localisation_key = ADJ_L11
+		trigger = {
+				tag = L11
+		}
+	}
+	text = {
+		localisation_key = ADJ_L12
+		trigger = {
+				tag = L12
+		}
+	}
+	text = {
+		localisation_key = ADJ_L13
+		trigger = {
+				tag = L13
+		}
+	}
+	text = {
+		localisation_key = ADJ_L14
+		trigger = {
+				tag = L14
+		}
+	}
+	text = {
+		localisation_key = ADJ_L15
+		trigger = {
+				tag = L15
+		}
+	}
+	text = {
+		localisation_key = ADJ_L16
+		trigger = {
+				tag = L16
+		}
+	}
+	text = {
+		localisation_key = ADJ_L17
+		trigger = {
+				tag = L17
+		}
+	}
+	text = {
+		localisation_key = ADJ_L18
+		trigger = {
+				tag = L18
+		}
+	}
+	text = {
+		localisation_key = ADJ_L19
+		trigger = {
+				tag = L19
+		}
+	}
+	text = {
+		localisation_key = ADJ_L20
+		trigger = {
+				tag = L20
+		}
+	}
+	text = {
+		localisation_key = ADJ_L21
+		trigger = {
+				tag = L21
+		}
+	}
+	text = {
+		localisation_key = ADJ_L22
+		trigger = {
+				tag = L22
+		}
+	}
+	text = {
+		localisation_key = ADJ_L23
+		trigger = {
+				tag = L23
+		}
+	}
+	text = {
+		localisation_key = ADJ_L24
+		trigger = {
+				tag = L24
+		}
+	}
+	text = {
+		localisation_key = ADJ_# L
+		trigger = {
+				tag = # L
+		}
+	}
+	text = {
+		localisation_key = ADJ_L26
+		trigger = {
+				tag = L26
+		}
+	}
+	text = {
+		localisation_key = ADJ_L27
+		trigger = {
+				tag = L27
+		}
+	}
+	text = {
+		localisation_key = ADJ_L28
+		trigger = {
+				tag = L28
+		}
+	}
+	text = {
+		localisation_key = ADJ_L29
+		trigger = {
+				tag = L29
+		}
+	}
+	text = {
+		localisation_key = ADJ_L30
+		trigger = {
+				tag = L30
+		}
+	}
+	text = {
+		localisation_key = ADJ_L31
+		trigger = {
+				tag = L31
+		}
+	}
+	text = {
+		localisation_key = ADJ_L32
+		trigger = {
+				tag = L32
+		}
+	}
+	text = {
+		localisation_key = ADJ_L33
+		trigger = {
+				tag = L33
+		}
+	}
+	text = {
+		localisation_key = ADJ_L34
+		trigger = {
+				tag = L34
+		}
+	}
+	text = {
+		localisation_key = ADJ_L35
+		trigger = {
+				tag = L35
+		}
+	}
+	text = {
+		localisation_key = ADJ_L36
+		trigger = {
+				tag = L36
+		}
+	}
+	text = {
+		localisation_key = ADJ_L37
+		trigger = {
+				tag = L37
+		}
+	}
+	text = {
+		localisation_key = ADJ_L38
+		trigger = {
+				tag = L38
+		}
+	}
+	text = {
+		localisation_key = ADJ_L39
+		trigger = {
+				tag = L39
+		}
+	}
+	text = {
+		localisation_key = ADJ_L40
+		trigger = {
+				tag = L40
+		}
+	}
+	text = {
+		localisation_key = ADJ_L41
+		trigger = {
+				tag = L41
+		}
+	}
+	text = {
+		localisation_key = ADJ_L42
+		trigger = {
+				tag = L42
+		}
+	}
+	text = {
+		localisation_key = ADJ_L43
+		trigger = {
+				tag = L43
+		}
+	}
+	text = {
+		localisation_key = ADJ_L44
+		trigger = {
+				tag = L44
+		}
+	}
+	text = {
+		localisation_key = ADJ_L45
+		trigger = {
+				tag = L45
+		}
+	}
+	text = {
+		localisation_key = ADJ_L46
+		trigger = {
+				tag = L46
+		}
+	}
+	text = {
+		localisation_key = ADJ_L47
+		trigger = {
+				tag = L47
+		}
+	}
+	text = {
+		localisation_key = ADJ_L48
+		trigger = {
+				tag = L48
+		}
+	}
+	text = {
+		localisation_key = ADJ_L49
+		trigger = {
+				tag = L49
+		}
+	}
+	text = {
+		localisation_key = ADJ_L50
+		trigger = {
+				tag = L50
+		}
+	}
+	text = {
+		localisation_key = ADJ_L51
+		trigger = {
+				tag = L51
+		}
+	}
+	text = {
+		localisation_key = ADJ_L52
+		trigger = {
+				tag = L52
+		}
+	}
+	text = {
+		localisation_key = ADJ_L53
+		trigger = {
+				tag = L53
+		}
+	}
+	text = {
+		localisation_key = ADJ_L54
+		trigger = {
+				tag = L54
+		}
+	}
+	text = {
+		localisation_key = ADJ_L55
+		trigger = {
+				tag = L55
+		}
+	}
+	text = {
+		localisation_key = ADJ_L56
+		trigger = {
+				tag = L56
+		}
+	}
+	text = {
+		localisation_key = ADJ_L57
+		trigger = {
+				tag = L57
+		}
+	}
+	text = {
+		localisation_key = ADJ_L58
+		trigger = {
+				tag = L58
+		}
+	}
+	text = {
+		localisation_key = ADJ_L59
+		trigger = {
+				tag = L59
+		}
+	}
+	text = {
+		localisation_key = ADJ_L60
+		trigger = {
+				tag = L60
+		}
+	}
+	text = {
+		localisation_key = ADJ_L61
+		trigger = {
+				tag = L61
+		}
+	}
+	text = {
+		localisation_key = ADJ_L62
+		trigger = {
+				tag = L62
+		}
+	}
+	text = {
+		localisation_key = ADJ_L63
+		trigger = {
+				tag = L63
+		}
+	}
+	text = {
+		localisation_key = ADJ_L64
+		trigger = {
+				tag = L64
+		}
+	}
+	text = {
+		localisation_key = ADJ_L65
+		trigger = {
+				tag = L65
+		}
+	}
+	text = {
+		localisation_key = ADJ_L66
+		trigger = {
+				tag = L66
+		}
+	}
+	text = {
+		localisation_key = ADJ_L67
+		trigger = {
+				tag = L67
+		}
+	}
+	text = {
+		localisation_key = ADJ_L68
+		trigger = {
+				tag = L68
+		}
+	}
+	text = {
+		localisation_key = ADJ_L69
+		trigger = {
+				tag = L69
+		}
+	}
+	text = {
+		localisation_key = ADJ_L70
+		trigger = {
+				tag = L70
+		}
+	}
+	text = {
+		localisation_key = ADJ_L71
+		trigger = {
+				tag = L71
+		}
+	}
+	text = {
+		localisation_key = ADJ_L72
+		trigger = {
+				tag = L72
+		}
+	}
+	text = {
+		localisation_key = ADJ_L73
+		trigger = {
+				tag = L73
+		}
+	}
+	text = {
+		localisation_key = ADJ_L74
+		trigger = {
+				tag = L74
+		}
+	}
+	text = {
+		localisation_key = ADJ_L75
+		trigger = {
+				tag = L75
+		}
+	}
+	text = {
+		localisation_key = ADJ_L76
+		trigger = {
+				tag = L76
+		}
+	}
+	text = {
+		localisation_key = ADJ_L77
+		trigger = {
+				tag = L77
+		}
+	}
+	text = {
+		localisation_key = ADJ_L78
+		trigger = {
+				tag = L78
+		}
+	}
+	text = {
+		localisation_key = ADJ_L79
+		trigger = {
+				tag = L79
+		}
+	}
+	text = {
+		localisation_key = ADJ_L80
+		trigger = {
+				tag = L80
+		}
+	}
+	text = {
+		localisation_key = ADJ_L81
+		trigger = {
+				tag = L81
+		}
+	}
+	text = {
+		localisation_key = ADJ_L82
+		trigger = {
+				tag = L82
+		}
+	}
+	text = {
+		localisation_key = ADJ_L83
+		trigger = {
+				tag = L83
+		}
+	}
+	text = {
+		localisation_key = ADJ_L84
+		trigger = {
+				tag = L84
+		}
+	}
+	text = {
+		localisation_key = ADJ_L85
+		trigger = {
+				tag = L85
+		}
+	}
+	text = {
+		localisation_key = ADJ_L86
+		trigger = {
+				tag = L86
+		}
+	}
+	text = {
+		localisation_key = ADJ_L87
+		trigger = {
+				tag = L87
+		}
+	}
+	text = {
+		localisation_key = ADJ_L88
+		trigger = {
+				tag = L88
+		}
+	}
+	text = {
+		localisation_key = ADJ_L89
+		trigger = {
+				tag = L89
+		}
+	}
+	text = {
+		localisation_key = ADJ_L90
+		trigger = {
+				tag = L90
+		}
+	}
+	text = {
+		localisation_key = ADJ_L91
+		trigger = {
+				tag = L91
+		}
+	}
+	text = {
+		localisation_key = ADJ_L92
+		trigger = {
+				tag = L92
+		}
+	}
+	text = {
+		localisation_key = ADJ_L93
+		trigger = {
+				tag = L93
+		}
+	}
+	text = {
+		localisation_key = ADJ_L94
+		trigger = {
+				tag = L94
+		}
+	}
+	text = {
+		localisation_key = ADJ_L95
+		trigger = {
+				tag = L95
+		}
+	}
+	text = {
+		localisation_key = ADJ_L96
+		trigger = {
+				tag = L96
+		}
+	}
+	text = {
+		localisation_key = ADJ_L97
+		trigger = {
+				tag = L97
+		}
+	}
+	text = {
+		localisation_key = ADJ_L98
+		trigger = {
+				tag = L98
+		}
+	}
+	text = {
+		localisation_key = ADJ_L99
+		trigger = {
+				tag = L99
+		}
+	}
+	text = {
+		localisation_key = ADJ_I26
+		trigger = {
+				tag = I26
+		}
+	}
+	text = {
+		localisation_key = ADJ_I27
+		trigger = {
+				tag = I27
+		}
+	}
+	text = {
+		localisation_key = ADJ_I28
+		trigger = {
+				tag = I28
+		}
+	}
+	text = {
+		localisation_key = ADJ_I29
+		trigger = {
+				tag = I29
+		}
+	}
+	text = {
+		localisation_key = ADJ_I30
+		trigger = {
+				tag = I30
+		}
+	}
+	text = {
+		localisation_key = ADJ_I31
+		trigger = {
+				tag = I31
+		}
+	}
+	text = {
+		localisation_key = ADJ_I32
+		trigger = {
+				tag = I32
+		}
+	}
+	text = {
+		localisation_key = ADJ_I33
+		trigger = {
+				tag = I33
+		}
+	}
+	text = {
+		localisation_key = ADJ_I34
+		trigger = {
+				tag = I34
+		}
+	}
+	text = {
+		localisation_key = ADJ_I35
+		trigger = {
+				tag = I35
+		}
+	}
+	text = {
+		localisation_key = ADJ_I36
+		trigger = {
+				tag = I36
+		}
+	}
+	text = {
+		localisation_key = ADJ_I37
+		trigger = {
+				tag = I37
+		}
+	}
+	text = {
+		localisation_key = ADJ_I38
+		trigger = {
+				tag = I38
+		}
+	}
+	text = {
+		localisation_key = ADJ_I39
+		trigger = {
+				tag = I39
+		}
+	}
+	text = {
+		localisation_key = ADJ_I40
+		trigger = {
+				tag = I40
+		}
+	}
+	text = {
+		localisation_key = ADJ_I41
+		trigger = {
+				tag = I41
+		}
+	}
+	text = {
+		localisation_key = ADJ_I42
+		trigger = {
+				tag = I42
+		}
+	}
+	text = {
+		localisation_key = ADJ_I43
+		trigger = {
+				tag = I43
+		}
+	}
+	text = {
+		localisation_key = ADJ_I44
+		trigger = {
+				tag = I44
+		}
+	}
+	text = {
+		localisation_key = ADJ_I45
+		trigger = {
+				tag = I45
+		}
+	}
+	text = {
+		localisation_key = ADJ_I46
+		trigger = {
+				tag = I46
+		}
+	}
+	text = {
+		localisation_key = ADJ_I47
+		trigger = {
+				tag = I47
+		}
+	}
+	text = {
+		localisation_key = ADJ_I48
+		trigger = {
+				tag = I48
+		}
+	}
+	text = {
+		localisation_key = ADJ_I49
+		trigger = {
+				tag = I49
+		}
+	}
+	text = {
+		localisation_key = ADJ_I50
+		trigger = {
+				tag = I50
+		}
+	}
+	text = {
+		localisation_key = ADJ_I51
+		trigger = {
+				tag = I51
+		}
+	}
+	text = {
+		localisation_key = ADJ_I52
+		trigger = {
+				tag = I52
+		}
+	}
+	text = {
+		localisation_key = ADJ_I53
+		trigger = {
+				tag = I53
+		}
+	}
+	text = {
+		localisation_key = ADJ_I54
+		trigger = {
+				tag = I54
+		}
+	}
+	text = {
+		localisation_key = ADJ_I55
+		trigger = {
+				tag = I55
+		}
+	}
+	text = {
+		localisation_key = ADJ_I56
+		trigger = {
+				tag = I56
+		}
+	}
+	text = {
+		localisation_key = ADJ_I57
+		trigger = {
+				tag = I57
+		}
+	}
+	text = {
+		localisation_key = ADJ_I58
+		trigger = {
+				tag = I58
+		}
+	}
+	text = {
+		localisation_key = ADJ_I59
+		trigger = {
+				tag = I59
+		}
+	}
+	text = {
+		localisation_key = ADJ_I60
+		trigger = {
+				tag = I60
+		}
+	}
+	text = {
+		localisation_key = ADJ_I61
+		trigger = {
+				tag = I61
+		}
+	}
+	text = {
+		localisation_key = ADJ_I62
+		trigger = {
+				tag = I62
+		}
+	}
+	text = {
+		localisation_key = ADJ_I63
+		trigger = {
+				tag = I63
+		}
+	}
+	text = {
+		localisation_key = ADJ_I64
+		trigger = {
+				tag = I64
+		}
+	}
+	text = {
+		localisation_key = ADJ_I65
+		trigger = {
+				tag = I65
+		}
+	}
+	text = {
+		localisation_key = ADJ_I66
+		trigger = {
+				tag = I66
+		}
+	}
+	text = {
+		localisation_key = ADJ_I67
+		trigger = {
+				tag = I67
+		}
+	}
+	text = {
+		localisation_key = ADJ_I68
+		trigger = {
+				tag = I68
+		}
+	}
+	text = {
+		localisation_key = ADJ_I69
+		trigger = {
+				tag = I69
+		}
+	}
+	text = {
+		localisation_key = ADJ_I70
+		trigger = {
+				tag = I70
+		}
+	}
+	text = {
+		localisation_key = ADJ_I71
+		trigger = {
+				tag = I71
+		}
+	}
+	text = {
+		localisation_key = ADJ_I72
+		trigger = {
+				tag = I72
+		}
+	}
+	text = {
+		localisation_key = ADJ_I73
+		trigger = {
+				tag = I73
+		}
+	}
+	text = {
+		localisation_key = ADJ_I74
+		trigger = {
+				tag = I74
+		}
+	}
+	text = {
+		localisation_key = ADJ_I75
+		trigger = {
+				tag = I75
+		}
+	}
+	text = {
+		localisation_key = ADJ_I76
+		trigger = {
+				tag = I76
+		}
+	}
+	text = {
+		localisation_key = ADJ_I77
+		trigger = {
+				tag = I77
+		}
+	}
+	text = {
+		localisation_key = ADJ_I78
+		trigger = {
+				tag = I78
+		}
+	}
+	text = {
+		localisation_key = ADJ_I79
+		trigger = {
+				tag = I79
+		}
+	}
+	text = {
+		localisation_key = ADJ_I80
+		trigger = {
+				tag = I80
+		}
+	}
+	text = {
+		localisation_key = ADJ_I81
+		trigger = {
+				tag = I81
+		}
+	}
+	text = {
+		localisation_key = ADJ_I82
+		trigger = {
+				tag = I82
+		}
+	}
+	text = {
+		localisation_key = ADJ_I83
+		trigger = {
+				tag = I83
+		}
+	}
+	text = {
+		localisation_key = ADJ_I84
+		trigger = {
+				tag = I84
+		}
+	}
+	text = {
+		localisation_key = ADJ_I85
+		trigger = {
+				tag = I85
+		}
+	}
+	text = {
+		localisation_key = ADJ_I86
+		trigger = {
+				tag = I86
+		}
+	}
+	text = {
+		localisation_key = ADJ_I87
+		trigger = {
+				tag = I87
+		}
+	}
+	text = {
+		localisation_key = ADJ_I88
+		trigger = {
+				tag = I88
+		}
+	}
+	text = {
+		localisation_key = ADJ_I89
+		trigger = {
+				tag = I89
+		}
+	}
+	text = {
+		localisation_key = ADJ_I90
+		trigger = {
+				tag = I90
+		}
+	}
+	text = {
+		localisation_key = ADJ_I91
+		trigger = {
+				tag = I91
+		}
+	}
+	text = {
+		localisation_key = ADJ_I92
+		trigger = {
+				tag = I92
+		}
+	}
+	text = {
+		localisation_key = ADJ_I93
+		trigger = {
+				tag = I93
+		}
+	}
+	text = {
+		localisation_key = ADJ_I94
+		trigger = {
+				tag = I94
+		}
+	}
+	text = {
+		localisation_key = ADJ_I95
+		trigger = {
+				tag = I95
+		}
+	}
+	text = {
+		localisation_key = ADJ_I96
+		trigger = {
+				tag = I96
+		}
+	}
+	text = {
+		localisation_key = ADJ_I97
+		trigger = {
+				tag = I97
+		}
+	}
+	text = {
+		localisation_key = ADJ_I98
+		trigger = {
+				tag = I98
+		}
+	}
+	text = {
+		localisation_key = ADJ_I99
+		trigger = {
+				tag = I99
+		}
+	}
+	text = {
+		localisation_key = ADJ_J01
+		trigger = {
+				tag = J01
+		}
+	}
+	text = {
+		localisation_key = ADJ_J02
+		trigger = {
+				tag = J02
+		}
+	}
+	text = {
+		localisation_key = ADJ_J03
+		trigger = {
+				tag = J03
+		}
+	}
+	text = {
+		localisation_key = ADJ_J04
+		trigger = {
+				tag = J04
+		}
+	}
+	text = {
+		localisation_key = ADJ_J05
+		trigger = {
+				tag = J05
+		}
+	}
+	text = {
+		localisation_key = ADJ_J06
+		trigger = {
+				tag = J06
+		}
+	}
+	text = {
+		localisation_key = ADJ_J07
+		trigger = {
+				tag = J07
+		}
+	}
+	text = {
+		localisation_key = ADJ_J08
+		trigger = {
+				tag = J08
+		}
+	}
+	text = {
+		localisation_key = ADJ_J09
+		trigger = {
+				tag = J09
+		}
+	}
+	text = {
+		localisation_key = ADJ_J10
+		trigger = {
+				tag = J10
+		}
+	}
+	text = {
+		localisation_key = ADJ_J11
+		trigger = {
+				tag = J11
+		}
+	}
+	text = {
+		localisation_key = ADJ_J12
+		trigger = {
+				tag = J12
+		}
+	}
+	text = {
+		localisation_key = ADJ_J13
+		trigger = {
+				tag = J13
+		}
+	}
+	text = {
+		localisation_key = ADJ_J14
+		trigger = {
+				tag = J14
+		}
+	}
+	text = {
+		localisation_key = ADJ_J15
+		trigger = {
+				tag = J15
+		}
+	}
+	text = {
+		localisation_key = ADJ_J16
+		trigger = {
+				tag = J16
+		}
+	}
+	text = {
+		localisation_key = ADJ_J17
+		trigger = {
+				tag = J17
+		}
+	}
+	text = {
+		localisation_key = ADJ_J18
+		trigger = {
+				tag = J18
+		}
+	}
+	text = {
+		localisation_key = ADJ_J19
+		trigger = {
+				tag = J19
+		}
+	}
+	text = {
+		localisation_key = ADJ_J20
+		trigger = {
+				tag = J20
+		}
+	}
+	text = {
+		localisation_key = ADJ_J21
+		trigger = {
+				tag = J21
+		}
+	}
+	text = {
+		localisation_key = ADJ_J22
+		trigger = {
+				tag = J22
+		}
+	}
+	text = {
+		localisation_key = ADJ_J23
+		trigger = {
+				tag = J23
+		}
+	}
+	text = {
+		localisation_key = ADJ_J24
+		trigger = {
+				tag = J24
+		}
+	}
+	text = {
+		localisation_key = ADJ_J25
+		trigger = {
+				tag = J25
+		}
+	}
+	text = {
+		localisation_key = ADJ_J26
+		trigger = {
+				tag = J26
+		}
+	}
+	text = {
+		localisation_key = ADJ_J27
+		trigger = {
+				tag = J27
+		}
+	}
+	text = {
+		localisation_key = ADJ_J28
+		trigger = {
+				tag = J28
+		}
+	}
+	text = {
+		localisation_key = ADJ_J29
+		trigger = {
+				tag = J29
+		}
+	}
+	text = {
+		localisation_key = ADJ_J30
+		trigger = {
+				tag = J30
+		}
+	}
+	text = {
+		localisation_key = ADJ_J31
+		trigger = {
+				tag = J31
+		}
+	}
+	text = {
+		localisation_key = ADJ_J32
+		trigger = {
+				tag = J32
+		}
+	}
+	text = {
+		localisation_key = ADJ_J33
+		trigger = {
+				tag = J33
+		}
+	}
+	text = {
+		localisation_key = ADJ_J34
+		trigger = {
+				tag = J34
+		}
+	}
+	text = {
+		localisation_key = ADJ_J35
+		trigger = {
+				tag = J35
+		}
+	}
+	text = {
+		localisation_key = ADJ_J36
+		trigger = {
+				tag = J36
+		}
+	}
+	text = {
+		localisation_key = ADJ_J37
+		trigger = {
+				tag = J37
+		}
+	}
+	text = {
+		localisation_key = ADJ_J38
+		trigger = {
+				tag = J38
+		}
+	}
+	text = {
+		localisation_key = ADJ_J39
+		trigger = {
+				tag = J39
+		}
+	}
+	text = {
+		localisation_key = ADJ_J40
+		trigger = {
+				tag = J40
+		}
+	}
+	text = {
+		localisation_key = ADJ_J41
+		trigger = {
+				tag = J41
+		}
+	}
+	text = {
+		localisation_key = ADJ_J42
+		trigger = {
+				tag = J42
+		}
+	}
+	text = {
+		localisation_key = ADJ_J43
+		trigger = {
+				tag = J43
+		}
+	}
+	text = {
+		localisation_key = ADJ_J44
+		trigger = {
+				tag = J44
+		}
+	}
+	text = {
+		localisation_key = ADJ_J45
+		trigger = {
+				tag = J45
+		}
+	}
+	text = {
+		localisation_key = ADJ_J46
+		trigger = {
+				tag = J46
+		}
+	}
+	text = {
+		localisation_key = ADJ_J47
+		trigger = {
+				tag = J47
+		}
+	}
+	text = {
+		localisation_key = ADJ_J48
+		trigger = {
+				tag = J48
+		}
+	}
+	text = {
+		localisation_key = ADJ_J49
+		trigger = {
+				tag = J49
+		}
+	}
+	text = {
+		localisation_key = ADJ_J50
+		trigger = {
+				tag = J50
+		}
+	}
+	text = {
+		localisation_key = ADJ_J51
+		trigger = {
+				tag = J51
+		}
+	}
+	text = {
+		localisation_key = ADJ_J52
+		trigger = {
+				tag = J52
+		}
+	}
+	text = {
+		localisation_key = ADJ_J53
+		trigger = {
+				tag = J53
+		}
+	}
+	text = {
+		localisation_key = ADJ_J70
+		trigger = {
+				tag = J70
+		}
+	}
+	text = {
+		localisation_key = ADJ_J71
+		trigger = {
+				tag = J71
+		}
+	}
+	text = {
+		localisation_key = ADJ_J72
+		trigger = {
+				tag = J72
+		}
+	}
+	text = {
+		localisation_key = ADJ_J73
+		trigger = {
+				tag = J73
+		}
+	}
+	text = {
+		localisation_key = ADJ_J74
+		trigger = {
+				tag = J74
+		}
+	}
+	text = {
+		localisation_key = ADJ_J75
+		trigger = {
+				tag = J75
+		}
+	}
+	text = {
+		localisation_key = ADJ_J76
+		trigger = {
+				tag = J76
+		}
+	}
+	text = {
+		localisation_key = ADJ_J77
+		trigger = {
+				tag = J77
+		}
+	}
+	text = {
+		localisation_key = ADJ_J78
+		trigger = {
+				tag = J78
+		}
+	}
+	text = {
+		localisation_key = ADJ_J79
+		trigger = {
+				tag = J79
+		}
+	}
+	text = {
+		localisation_key = ADJ_J80
+		trigger = {
+				tag = J80
+		}
+	}
+	text = {
+		localisation_key = ADJ_J81
+		trigger = {
+				tag = J81
+		}
+	}
+	text = {
+		localisation_key = ADJ_J82
+		trigger = {
+				tag = J82
+		}
+	}
+	text = {
+		localisation_key = ADJ_J83
+		trigger = {
+				tag = J83
+		}
+	}
+	text = {
+		localisation_key = ADJ_J84
+		trigger = {
+				tag = J84
+		}
+	}
+	text = {
+		localisation_key = ADJ_J85
+		trigger = {
+				tag = J85
+		}
+	}
+	text = {
+		localisation_key = ADJ_R59
+		trigger = {
+				tag = R59
+		}
+	}
+	text = {
+		localisation_key = ADJ_R60
+		trigger = {
+				tag = R60
+		}
+	}
+	text = {
+		localisation_key = ADJ_R61
+		trigger = {
+				tag = R61
+		}
+	}
+	text = {
+		localisation_key = ADJ_R62
+		trigger = {
+				tag = R62
+		}
+	}
+	text = {
+		localisation_key = ADJ_R63
+		trigger = {
+				tag = R63
+		}
+	}
+	text = {
+		localisation_key = ADJ_R64
+		trigger = {
+				tag = R64
+		}
+	}
+	text = {
+		localisation_key = ADJ_R65
+		trigger = {
+				tag = R65
+		}
+	}
+	text = {
+		localisation_key = ADJ_R66
+		trigger = {
+				tag = R66
+		}
+	}
+	text = {
+		localisation_key = ADJ_R67
+		trigger = {
+				tag = R67
+		}
+	}
+	text = {
+		localisation_key = ADJ_R68
+		trigger = {
+				tag = R68
+		}
+	}
+	text = {
+		localisation_key = ADJ_R69
+		trigger = {
+				tag = R69
+		}
+	}
+	text = {
+		localisation_key = ADJ_R70
+		trigger = {
+				tag = R70
+		}
+	}
+	text = {
+		localisation_key = ADJ_R71
+		trigger = {
+				tag = R71
+		}
+	}
+	text = {
+		localisation_key = ADJ_R72
+		trigger = {
+				tag = R72
+		}
+	}
+	text = {
+		localisation_key = ADJ_R73
+		trigger = {
+				tag = R73
+		}
+	}
+	text = {
+		localisation_key = ADJ_R74
+		trigger = {
+				tag = R74
+		}
+	}
+	text = {
+		localisation_key = ADJ_R75
+		trigger = {
+				tag = R75
+		}
+	}
+	text = {
+		localisation_key = ADJ_R76
+		trigger = {
+				tag = R76
+		}
+	}
+	text = {
+		localisation_key = ADJ_R77
+		trigger = {
+				tag = R77
+		}
+	}
+	text = {
+		localisation_key = ADJ_R78
+		trigger = {
+				tag = R78
+		}
+	}
+	text = {
+		localisation_key = ADJ_R79
+		trigger = {
+				tag = R79
+		}
+	}
+	text = {
+		localisation_key = ADJ_R80
+		trigger = {
+				tag = R80
+		}
+	}
+	text = {
+		localisation_key = ADJ_R81
+		trigger = {
+				tag = R81
+		}
+	}
+	text = {
+		localisation_key = ADJ_R82
+		trigger = {
+				tag = R82
+		}
+	}
+	text = {
+		localisation_key = ADJ_R83
+		trigger = {
+				tag = R83
+		}
+	}
+	text = {
+		localisation_key = ADJ_R84
+		trigger = {
+				tag = R84
+		}
+	}
+	text = {
+		localisation_key = ADJ_R85
+		trigger = {
+				tag = R85
+		}
+	}
+	text = {
+		localisation_key = ADJ_R86
+		trigger = {
+				tag = R86
+		}
+	}
+	text = {
+		localisation_key = ADJ_S11
+		trigger = {
+				tag = S11
+		}
+	}
+	text = {
+		localisation_key = ADJ_S12
+		trigger = {
+				tag = S12
+		}
+	}
+	text = {
+		localisation_key = ADJ_S13
+		trigger = {
+				tag = S13
+		}
+	}
+	text = {
+		localisation_key = ADJ_S14
+		trigger = {
+				tag = S14
+		}
+	}
+	text = {
+		localisation_key = ADJ_S15
+		trigger = {
+				tag = S15
+		}
+	}
+	text = {
+		localisation_key = ADJ_S16
+		trigger = {
+				tag = S16
+		}
+	}
+	text = {
+		localisation_key = ADJ_S17
+		trigger = {
+				tag = S17
+		}
+	}
+	text = {
+		localisation_key = ADJ_S18
+		trigger = {
+				tag = S18
+		}
+	}
+	text = {
+		localisation_key = ADJ_S19
+		trigger = {
+				tag = S19
+		}
+	}
+	text = {
+		localisation_key = ADJ_S20
+		trigger = {
+				tag = S20
+		}
+	}
+	text = {
+		localisation_key = ADJ_S21
+		trigger = {
+				tag = S21
+		}
+	}
+	text = {
+		localisation_key = ADJ_S22
+		trigger = {
+				tag = S22
+		}
+	}
+	text = {
+		localisation_key = ADJ_S23
+		trigger = {
+				tag = S23
+		}
+	}
+	text = {
+		localisation_key = ADJ_S24
+		trigger = {
+				tag = S24
+		}
+	}
+	text = {
+		localisation_key = ADJ_S25
+		trigger = {
+				tag = S25
+		}
+	}
+	text = {
+		localisation_key = ADJ_S26
+		trigger = {
+				tag = S26
+		}
+	}
+	text = {
+		localisation_key = ADJ_S27
+		trigger = {
+				tag = S27
+		}
+	}
+	text = {
+		localisation_key = ADJ_S28
+		trigger = {
+				tag = S28
+		}
+	}
+	text = {
+		localisation_key = ADJ_S29
+		trigger = {
+				tag = S29
+		}
+	}
+	text = {
+		localisation_key = ADJ_S30
+		trigger = {
+				tag = S30
+		}
+	}
+	text = {
+		localisation_key = ADJ_S31
+		trigger = {
+				tag = S31
+		}
+	}
+	text = {
+		localisation_key = ADJ_S32
+		trigger = {
+				tag = S32
+		}
+	}
+	text = {
+		localisation_key = ADJ_S33
+		trigger = {
+				tag = S33
+		}
+	}
+	text = {
+		localisation_key = ADJ_S34
+		trigger = {
+				tag = S34
+		}
+	}
+	text = {
+		localisation_key = ADJ_S35
+		trigger = {
+				tag = S35
+		}
+	}
+	text = {
+		localisation_key = ADJ_S36
+		trigger = {
+				tag = S36
+		}
+	}
+	text = {
+		localisation_key = ADJ_S37
+		trigger = {
+				tag = S37
+		}
+	}
+	text = {
+		localisation_key = ADJ_S38
+		trigger = {
+				tag = S38
+		}
+	}
+	text = {
+		localisation_key = ADJ_S39
+		trigger = {
+				tag = S39
+		}
+	}
+	text = {
+		localisation_key = ADJ_S40
+		trigger = {
+				tag = S40
+		}
+	}
+	text = {
+		localisation_key = ADJ_S41
+		trigger = {
+				tag = S41
+		}
+	}
+	text = {
+		localisation_key = ADJ_S42
+		trigger = {
+				tag = S42
+		}
+	}
+	text = {
+		localisation_key = ADJ_S43
+		trigger = {
+				tag = S43
+		}
+	}
+	text = {
+		localisation_key = ADJ_S44
+		trigger = {
+				tag = S44
+		}
+	}
+	text = {
+		localisation_key = ADJ_S45
+		trigger = {
+				tag = S45
+		}
+	}
+	text = {
+		localisation_key = ADJ_S46
+		trigger = {
+				tag = S46
+		}
+	}
+	text = {
+		localisation_key = ADJ_S47
+		trigger = {
+				tag = S47
+		}
+	}
+	text = {
+		localisation_key = ADJ_S48
+		trigger = {
+				tag = S48
+		}
+	}
+	text = {
+		localisation_key = ADJ_S49
+		trigger = {
+				tag = S49
+		}
+	}
+	text = {
+		localisation_key = ADJ_S50
+		trigger = {
+				tag = S50
+		}
+	}
+	text = {
+		localisation_key = ADJ_S51
+		trigger = {
+				tag = S51
+		}
+	}
+	text = {
+		localisation_key = ADJ_S52
+		trigger = {
+				tag = S52
+		}
+	}
+	text = {
+		localisation_key = ADJ_S53
+		trigger = {
+				tag = S53
+		}
+	}
+	text = {
+		localisation_key = ADJ_S54
+		trigger = {
+				tag = S54
+		}
+	}
+	text = {
+		localisation_key = ADJ_S55
+		trigger = {
+				tag = S55
+		}
+	}
+	text = {
+		localisation_key = ADJ_S56
+		trigger = {
+				tag = S56
+		}
+	}
+	text = {
+		localisation_key = ADJ_S57
+		trigger = {
+				tag = S57
+		}
+	}
+	text = {
+		localisation_key = ADJ_S58
+		trigger = {
+				tag = S58
+		}
+	}
+	text = {
+		localisation_key = ADJ_S59
+		trigger = {
+				tag = S59
+		}
+	}
+	text = {
+		localisation_key = ADJ_S60
+		trigger = {
+				tag = S60
+		}
+	}
+	text = {
+		localisation_key = ADJ_S61
+		trigger = {
+				tag = S61
+		}
+	}
+	text = {
+		localisation_key = ADJ_S62
+		trigger = {
+				tag = S62
+		}
+	}
+	text = {
+		localisation_key = ADJ_S63
+		trigger = {
+				tag = S63
+		}
+	}
+	text = {
+		localisation_key = ADJ_S64
+		trigger = {
+				tag = S64
+		}
+	}
+	text = {
+		localisation_key = ADJ_S65
+		trigger = {
+				tag = S65
+		}
+	}
+	text = {
+		localisation_key = ADJ_S66
+		trigger = {
+				tag = S66
+		}
+	}
+	text = {
+		localisation_key = ADJ_S67
+		trigger = {
+				tag = S67
+		}
+	}
+	text = {
+		localisation_key = ADJ_S68
+		trigger = {
+				tag = S68
+		}
+	}
+	text = {
+		localisation_key = ADJ_S69
+		trigger = {
+				tag = S69
+		}
+	}
+	text = {
+		localisation_key = ADJ_S70
+		trigger = {
+				tag = S70
+		}
+	}
+	text = {
+		localisation_key = ADJ_S71
+		trigger = {
+				tag = S71
+		}
+	}
+	text = {
+		localisation_key = ADJ_S72
+		trigger = {
+				tag = S72
+		}
+	}
+	text = {
+		localisation_key = ADJ_S73
+		trigger = {
+				tag = S73
+		}
+	}
+	text = {
+		localisation_key = ADJ_S74
+		trigger = {
+				tag = S74
+		}
+	}
+	text = {
+		localisation_key = ADJ_S75
+		trigger = {
+				tag = S75
+		}
+	}
+	text = {
+		localisation_key = ADJ_S76
+		trigger = {
+				tag = S76
+		}
+	}
+	text = {
+		localisation_key = ADJ_S77
+		trigger = {
+				tag = S77
+		}
+	}
+	text = {
+		localisation_key = ADJ_S78
+		trigger = {
+				tag = S78
+		}
+	}
+	text = {
+		localisation_key = ADJ_S79
+		trigger = {
+				tag = S79
+		}
+	}
+	text = {
+		localisation_key = ADJ_S80
+		trigger = {
+				tag = S80
+		}
+	}
+	text = {
+		localisation_key = ADJ_S81
+		trigger = {
+				tag = S81
+		}
+	}
+	text = {
+		localisation_key = ADJ_U67
+		trigger = {
+				tag = U67
+		}
+	}
+	text = {
+		localisation_key = ADJ_U68
+		trigger = {
+				tag = U68
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y00
+		trigger = {
+				tag = Y00
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y01
+		trigger = {
+				tag = Y01
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y02
+		trigger = {
+				tag = Y02
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y03
+		trigger = {
+				tag = Y03
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y04
+		trigger = {
+				tag = Y04
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y05
+		trigger = {
+				tag = Y05
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y06
+		trigger = {
+				tag = Y06
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y07
+		trigger = {
+				tag = Y07
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y08
+		trigger = {
+				tag = Y08
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y09
+		trigger = {
+				tag = Y09
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y10
+		trigger = {
+				tag = Y10
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y11
+		trigger = {
+				tag = Y11
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y12
+		trigger = {
+				tag = Y12
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y13
+		trigger = {
+				tag = Y13
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y14
+		trigger = {
+				tag = Y14
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y15
+		trigger = {
+				tag = Y15
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y16
+		trigger = {
+				tag = Y16
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y17
+		trigger = {
+				tag = Y17
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y18
+		trigger = {
+				tag = Y18
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y19
+		trigger = {
+				tag = Y19
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y20
+		trigger = {
+				tag = Y20
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y21
+		trigger = {
+				tag = Y21
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y22
+		trigger = {
+				tag = Y22
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y23
+		trigger = {
+				tag = Y23
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y24
+		trigger = {
+				tag = Y24
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y25
+		trigger = {
+				tag = Y25
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y26
+		trigger = {
+				tag = Y26
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y27
+		trigger = {
+				tag = Y27
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y28
+		trigger = {
+				tag = Y28
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y29
+		trigger = {
+				tag = Y29
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y30
+		trigger = {
+				tag = Y30
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y31
+		trigger = {
+				tag = Y31
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y32
+		trigger = {
+				tag = Y32
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y33
+		trigger = {
+				tag = Y33
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y34
+		trigger = {
+				tag = Y34
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y35
+		trigger = {
+				tag = Y35
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y36
+		trigger = {
+				tag = Y36
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y37
+		trigger = {
+				tag = Y37
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y38
+		trigger = {
+				tag = Y38
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y39
+		trigger = {
+				tag = Y39
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y40
+		trigger = {
+				tag = Y40
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y41
+		trigger = {
+				tag = Y41
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y42
+		trigger = {
+				tag = Y42
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y43
+		trigger = {
+				tag = Y43
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y44
+		trigger = {
+				tag = Y44
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y45
+		trigger = {
+				tag = Y45
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y46
+		trigger = {
+				tag = Y46
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y47
+		trigger = {
+				tag = Y47
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y48
+		trigger = {
+				tag = Y48
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y49
+		trigger = {
+				tag = Y49
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y50
+		trigger = {
+				tag = Y50
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y51
+		trigger = {
+				tag = Y51
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y52
+		trigger = {
+				tag = Y52
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y53
+		trigger = {
+				tag = Y53
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y54
+		trigger = {
+				tag = Y54
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y55
+		trigger = {
+				tag = Y55
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y56
+		trigger = {
+				tag = Y56
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y57
+		trigger = {
+				tag = Y57
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y58
+		trigger = {
+				tag = Y58
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y59
+		trigger = {
+				tag = Y59
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y60
+		trigger = {
+				tag = Y60
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y61
+		trigger = {
+				tag = Y61
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y62
+		trigger = {
+				tag = Y62
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y63
+		trigger = {
+				tag = Y63
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y64
+		trigger = {
+				tag = Y64
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y65
+		trigger = {
+				tag = Y65
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y66
+		trigger = {
+				tag = Y66
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y67
+		trigger = {
+				tag = Y67
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y68
+		trigger = {
+				tag = Y68
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y69
+		trigger = {
+				tag = Y69
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y70
+		trigger = {
+				tag = Y70
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y71
+		trigger = {
+				tag = Y71
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y72
+		trigger = {
+				tag = Y72
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y73
+		trigger = {
+				tag = Y73
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y74
+		trigger = {
+				tag = Y74
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y75
+		trigger = {
+				tag = Y75
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y76
+		trigger = {
+				tag = Y76
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y77
+		trigger = {
+				tag = Y77
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y78
+		trigger = {
+				tag = Y78
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y79
+		trigger = {
+				tag = Y79
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y80
+		trigger = {
+				tag = Y80
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y81
+		trigger = {
+				tag = Y81
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y82
+		trigger = {
+				tag = Y82
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y83
+		trigger = {
+				tag = Y83
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y84
+		trigger = {
+				tag = Y84
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y85
+		trigger = {
+				tag = Y85
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y86
+		trigger = {
+				tag = Y86
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y87
+		trigger = {
+				tag = Y87
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y88
+		trigger = {
+				tag = Y88
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y89
+		trigger = {
+				tag = Y89
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y90
+		trigger = {
+				tag = Y90
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y91
+		trigger = {
+				tag = Y91
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y92
+		trigger = {
+				tag = Y92
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y93
+		trigger = {
+				tag = Y93
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y94
+		trigger = {
+				tag = Y94
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y95
+		trigger = {
+				tag = Y95
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y96
+		trigger = {
+				tag = Y96
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y97
+		trigger = {
+				tag = Y97
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y98
+		trigger = {
+				tag = Y98
+		}
+	}
+	text = {
+		localisation_key = ADJ_Y99
+		trigger = {
+				tag = Y99
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z01
+		trigger = {
+				tag = Z01
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z02
+		trigger = {
+				tag = Z02
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z03
+		trigger = {
+				tag = Z03
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z04
+		trigger = {
+				tag = Z04
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z05
+		trigger = {
+				tag = Z05
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z06
+		trigger = {
+				tag = Z06
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z07
+		trigger = {
+				tag = Z07
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z08
+		trigger = {
+				tag = Z08
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z09
+		trigger = {
+				tag = Z09
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z10
+		trigger = {
+				tag = Z10
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z11
+		trigger = {
+				tag = Z11
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z12
+		trigger = {
+				tag = Z12
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z13
+		trigger = {
+				tag = Z13
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z14
+		trigger = {
+				tag = Z14
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z15
+		trigger = {
+				tag = Z15
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z16
+		trigger = {
+				tag = Z16
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z17
+		trigger = {
+				tag = Z17
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z18
+		trigger = {
+				tag = Z18
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z19
+		trigger = {
+				tag = Z19
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z20
+		trigger = {
+				tag = Z20
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z21
+		trigger = {
+				tag = Z21
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z22
+		trigger = {
+				tag = Z22
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z23
+		trigger = {
+				tag = Z23
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z24
+		trigger = {
+				tag = Z24
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z25
+		trigger = {
+				tag = Z25
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z26
+		trigger = {
+				tag = Z26
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z27
+		trigger = {
+				tag = Z27
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z28
+		trigger = {
+				tag = Z28
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z29
+		trigger = {
+				tag = Z29
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z30
+		trigger = {
+				tag = Z30
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z31
+		trigger = {
+				tag = Z31
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z32
+		trigger = {
+				tag = Z32
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z33
+		trigger = {
+				tag = Z33
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z34
+		trigger = {
+				tag = Z34
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z35
+		trigger = {
+				tag = Z35
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z36
+		trigger = {
+				tag = Z36
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z37
+		trigger = {
+				tag = Z37
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z38
+		trigger = {
+				tag = Z38
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z39
+		trigger = {
+				tag = Z39
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z40
+		trigger = {
+				tag = Z40
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z41
+		trigger = {
+				tag = Z41
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z42
+		trigger = {
+				tag = Z42
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z43
+		trigger = {
+				tag = Z43
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z44
+		trigger = {
+				tag = Z44
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z45
+		trigger = {
+				tag = Z45
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z46
+		trigger = {
+				tag = Z46
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z47
+		trigger = {
+				tag = Z47
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z48
+		trigger = {
+				tag = Z48
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z49
+		trigger = {
+				tag = Z49
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z50
+		trigger = {
+				tag = Z50
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z51
+		trigger = {
+				tag = Z51
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z52
+		trigger = {
+				tag = Z52
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z53
+		trigger = {
+				tag = Z53
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z54
+		trigger = {
+				tag = Z54
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z55
+		trigger = {
+				tag = Z55
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z56
+		trigger = {
+				tag = Z56
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z57
+		trigger = {
+				tag = Z57
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z58
+		trigger = {
+				tag = Z58
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z59
+		trigger = {
+				tag = Z59
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z60
+		trigger = {
+				tag = Z60
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z61
+		trigger = {
+				tag = Z61
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z62
+		trigger = {
+				tag = Z62
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z63
+		trigger = {
+				tag = Z63
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z64
+		trigger = {
+				tag = Z64
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z65
+		trigger = {
+				tag = Z65
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z66
+		trigger = {
+				tag = Z66
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z67
+		trigger = {
+				tag = Z67
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z68
+		trigger = {
+				tag = Z68
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z69
+		trigger = {
+				tag = Z69
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z70
+		trigger = {
+				tag = Z70
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z71
+		trigger = {
+				tag = Z71
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z72
+		trigger = {
+				tag = Z72
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z73
+		trigger = {
+				tag = Z73
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z74
+		trigger = {
+				tag = Z74
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z75
+		trigger = {
+				tag = Z75
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z76
+		trigger = {
+				tag = Z76
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z77
+		trigger = {
+				tag = Z77
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z78
+		trigger = {
+				tag = Z78
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z79
+		trigger = {
+				tag = Z79
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z80
+		trigger = {
+				tag = Z80
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z81
+		trigger = {
+				tag = Z81
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z82
+		trigger = {
+				tag = Z82
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z83
+		trigger = {
+				tag = Z83
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z84
+		trigger = {
+				tag = Z84
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z85
+		trigger = {
+				tag = Z85
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z86
+		trigger = {
+				tag = Z86
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z87
+		trigger = {
+				tag = Z87
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z90
+		trigger = {
+				tag = Z90
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z97
+		trigger = {
+				tag = Z97
+		}
+	}
+	text = {
+		localisation_key = ADJ_Z99
+		trigger = {
+				tag = Z99
+		}
+	}
+	text = {
+		localisation_key = ADJ_H99
+		trigger = {
+				tag = H99
+		}
+	}
+	text = {
+		localisation_key = ADJ_NPC
+		trigger = {
+				tag = NPC
+		}
+	}
+}

@@ -1,0 +1,1158 @@
+﻿l_english:
+ our_standing_tooltip:0 "[Root.FederationStandingROOT]\n"
+ J01_standing_tooltip:0 "[J01.FederationStandingJ01]\n\n\n\n"
+ J02_standing_tooltip:0 "[J02.FederationStandingJ02]\n\n\n\n"
+ J03_standing_tooltip:0 "[J03.FederationStandingJ03]\n\n\n\n"
+ J04_standing_tooltip:0 "[J04.FederationStandingJ04]\n\n\n\n"
+ J05_standing_tooltip:0 "[J05.FederationStandingJ05]\n\n\n\n"
+ J06_standing_tooltip:0 "[J06.FederationStandingJ06]\n\n\n\n"
+ J07_standing_tooltip:0 "[J07.FederationStandingJ07]\n\n\n\n"
+ J08_standing_tooltip:0 "[J08.FederationStandingJ08]\n\n\n\n"
+ J09_standing_tooltip:0 "[J09.FederationStandingJ09]\n\n\n\n"
+ J10_standing_tooltip:0 "[J10.FederationStandingJ10]\n\n\n"
+ 
+ J11_standing_tooltip:0 "[J11.FederationStandingJ11]\n\n\n\n"
+ J12_standing_tooltip:0 "[J12.FederationStandingJ12]\n\n\n\n"
+ J13_standing_tooltip:0 "[J13.FederationStandingJ13]\n\n\n\n"
+ J14_standing_tooltip:0 "[J14.FederationStandingJ14]\n\n\n\n"
+ J15_standing_tooltip:0 "[J15.FederationStandingJ15]\n\n\n\n"
+ J16_standing_tooltip:0 "[J16.FederationStandingJ16]\n\n\n\n"
+ J17_standing_tooltip:0 "[J17.FederationStandingJ17]\n\n\n\n"
+ J18_standing_tooltip:0 "[J18.FederationStandingJ18]\n\n\n\n"
+ J19_standing_tooltip:0 "[J19.FederationStandingJ19]\n\n\n\n"
+ J20_standing_tooltip:0 "[J20.FederationStandingJ20]\n\n\n\n"
+ 
+ J21_standing_tooltip:0 "[J21.FederationStandingJ21]\n\n\n\n"
+ J22_standing_tooltip:0 "[J22.FederationStandingJ22]\n\n\n\n"
+ J23_standing_tooltip:0 "[J23.FederationStandingJ23]\n\n\n\n"
+ J24_standing_tooltip:0 "[J24.FederationStandingJ24]\n\n\n\n"
+ J25_standing_tooltip:0 "[J25.FederationStandingJ25]\n\n\n\n"
+ J26_standing_tooltip:0 "[J26.FederationStandingJ26]\n\n\n\n"
+ J27_standing_tooltip:0 "[J27.FederationStandingJ27]\n\n\n\n"
+ J28_standing_tooltip:0 "[J28.FederationStandingJ28]\n\n\n\n"
+ J29_standing_tooltip:0 "[J29.FederationStandingJ29]\n\n\n\n"
+ J30_standing_tooltip:0 "[J30.FederationStandingJ30]\n\n\n\n"
+ J34_standing_tooltip:0 "[J34.FederationStandingJ34]\n\n\n\n"
+ J31_standing_tooltip:0 "[J31.FederationStandingJ31]\n\n"
+
+ 
+ click_to_hide_tooltip:0 "______________________________________________\n§YÏº¡º ±¦¾² ¬¨¦º 4 ¥¦§!\n"
+ click_to_display1_tooltip:0 "¨¯ª² ¦®¾ ±¦ ° ®¦³½¸³½ ²°ªµ³ §Y(1/4)§!"
+ click_to_display2_tooltip:0 "¨¯ª² ¦®¾ ±¦ ° ®¦³½¸³½ ²°ªµ³ §Y(2/4)§!"
+ click_to_display3_tooltip:0 "¨¯ª² ¦®¾ ±¦ ° ®¦³½¸³½ ²°ªµ³ §Y(3/4)§!"
+ click_to_display4_tooltip:0 "¨¯ª² ¦®¾ ±¦ ° ®¦³½¸³½ ²°ªµ³ §Y(4/4)§!"
+ standing_header_tooltip:0 "§M-------------------- ‰®¨°ª ¢ ´¦µªª ----------------------§!\n\n"
+ standing_header_tooltip_simple:0 "§M-------------------- ‰®¨°ª ¢ ´¦µªª ----------------------§!"
+ 
+ ###################################
+ ###################################
+ ##############SIMPLISTIC##########
+ ###################################
+ ###################################
+ lake_federation_standing_simple_title:0 "§M‰®¨°ª ¢ ´¦µªª§!"
+ lake_federation_standing_simple_desc:0 ""
+ 
+ J01_standing_tooltip_simple:0 "\n[J01.GetName] — [J01.FederationStandingJ01Simple]"
+ J02_standing_tooltip_simple:0 "[J02.GetName] — [J02.FederationStandingJ02Simple]"
+ J03_standing_tooltip_simple:0 "[J03.GetName] — [J03.FederationStandingJ03Simple]"
+ J04_standing_tooltip_simple:0 "[J04.GetName] — [J04.FederationStandingJ04Simple]"
+ J05_standing_tooltip_simple:0 "[J05.GetName] — [J05.FederationStandingJ05Simple]"
+ J06_standing_tooltip_simple:0 "[J06.GetName] — [J06.FederationStandingJ06Simple]"
+ J07_standing_tooltip_simple:0 "[J07.GetName] — [J07.FederationStandingJ07Simple]"
+ J08_standing_tooltip_simple:0 "[J08.GetName] — [J08.FederationStandingJ08Simple]"
+ J09_standing_tooltip_simple:0 "[J09.GetName] — [J09.FederationStandingJ09Simple]\n"
+
+ J10_standing_tooltip_simple:0 "[J10.GetName] — [J10.FederationStandingJ10Simple]"
+ J11_standing_tooltip_simple:0 "[J11.GetName] — [J11.FederationStandingJ11Simple]"
+ J12_standing_tooltip_simple:0 "[J12.GetName] — [J12.FederationStandingJ12Simple]"
+ J13_standing_tooltip_simple:0 "[J13.GetName] — [J13.FederationStandingJ13Simple]"
+ J14_standing_tooltip_simple:0 "[J14.GetName] — [J14.FederationStandingJ14Simple]"
+ J15_standing_tooltip_simple:0 "[J15.GetName] — [J15.FederationStandingJ15Simple]"
+ J16_standing_tooltip_simple:0 "[J16.GetName] — [J16.FederationStandingJ16Simple]"
+ J17_standing_tooltip_simple:0 "[J17.GetName] — [J17.FederationStandingJ17Simple]"
+ J18_standing_tooltip_simple:0 "[J18.GetName] — [J18.FederationStandingJ18Simple]"
+ J19_standing_tooltip_simple:0 "[J19.GetName] — [J19.FederationStandingJ19Simple]\n"
+
+ J20_standing_tooltip_simple:0 "[J20.GetName] — [J20.FederationStandingJ20Simple]"
+ J21_standing_tooltip_simple:0 "[J21.GetName] — [J21.FederationStandingJ21Simple]"
+ J22_standing_tooltip_simple:0 "[J22.GetName] — [J22.FederationStandingJ22Simple]"
+ J23_standing_tooltip_simple:0 "[J23.GetName] — [J23.FederationStandingJ23Simple]"
+ J24_standing_tooltip_simple:0 "[J24.GetName] — [J24.FederationStandingJ24Simple]"
+ J25_standing_tooltip_simple:0 "[J25.GetName] — [J25.FederationStandingJ25Simple]"
+ J26_standing_tooltip_simple:0 "[J26.GetName] — [J26.FederationStandingJ26Simple]"
+ J27_standing_tooltip_simple:0 "[J27.GetName] — [J27.FederationStandingJ27Simple]"
+ J28_standing_tooltip_simple:0 "[J28.GetName] — [J28.FederationStandingJ28Simple]"
+ J29_standing_tooltip_simple:0 "[J29.GetName] — [J29.FederationStandingJ29Simple]\n"
+
+ J30_standing_tooltip_simple:0 "[J30.GetName] — [J30.FederationStandingJ30Simple]"
+ J31_standing_tooltip_simple:0 "[J31.GetName] — [J31.FederationStandingJ31Simple]"
+ J32_standing_tooltip_simple:0 "[J32.GetName] — [J32.FederationStandingJ32Simple]"
+ J33_standing_tooltip_simple:0 "[J33.GetName] — [J33.FederationStandingJ33Simple]"
+ J34_standing_tooltip_simple:0 "[J34.GetName] — [J34.FederationStandingJ34Simple]"
+
+ J01_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J01_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J01_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J01_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J01_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J01_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J01_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J01_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J01_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J01_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J01_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J01_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J01_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J01_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J01_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J01_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J01_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J01_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J01_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J01_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J01_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J01_under_occupation_simple:0 "§gÏ® §!"
+ J01_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J01_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J01_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J01_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J01_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J01_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J02_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J02_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J02_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J02_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J02_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J02_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J02_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J02_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J02_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J02_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J02_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J02_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J02_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J02_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J02_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J02_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J02_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J02_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J02_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J02_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J02_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J02_under_occupation_simple:0 "§gÏ® §!"
+ J02_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J02_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J02_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J02_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J02_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J02_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J03_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J03_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J03_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J03_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J03_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J03_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J03_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J03_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J03_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J03_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J03_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J03_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J03_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J03_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J03_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J03_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J03_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J03_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J03_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J03_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J03_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J03_under_occupation_simple:0 "§gÏ® §!"
+ J03_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J03_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J03_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J03_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J03_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J03_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J04_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J04_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J04_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J04_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J04_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J04_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J04_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J04_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J04_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J04_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J04_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J04_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J04_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J04_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J04_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J04_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J04_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J04_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J04_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J04_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J04_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J04_under_occupation_simple:0 "§gÏ® §!"
+ J04_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J04_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J04_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J04_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J04_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J04_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J05_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J05_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J05_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J05_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J05_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J05_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J05_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J05_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J05_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J05_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J05_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J05_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J05_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J05_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J05_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J05_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J05_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J05_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J05_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J05_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J05_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J05_under_occupation_simple:0 "§gÏ® §!"
+ J05_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J05_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J05_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J05_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J05_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J05_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J06_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J06_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J06_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J06_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J06_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J06_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J06_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J06_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J06_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J06_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J06_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J06_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J06_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J06_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J06_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J06_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J06_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J06_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J06_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J06_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J06_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J06_under_occupation_simple:0 "§gÏ® §!"
+ J06_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J06_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J06_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J06_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J06_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J06_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J07_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J07_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J07_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J07_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J07_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J07_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J07_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J07_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J07_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J07_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J07_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J07_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J07_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J07_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J07_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J07_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J07_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J07_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J07_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J07_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J07_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J07_under_occupation_simple:0 "§gÏ® §!"
+ J07_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J07_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J07_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J07_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J07_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J07_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J08_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J08_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J08_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J08_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J08_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J08_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J08_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J08_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J08_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J08_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J08_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J08_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J08_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J08_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J08_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J08_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J08_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J08_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J08_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J08_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J08_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J08_under_occupation_simple:0 "§gÏ® §!"
+ J08_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J08_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J08_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J08_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J08_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J08_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J09_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J09_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J09_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J09_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J09_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J09_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J09_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J09_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J09_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J09_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J09_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J09_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J09_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J09_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J09_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J09_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J09_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J09_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J09_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J09_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J09_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J09_under_occupation_simple:0 "§gÏ® §!"
+ J09_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J09_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J09_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J09_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J09_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J09_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J10_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J10_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J10_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J10_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J10_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J10_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J10_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J10_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J10_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J10_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J10_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J10_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J10_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J10_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J10_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J10_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J10_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J10_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J10_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J10_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J10_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J10_under_occupation_simple:0 "§gÏ® §!"
+ J10_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J10_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J10_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J10_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J10_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J10_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J11_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J11_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J11_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J11_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J11_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J11_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J11_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J11_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J11_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J11_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J11_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J11_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J11_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J11_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J11_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J11_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J11_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J11_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J11_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J11_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J11_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J11_under_occupation_simple:0 "§gÏ® §!"
+ J11_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J11_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J11_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J11_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J11_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J11_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J12_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J12_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J12_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J12_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J12_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J12_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J12_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J12_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J12_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J12_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J12_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J12_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J12_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J12_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J12_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J12_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J12_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J12_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J12_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J12_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J12_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J12_under_occupation_simple:0 "§gÏ® §!"
+ J12_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J12_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J12_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J12_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J12_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J12_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J13_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J13_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J13_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J13_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J13_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J13_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J13_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J13_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J13_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J13_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J13_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J13_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J13_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J13_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J13_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J13_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J13_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J13_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J13_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J13_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J13_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J13_under_occupation_simple:0 "§gÏ® §!"
+ J13_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J13_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J13_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J13_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J13_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J13_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J14_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J14_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J14_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J14_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J14_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J14_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J14_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J14_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J14_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J14_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J14_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J14_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J14_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J14_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J14_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J14_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J14_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J14_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J14_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J14_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J14_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J14_under_occupation_simple:0 "§gÏ® §!"
+ J14_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J14_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J14_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J14_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J14_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J14_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J15_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J15_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J15_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J15_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J15_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J15_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J15_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J15_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J15_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J15_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J15_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J15_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J15_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J15_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J15_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J15_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J15_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J15_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J15_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J15_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J15_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J15_under_occupation_simple:0 "§gÏ® §!"
+ J15_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J15_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J15_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J15_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J15_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J15_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J16_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J16_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J16_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J16_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J16_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J16_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J16_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J16_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J16_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J16_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J16_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J16_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J16_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J16_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J16_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J16_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J16_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J16_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J16_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J16_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J16_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J16_under_occupation_simple:0 "§gÏ® §!"
+ J16_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J16_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J16_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J16_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J16_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J16_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J17_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J17_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J17_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J17_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J17_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J17_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J17_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J17_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J17_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J17_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J17_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J17_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J17_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J17_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J17_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J17_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J17_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J17_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J17_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J17_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J17_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J17_under_occupation_simple:0 "§gÏ® §!"
+ J17_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J17_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J17_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J17_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J17_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J17_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J18_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J18_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J18_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J18_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J18_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J18_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J18_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J18_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J18_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J18_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J18_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J18_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J18_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J18_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J18_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J18_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J18_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J18_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J18_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J18_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J18_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J18_under_occupation_simple:0 "§gÏ® §!"
+ J18_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J18_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J18_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J18_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J18_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J18_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J19_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J19_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J19_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J19_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J19_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J19_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J19_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J19_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J19_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J19_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J19_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J19_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J19_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J19_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J19_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J19_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J19_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J19_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J19_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J19_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J19_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J19_under_occupation_simple:0 "§gÏ® §!"
+ J19_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J19_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J19_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J19_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J19_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J19_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J20_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J20_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J20_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J20_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J20_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J20_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J20_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J20_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J20_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J20_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J20_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J20_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J20_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J20_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J20_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J20_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J20_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J20_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J20_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J20_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J20_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J20_under_occupation_simple:0 "§gÏ® §!"
+ J20_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J20_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J20_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J20_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J20_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J20_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J21_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J21_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J21_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J21_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J21_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J21_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J21_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J21_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J21_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J21_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J21_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J21_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J21_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J21_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J21_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J21_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J21_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J21_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J21_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J21_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J21_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J21_under_occupation_simple:0 "§gÏ® §!"
+ J21_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J21_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J21_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J21_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J21_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J21_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J22_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J22_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J22_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J22_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J22_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J22_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J22_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J22_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J22_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J22_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J22_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J22_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J22_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J22_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J22_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J22_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J22_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J22_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J22_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J22_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J22_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J22_under_occupation_simple:0 "§gÏ® §!"
+ J22_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J22_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J22_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J22_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J22_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J22_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J23_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J23_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J23_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J23_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J23_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J23_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J23_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J23_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J23_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J23_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J23_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J23_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J23_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J23_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J23_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J23_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J23_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J23_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J23_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J23_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J23_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J23_under_occupation_simple:0 "§gÏ® §!"
+ J23_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J23_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J23_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J23_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J23_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J23_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J24_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J24_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J24_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J24_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J24_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J24_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J24_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J24_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J24_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J24_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J24_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J24_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J24_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J24_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J24_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J24_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J24_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J24_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J24_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J24_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J24_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J24_under_occupation_simple:0 "§gÏ® §!"
+ J24_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J24_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J24_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J24_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J24_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J24_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J25_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J25_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J25_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J25_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J25_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J25_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J25_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J25_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J25_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J25_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J25_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J25_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J25_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J25_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J25_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J25_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J25_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J25_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J25_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J25_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J25_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J25_under_occupation_simple:0 "§gÏ® §!"
+ J25_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J25_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J25_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J25_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J25_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J25_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J26_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J26_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J26_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J26_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J26_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J26_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J26_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J26_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J26_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J26_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J26_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J26_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J26_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J26_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J26_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J26_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J26_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J26_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J26_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J26_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J26_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J26_under_occupation_simple:0 "§gÏ® §!"
+ J26_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J26_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J26_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J26_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J26_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J26_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J27_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J27_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J27_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J27_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J27_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J27_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J27_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J27_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J27_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J27_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J27_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J27_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J27_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J27_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J27_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J27_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J27_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J27_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J27_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J27_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J27_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J27_under_occupation_simple:0 "§gÏ® §!"
+ J27_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J27_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J27_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J27_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J27_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J27_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J28_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J28_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J28_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J28_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J28_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J28_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J28_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J28_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J28_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J28_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J28_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J28_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J28_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J28_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J28_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J28_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J28_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J28_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J28_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J28_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J28_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J28_under_occupation_simple:0 "§gÏ® §!"
+ J28_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J28_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J28_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J28_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J28_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J28_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J29_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J29_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J29_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J29_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J29_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J29_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J29_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J29_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J29_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J29_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J29_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J29_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J29_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J29_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J29_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J29_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J29_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J29_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J29_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J29_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J29_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J29_under_occupation_simple:0 "§gÏ® §!"
+ J29_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J29_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J29_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J29_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J29_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J29_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J30_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J30_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J30_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J30_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J30_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J30_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J30_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J30_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J30_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J30_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J30_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J30_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J30_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J30_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J30_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J30_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J30_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J30_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J30_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J30_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J30_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J30_under_occupation_simple:0 "§gÏ® §!"
+ J30_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J30_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J30_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J30_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J30_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J30_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J31_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J31_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J31_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J31_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J31_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J31_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J31_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J31_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J31_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J31_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J31_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J31_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J31_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J31_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J31_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J31_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J31_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J31_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J31_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J31_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J31_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J31_under_occupation_simple:0 "§gÏ® §!"
+ J31_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J31_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J31_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J31_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J31_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J31_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J32_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J32_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J32_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J32_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J32_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J32_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J32_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J32_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J32_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J32_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J32_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J32_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J32_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J32_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J32_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J32_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J32_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J32_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J32_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J32_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J32_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J32_under_occupation_simple:0 "§gÏ® §!"
+ J32_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J32_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J32_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J32_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J32_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J32_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+
+ J33_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J33_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J33_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J33_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J33_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J33_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J33_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J33_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J33_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J33_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J33_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J33_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J33_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J33_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J33_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J33_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J33_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J33_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J33_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J33_basic_sword_faction_simple:0 "    §R(¶)§!"
+ J33_basic_purse_faction_simple:0 "    §Y(Œ®ž¬)§!"
+ J33_under_occupation_simple:0 "§gÏ® §!"
+ J33_under_occupation_sword_simple:0 "§gÏ® §!    §R(¶)§!"
+ J33_under_occupation_purse_simple:0 "§gÏ® §!    §Y(Œ®ž¬)§!"
+ J33_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J33_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J33_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J33_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+    
+ J34_lake_leader_simple:0 "§Tˆª¦ Ê¦µªª§!"
+ J34_lake_leader_sword_simple:0 "§Tˆª¦§!    §R(¶)§!"
+ J34_lake_leader_purse_simple:0 "§Tˆª¦§!    §Y(Œ®ž¬)§!"
+ J34_lake_very_high_standing_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!"
+ J34_lake_very_high_standing_sword_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §R(¶)§!"
+ J34_lake_very_high_standing_purse_simple:0 "§M¶°¿ ¢º¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J34_lake_high_standing_simple:0 "§GÏº¬ ±®¨°ª§!"
+ J34_lake_high_standing_sword_simple:0 "§GÏº¬ ±®¨°ª§!    §R(¶)§!"
+ J34_lake_high_standing_purse_simple:0 "§GÏº¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J34_lake_normal_standing_simple:0 "§O¯®¿° ±®¨°ª§!"
+ J34_lake_normal_standing_sword_simple:0 "§O¯®¿° ±®¨°ª§!    §R(¶)§!"
+ J34_lake_normal_standing_purse_simple:0 "§O¯®¿° ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J34_lake_low_standing_simple:0 "§Yª©¬ ±®¨°ª§!"
+ J34_lake_low_standing_sword_simple:0 "§Yª©¬ ±®¨°ª§!    §R(¶)§!"
+ J34_lake_low_standing_purse_simple:0 "§Yª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J34_lake_very_low_standing_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!"
+ J34_lake_very_low_standing_sword_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §R(¶)§!"
+ J34_lake_very_low_standing_purse_simple:0 "§R¶°¿ °ª©¬ ±®¨°ª§!    §Y(Œ®ž¬)§!"
+ J34_basic_no_faction_simple:0 "§g Ê¬µª¾ ²³²²¢³² §!"
+ J34_basic_sword_faction_simple:0 "§GÊ¬µª¾ ¶§!"
+ J34_basic_purse_faction_simple:0 "§BÊ¬µª¾ Œ®¿¬§!"
+ J34_under_occupation_simple:0 "§gÏ® §!"
+ J34_under_occupation_sword_simple:0 "§gÏ® §!§G ¶ §!"
+ J34_under_occupation_purse_simple:0 "§gÏ® §!§B Œ®ž¬ §!"
+ J34_under_foreign_occupation_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!"
+ J34_under_foreign_occupation_sword_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §R(¶)§!"
+ J34_under_foreign_occupation_purse_simple:0 "§g†°²°°¾ ¬¬³±µª¾§!    §Y(Œ®ž¬)§!"
+ J34_lake_is_dead_simple:0 "§g‹°ª¶²¨°§!"
+ 
+ lake_federation_cohesion_title:0 "§MÔ±®¶ž°°²¿ ´¦µªª§!"
+ lake_federation_cohesion_desc:0 "§MÔ±®¶ž°°²¿§! §MÊ¦µªª§! ¼² ±¬©²®¿ ±®ª²ª¶¬þ ²¡ª®¿°²ª ¥³¦²¢.\n‰ª §M5 Ô±®¶ž°°²ª§!, ¢ ¥³¦²¢-¶®°º ±®³¶½² §G-2.5%§! ²ª¯²ª ¢ ¶¬¢.\n‰ª §J4 Ô±®¶ž°°²ª§!, §MÊ¦µª¾§! ¯¨² ¡º²¿ µ°²®ª©¢° ¢ ¦°³ °µª½ ±® ¢º±®°°ª¾ ¯ªªª §T¡¹¦ª°°°¾ Ê¦µª¾§!.\n‰ª §G3 Ô±®¶ž°°²ª§!, ƒ¯ ¡°ªþ ¯¨² ´³°¬µª°ª¢²¿ ±® ±²þ¬ª.\n‰ª §Y2 Ô±®¶ž°°²ª§!, ²°¢ª²¾ ¦²³±° Œ°ª §MÔ®¦¢²¿ ¡²¢°°º¯ ±³²ž¯§! ±©¢®¾½¸ ¥³¦²¢³ ¢ºþ²ª ª© ²¢ Ê¦µªª, ®ª ° ¬¨²¾ ¦²²¶° ¯¥³¸²¢°°º¯.\n‰ª §R1 Ô±®¶ž°°²ª§!, §MÊ¦µª¾§! ¬®²¾, ¶² ¯¨² ±ª¢²ª ¬ ±®°¯³ ¬³, ®ª ° ³¦²¾ ©¸ª²ª²¿ ¼² ³¶¨¦°ª."
+ lake_federation_cohesion_5:0 "Ù¬³¸¾ ±®¶ž°°²¿ — §M5§!."
+ lake_federation_cohesion_4:0 "Ù¬³¸¾ ±®¶ž°°²¿ — §J4§!."
+ lake_federation_cohesion_3:0 "Ù¬³¸¾ ±®¶ž°°²¿ — §G3§!."
+ lake_federation_cohesion_2:0 "Ù¬³¸¾ ±®¶ž°°²¿ — §Y2§!."
+ lake_federation_cohesion_1:0 "Ù¬³¸¾ ±®¶ž°°²¿ — §R1§!."
+ lake_federation_5_cohesion: "Ô±®¶ž°°²¿ Ê¦µªª"
+ lake_federation_splinter_rally: "Ô¡®ª¿ ¢ ¬°´®ª¬² ¬®¿°ª¬¢"
+ lake_federation_splintering: "¬®¬ Ê¦µªª"
+ lake_federation_cohesion_up: "§MÔ±®¶ž°°²¿ ´¦µªª§! §G±¢ºª²¾§!."
+ lake_federation_cohesion_up_5: "§MÊ¦µª¾§! °¦ª²¾ ¢ ²¾°ªª §Y¯¬ª¯®¿°þ§! §M±®¶ž°°²ª§!, ²¬ ¶² ¢¯² ¼²¥:"
+ lake_federation_cohesion_down: "§MÔ±®¶ž°°²¿ ´¦µªª§! §R±°ª©ª²¾§!."
+ lake_federation_cohesion_splinter_title: "§MÔ®¦¢²¿ ¡²¢°°º¯ ±³²ž¯§!"
+ lake_federation_cohesion_splinter_desc: "‰ªŒ® ¢¯¾ ²²¿¾  Ê¦µªþ ª ²¯°ª²¿ ž, ¶²¡º ¢ ²ª¦ª°µº ¯¥®ª ®¦¢²¿ ¢¯³ ª²ª°°¯³ ±¦°©°¶°ª½."
+ lake_federation_cohesion_splinter_2_title: "§MÔ®¦¢²¿ ¡²¢°°º¯ ±³²ž¯§!"
+ lake_federation_cohesion_splinter_2_desc: "®²ª ¡¹¦ª°ª®¾, ° ¡© °. ‰þ¦ž² ®ª ¼² °¯ ° ±®¿©³ ª®ª °², ±¬ °ª©¢²°, °, °¯²¾ °ª ° ¶², ¯º ª¦ž¯ ¢±ž¦, ¶²¡º ®¦¢²¿ ¢þ ³¦¿¡."
+ lake_federation_cohesion_splintering: "§MÊ¦µª¾§! °¶°ž² §Y¬®º¢²¿¾§!, ¶² ±ª¢¦ž² ¬ §R¬ª©ª³§! ¢ ¦ ¬²¥ ¦³¥ª ¶®°º ´¦µªª ¡©³½² ª®ª ¡¹¦ª°¾²¾ ¢ °¢º ¥³¦²¢. ¦°¬ ¦³¥ª ¢²°³² ° ©¸ª²³ ¯¥ ³¸²¢¢°ª¾ Ê¦µªª."
+ federation_cohesion_forming: "º ©¦¦ª¯ °¢³½ °µª½!"
+ cohesion_federation_denounced: "Ï ²¥ª, §R²¬®¢Œª¾§! ² §MÊ¦µªª§! ±®³¶² ¼² ±ª¯³¸²¢."
+ cohesion_federation_supported: "Ï ²¥ª, §G±¦¦¨ª¢½¸ª§! §MÊ¦µª½§! ±®³¶² ¼² ±ª¯³¸²¢."
+ cohesion_game_over: "‰ª°¾¢ ¼², §R¢º ©¬°¶ª² ª¥³§!."
+ federation_cohesion_triumph_tt: "Ïºª¥®ª ¢þ°³ ±²ª¢ §Y¬°²¢¢§!\n™² ±µª¾ ¯¨² ¡º²¿ ª±®¿©¢° ²®¿¬ ¦ª° ©."
+ federation_cohesion_doomer_tt: "§Y°²¢º§! ²°¾®ª ³ ° °µª°®¿°º ©¯®ª.\n™² ±µª¾ ¯¨² ¡º²¿ ª±®¿©¢° ²®¿¬ ¦ª° ©."
+ lake_the_cohesion_tooltip: "Ù¬³¸¾ ±®¶ž°°²¿ — ° ¯° §J4§!."
+ 
+ splintering.1.t: "Ð¬®"
+ splintering.1.d: "£icon_lake_federation_crisis£\n       Ï ² ¢¯¾ ¬¬ ¢ ¢ Ê¦µª½ ±Œ²°³®¿, ¯°¥ª ¢°³²ª ° ²®ª ¯°¢²¿¾ ¢ ²¯, ¶² ¼² ®³¶Œªþ ±³²¿ ¦®¾ ª ¡³¦³¸¥. ¬²º ¯®¿¶¬ª ±º²½²¾ ±®°²¿½ ³°ª¶²¨ª²¿ Ê¦µª½ ª ©¦®ª²¿ ²ª¦ª°ºþ °¦ ° °¢º ¥³¦²¢."
+ splintering.1.a: "Ô¯ Ê¦µª¾ ¦¥²¾..."
+ 
+ splintering.2.t: "¢¾ °µª¾"
+ splintering.2.d: "£icon_lake_federation_crisis£\n       ‰¬®¿¬³ ¯º ©°ª¯®ª ¦²þ° ±®¨°ª ¢ Ê¦µªª, ¦³¥ª ¥¦ ²±¿ °¦½²¾ ° °, ¶²¡º ±ª¢²ª °Œ °¦ ¬ ¢²®¯³ ¡³¦³¸¯³ © ž ±¦®¯ª. ®ª ¯º ° ¢±®¿©³¯¾ ¼²þ ¢©¯¨°²¿½, ž ±®³¶ª² ¬²-² ¦³¥þ, ° ², ¬² ¢¦ª² ¢ Ê¦µª½, ¢º¬ µ°¾² °Œ³ ®¾®¿°²¿."
+ splintering.2.a: "Ïº²ª¯ ¢ ¦ª°¶¬³!"
+ splintering.2.b: "º ° ²° Ê¦µªª!"
+ 
+ splintering.3.t: "‰©ª¦°² ±¬ª¦² Ê¦µª½"
+ splintering.3.d: "£icon_lake_federation_crisis£\n       º°Œ° ³¬¢¦²¢ ±¬ª°³® Ê¦µª½, ¶²¡º ¢©¥®¢ª²¿ ¦°³ ª© ²¬®¢Œª¾ ´¬µªþ. °¥ª ¢ª¦¾², ¶² ±²ª²º °¡ª½² ª®³."
+ splintering.3.a: "²³±² °¢¾ ¼."
+ 
+ splintering.4.t: "‰©ª¦°² ±¦¦¨ª¢² Ê¦µª½"
+ splintering.4.d: "£icon_lake_federation_crisis£\n       ¯²¾ ° ², ¶² °¬²º ²¬®¢Œª¾ ´¬µªª ª¸³² ¢¥ ®ª¦, ¢¦³¸ªþ ¥¦ Ê¦µªª ²ª² ° ²¨ ¢¥ ³¶¨¦°ª¾, ¦¬©º¢¾ ¢¯, ¶² ±®¦°ª ¦°ª Ê¦µªª ¸ ° °²³±ª®ª."
+ splintering.4.a: "º ©¦¢ª¯ ±¦²®þ!"
+ 
+ splintering.5.t: "‰ª¦ª°ª²¿¾ ¬ °µªª"
+ splintering.5.d: "£icon_lake_federation_crisis£\n       Ï ³®¢ª¾, ¬¥¦ Ê¦µª¾ ©³Œ²¾,  °¬²º, ¬¬ ª ¯º, ²¬®®ª¿, ¡©¢¢ ¢ª ¡²¢°°º ¥³¦²¢, ¢©°ª¬² ¢±, ¬¯³ ¯º ¡³¦¯ ¢°º. ®ª ¯º ±ª¦ª°ª¯¾ ¬ °Œª¯ ¡²¿¾¯ þ¶, ² ¢ ®³¶ ª ±¡¦º ¬ °¯ ¡³¦³² ²°ª²¿¾ ®³¶Œ, ° ®ª Ê¦µª¾ ±¡¦ª², ² ° ° ¡³¦² ¡®¥¬®°° ¬ ²¯, ¬² ž ±¬ª°³®."
+ splintering.5.a: "º ¡¹¦ª°ª¯¾ ¢ ª²ª°°³½ °µª½!"
+ splintering.5.b: "º ° ²° Ê¦µªª!"
+ 
+ splintering.6.t: "¶¢º ±ª¦ª°¾½²¾ ¬ …¡¿½²¦¬³"
+ splintering.6.d: "£icon_lake_federation_crisis£\n       ¥¦ Ê¦µª¾ °¶® ²¢¢º¢²¿ ¯²ª¬ ³ ¬°²¢¢, ¢º°®ª¢¾ ¥³±± ¬°°ª¬¢, ª©¢²°¾ ¬¬ ¢, ¢©¥®¢ª® ¦¢ª¨°ª ° ½¥. ™² ¥³±± °ª® ¢°²¿ ¬ ¢¯³ ¦³, ¶¯ ¦°¯³ ¥¦³, ª ²±¿ ±ª¦ª°ª®¿ ¬ ²¬®¢Œ¯³¾ …¡¿½²¦¬³."
+ splintering.6.a: "º ¢°ž¯ ª ¢ ²þ!"
+ 
+ splintering.7.t: "Ð¬®¿°ª¬ª ¡¹¾¢®¾½² ¢þ°³"
+ splintering.7.d: "£icon_lake_federation_crisis£\n       Ù±¿ ¥°ªµº ¶¶°º,  ¢°²¿ ±¦®°, ´¬µªª ¬®¿°ª¬¢ ¡¹¦ª°ª®ª¿, ¶²¡º © ª °¢¥¦ ±¬°¶ª²¿  Ê¦µªþ."
+ splintering.7.a: "Ô³¦¿¡ ²ª¦ª°¥ °¦ ¡³¦² Œ°!"
+ 
+ splintering.8.t: "°µ ¬®"
+ splintering.8.d: "£icon_lake_federation_crisis£\n       ‰® ¦®¥ª ®² ¡¿¡º ²ª¦ª°µº ®¨ª®ª ³¨ª ª ¦¥¢ª®ª¿  ±³²ª ¢¥ ¡³¦³¸¥."
+ splintering.8.a: "²°º° Ê¦µªª ¡®¿Œ °²!"
+ splintering.8.b: "Ê¦µª¾ ²¨²¢³²!"
+ 
+ splintering.9.t: "¬³³²°¥° ²±²°"
+ splintering.9.d: "£icon_lake_federation_crisis£\n       ¬³¨ž°°ºþ  ¦¢³ ²° °Œª¯ª ª®¯ª, ²°ª²®¿° ¯®¦þ ¥¦ ¬³³²°¥° ° ª¯® ª°¥ ¢º¡, ¬¯ ¬¬ ¬®°ª²¿ ¬®°. ‰¬®¿¬³ Ê¦µª¾, °¬µª°ª¢¢Œ¾ ¥ ©¦°ª, ¡º® ©¡¶° ¢ª¯ ¥¾¦³¸ª¯ ¬¯, ¯® ¬² ²®¾ ±²ª¢ ²¥, ¶²¡º ¯º ±¢ª®ª¿  ¼²ª¯ °¦©³¯°ª¯."
+ splintering.9.a: "Œ ¥³¦²¢ ¢º¬¢° ª ¥²¢ ¬ ¢þ°!"
+ 
+ splintering.10.t: "°µ ¬®"
+ splintering.10.d: "£icon_lake_federation_crisis£\n       ‰® ¦®¥ª ®² ¡¿¡º Ùª¦ª°º ®¨ª®ª ³¨ª ª ¦¥¢ª®ª¿  ±³²ª ¢¥ ¡³¦³¸¥. ‰¬®¿¬³ ¢þ° ¬©®¿ ¡©©³®¿²²°þ, ±©ª¦°² ° ¯¯°² ž °¶® ±¦®ª® ±³²¿ ¦®¾ ²®¿°º."
+ splintering.10.a: "²°º° Ê¦µªª ¡®¿Œ °²!"
+ splintering.10.b: "Ê¦µª¾ ²¨²¢³²!"
+ 
+ federation_splintering_sides: "Ï ²¥ª §R¬®¢Œª§! §MÊ¦µª½§! ²¬³½² ², ¬² ž §G±¦¦¨ª¢²§! it.\n§gÙ¥ª, ±®³¶ª¢Œª ±¯ªª, ²°³² ¢®¯ª ° °¬®¿¬ ¦°þ, ¶²¡º ±ª¦ª°ª²¿¾ ¬ ¢þ°.§!"
+ FEDERATION_SPLINTER_WAR_NAME:0 "Ð¬®"
+ cb_federation_splinter_war:0 "Ð¬®²¿ Ê¦µª½"
+ cb_federation_splinter_war_desc:0 "º ³°ª¶²¨ª¯ Ê¦µª½ © ª °¢¥¦." #Redundant? -Ditto
+ federation_splinter_war_desc:0 "º ³°ª¶²¨ª¯ Ê¦µª½ © ª °¢¥¦."
+ CB_ALLOWED_po_federation_splinter:0 "‰¬°¶ª²¿  ¬®¯"
+ PEACE_po_federation_splinter:0 "§T‰¬°¶ª²¿  ¬®¯§!"
+ po_federation_splinter_desc:0 "º ª©¯°ª¯ ³¦¿¡³ Ùª¦ª°¥ °¦!"
+ 
+

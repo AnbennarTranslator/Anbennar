@@ -2,7 +2,9 @@
  PAPAL_BULL_POSSIBLE:0 "§Y…®²º ¡³®®º§!\n™² ¡³®®º, ¬²º ¯¨² ª©¦²¿ ¥®¢ ¬²².\n"
  PAPAL_BULL_EXPLANATION:1 "…®²º ¡³®®º — ¼² ¡°³º, ¬²º ¯¨² ¬²ª¢ª¢²¿ ¥®¢ ¬²², ª±®¿©¢¢ ¦²¢ ª© ¬©°º ¬²². °ª ±²°¾½²¾ ° ¢ ¢®ª°¬ª ²°º. Ô¬ ¦þ²¢ª¾ ©¬°¶ª¢²¾  ¯²¿½ Ï¢°¥ ¬², ±ª ¬²¯ °ª ¡º®ª ±ª°¾²º."
  FABRICATE_CLAIM_INSIDE_HRE:1 "Ï°³²ª †: $VAL|-=1%$\n"  #ANBENNAR ADJUSTED
- RAJPUT_FORCELIMIT:1 "$VAL|%Y$ ² °Œ¥ ®ª¯ª² ¢þ¬ ($FL$) ¯¥³² ¡º²¿ °°¾²º ¢ ¬¶²¢ §G¢°°º ²´¬²¢§! ª©-© ®¦³½¸ª ´¬²¢:\n"  #ANBENNAR ADJUSTED
+ RAJPUT_FORCELIMIT:1 "$VAL|%Y$ ² °Œ¥ ®ª¯ª² ¢þ¬ ($FL$) ¯¥³² ¡º²¿ °°¾²º ¢ ¬¶²¢ §G¢°°º ²´¬²¢§! ª©-© ®¦³½¸ª ´¬²¢:\n"
+ COSSACKS_FORCELIMIT:1 "$VAL|%Y$ ² °Œ¥ ®ª¯ª² ¢þ¬ ($FL$) ¯¥³² ¡º²¿ °°¾²º ¢ ¬¶²¢ §G¶¢¢§! ª©-© ®¦³½¸ª ´¬²¢:\n"
+ #ANBENNAR ADJUSTED
  NO_CURRENT_COUNTRIES_IN_THIS_LIST:0 "² ²¬ª ²° ¢ ¦°°ºþ ¯¯°²"
  MODIFIER_COUNTRY_ADMIN_POWER:0 "¨¯¾¶° ª©¯°°ª ¦¯. ¶¬¢"
  MODIFIER_COUNTRY_DIPLOMATIC_POWER:0 "¨¯¾¶° ª©¯°°ª ¦ª±. ¶¬¢"
@@ -217,6 +219,7 @@
  HRE_REVOKE_DESC:0 "²¯° ¼²þ ´¯º ¡þ¦ž²¾ Ï¯ ¢ $COST|Y$ ª¯±¬¥ ¢²ª²². $EFFECTS$"
  emperor_revoked_reform:0 "²¯°ž°°¾ ª¯±¬¾ ´¯"
  REFORM_DESIRE_CONV_SPEED:0 "Ð¬º²ª ©°°ªþ: $MOD|+G%$\n"
+ enables_cossack_regiments:0 "¶¢¬ª ±®¬ª" 
  enables_rajput_regiments:0 "‰®¬ª ¡¢º ²´¬²¢"
  alert_piety_interaction_instant:0 "¨° ª±®¿©¢²¿ ¡®° ´þ"
  STATE_PROSPERITY_TOOLTIP:0 "$STATE|Y$ ª¯² $PROSPERITY|Y%0$ ±µ¢²°ª¾."

@@ -6,7 +6,7 @@
  ########################
  
  #Raheni caste estates
- caste_races_uppercastes_tt:0 "£icon_trigger_no_in_text£ ª¬¥¦\n\n\n§Y[Root.Country.GetName]: ²¢¾ ¯¡ª®¿°²¿§!\n[caste_fluidity_title_check]\n[Root.casteFluidityBar]\n\nŒ ¬²¢¾ ¯¡ª®¿°²¿ ¦ž² °¯: \n[caste_fluidity_modifier_check]\n\n\n§Y[Root.GetUpper CastesName]: Ðº ¬²§!\n[harimari_in_uppercastes_check]\n[human_in_uppercastes_check]\n\n®ª ¢º ¢®¦² ¦²²¶°º¯ ¬®ª¶²¢¯ ±¢ª°µªþ ¢ ³¡¬°²ª°°², ¢º ¯¨² ¦¡¢ª²¿ ª®ª ³¦®ª²¿ §Tº§! ¢ ¬²¢þ ª²¯, ª±®¿©³¾ Œ°ª §YÐ´¯ª¢²¿ ¬²º§!.\n\n"
+ caste_races_uppercastes_tt:0 "£icon_trigger_no_in_text£ ª¬¥¦\n\n\n§Y[Root.Country.GetName]: ²¢¾ ¯¡ª®¿°²¿§!\n[caste_fluidity_title_check]\n    [Root.casteFluidityBar]\n\nŒ ¬²¢¾ ¯¡ª®¿°²¿ ¦ž² °¯: \n[caste_fluidity_modifier_check]\n\n\n§Y[Root.GetUpper CastesName]: Ðº ¬²§!\n[harimari_in_uppercastes_check]\n[human_in_uppercastes_check]\n\n®ª ¢º ¢®¦² ¦²²¶°º¯ ¬®ª¶²¢¯ ±¢ª°µªþ ¢ ³¡¬°²ª°°², ¢º ¯¨² ¦¡¢ª²¿ ª®ª ³¦®ª²¿ §Tº§! ¢ ¬²¢þ ª²¯, ª±®¿©³¾ Œ°ª §YÐ´¯ª¢²¿ ¬²º§!.\n\n"
  caste_races_uppercastes_dhenijanraj_tt:0 "£icon_trigger_no_in_text£ ª¬¥¦\n\n\n§Y[Root.Country.GetName]: ²¢¾ ¯¡ª®¿°²¿§!\n[caste_fluidity_title_check]\n[Root.casteFluidityBar]\n\nŒ ¬²¢¾ ¯¡ª®¿°²¿ ¦ž² °¯: \n[caste_fluidity_modifier_check]\n\n\n§Y[Root.GetUpper CastesName]: Ðº ¬²§!\n[harimari_in_uppercastes_check]\n[human_in_uppercastes_check][dwarf_in_uppercastes_check][hobgoblin_in_uppercastes_check]\n\n®ª ¢º ¢®¦² ¦²²¶°º¯ ¬®ª¶²¢¯ ±¢ª°µªþ ¢ ³¡¬°²ª°°², ¢º ¯¨² ¦¡¢ª²¿ ª®ª ³¦®ª²¿ §Tº§! ¢ ¬²¢þ ª²¯, ª±®¿©³¾ Œ°ª §YÐ´¯ª¢²¿ ¬²º§!.\n\n"
  caste_races_uppercastes_reformed_tt:0 "£icon_trigger_no_in_text£ ª¬¥¦\n\n\n§Y[Root.Country.GetName]: ²¢¾ ¯¡ª®¿°²¿§!\n[caste_fluidity_title_check]\n[Root.casteFluidityBar]\n\nŒ ¬²¢¾ ¯¡ª®¿°²¿ ¦ž² °¯: \n[caste_fluidity_modifier_check]\n\n\nÏ §Y[Root.Country.GetName]§!§T ±®°²¿½ ³±©¦°°º ¬²º! Ï ²° ³¸²¢³² ±®°¾ µª®¿°¾ ¯¡ª®¿°²¿, ª ¢ º ¯¥³² ¢¡¦° ®¦¢²¿ ¢þ ³¦¿¡.§!\n\n"
  #Caste Organization
@@ -42,12 +42,12 @@
  caste_races_modifier_check_both_tt:0 "£icon_trigger_yes_in_text£ £icon_global_autonomy_in_text£ ¨¯¾¶° ª©¯°°ª ¢²°¯ªª\n£icon_trigger_yes_in_text£ £icon_technology_cost_in_text£ Ô²ª¯²¿ ²°®¥ªþ"
  
  #---------Caste Fluidity-----------#
- caste_fluidity_title_check_rigid_tt:0 "     §m¥°ª¶°°¾§!       §gþ²®¿°¾ §!      §g‚ª¡¬¾§!"
- caste_fluidity_title_check_neutral_tt:0 "     §g¥°ª¶°°¾§!       §mþ²®¿°¾ §!      §g‚ª¡¬¾§!"
- caste_fluidity_title_check_fluid_tt:0 "     §g¥°ª¶°°¾§!       §gþ²®¿°¾ §!      §m‚ª¡¬¾§!"
+ caste_fluidity_title_check_rigid_tt:0 "     §m¥°ª¶.§!       §gþ².§!      §g‚ª¡¬¾§!"
+ caste_fluidity_title_check_neutral_tt:0 "     §g¥°ª¶.§!       §mþ².§!      §g‚ª¡¬¾§!"
+ caste_fluidity_title_check_fluid_tt:0 "     §g¥°ª¶.§!       §gþ².§!      §m‚ª¡¬¾§!"
  
  caste_fluidity_check_rigid_tt:0 "¥°ª¶°°¾"
- caste_fluidity_check_neutral_tt:0 "þ²®¿°¾ "
+ caste_fluidity_check_neutral_tt:0 "þ²®¿°¾"
  caste_fluidity_check_fluid_tt:0 "‚ª¡¬¾"
  
  caste_fluidity_modifier_check_rigid_tt:0 "£icon_trigger_yes_in_text£ £icon_stability_cost_modifier_in_text£ Ô²ª¯²¿ ²¡ª®¿°²ª (§m¥°ª¶°°¾§! ª®ª þ²®¿°¾ )\n£icon_trigger_no_in_text£ £icon_embracement_cost_in_text£ §gÔ²ª¯²¿ ¢°¦°ª¾ ª°²ª²³² (‚ª¡¬¾ ª®ª þ²®¿°¾)§!"
@@ -104,7 +104,7 @@
  estate_uppercastes_right_of_counsel_desc:0 "‰ª©°þ² ¢ºŒª ¬²º ¬¬ ±¢³½ ª °¢°³½ ¥³±±³ ¬²."
  estate_uppercastes_articles_of_war:0 "¦ª´ª¬µª¾ ¢°°º ³²¢¢"
  estate_uppercastes_articles_of_war_desc: "‰©¢®¾¾ °Œª¯ ¢ºŒª¯ ¬²¯ ¬¦ª´ªµª¢²¿ ±¡º ¢¦°ª¾ ¢þ°º, ¯º ²°¦²ª©ª³¯ °Œª ¢°°º ±µº ª ©¦ž¯ ¼´´¬²ª¢°ºþ ±±² ¦®¾ ¡²º."
- estate_uppercastes_nobility_primacy:0 "…±²ª²¿ ±²°°ª¯ ©°ª¯²¿ ¦®¨°²ª ¢°°º ¢²°ª¬¢."
+ estate_uppercastes_nobility_primacy:0 "…¬º²¿ ¢ª°¬ª ¦®¨°²ª ¦®¾ ±²°°ª"
  estate_uppercastes_nobility_primacy_desc:0 "®¿©¾ ¦±³²ª²¿, ¶²¡º ¬²-², ° ±ª°¦®¨¸ªþ ¬ ¬² ¢ª°¢, ¦¢® ¢²º ± ¢°°º¯ ¢±¯, ²¬ ¬¬ ¼² ±²ª¢¶ª² ¥¯°ªª ª ³¸¯®¾² ±¢ ¼²ª ¬²!"
  estate_uppercastes_supremacy_over_crown:0 "Ô©¢²¿ ¯¨¬²¢ºþ ¢²"
  estate_uppercastes_supremacy_over_crown_desc:0 "Ô©¢¢ ¯¨¬²¢ºþ ¢², ¯º ¯¨¯ ±¢ºª²¿ ¥¯°ª½ ¢ ²° ª ±©¢®ª²¿ ¬²¯ ¢º²³±²¿  ±¦®¨°ª¾¯ª ¦®¾ °Œ¥ ±¢ª²®¾ ¢ ¼²¯ ¦®."
